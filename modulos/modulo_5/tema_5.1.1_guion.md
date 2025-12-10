@@ -1,21 +1,20 @@
-# Guión de Audio/Video: ¿De dónde viene la luz?
+# Guion: El Sol es el Jefe
 
-## Introducción (30 segundos)
-
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **¿De dónde viene la luz?**.
-
----
-
-## Desarrollo (2-3 minutos)
-
-[Contenido principal del guión]
+**Personaje**: El Profe Lápiz con linterna
+**Duración**: 2 minutos
 
 ---
 
-## Cierre (30 segundos)
+**(Sonido de click - Linterna encendiéndose y apagándose)**
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
+**Profe Lápiz**: ¿Me ves? (Click) ¿Ahora no? (Click) ¿Ahora sí?
 
----
+**Profe Lápiz**: La luz es la tinta invisible. Sin ella, no vemos nada.
+Pero en el dibujo, tú eres quien controla el sol. ¡Tú eres el jefe!
 
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profe Lápiz**: Antes de poner tu lápiz en el papel para hacer sombras, tienes que hacerte la pregunta del millón:
+**¿Dónde está la luz?**
+
+**Profe Lápiz**: Imagina que la luz es una flecha. Si la flecha golpea la pelota por la derecha, la sombra se esconde a la izquierda. ¡La sombra siempre huye de la luz! Son enemigos.
+
+**Profe Lápiz**: Así que dibuja una flechita en tu papel. Esa será tu brújula. ¡Que no se pierdan tus sombras!

@@ -1,31 +1,35 @@
-# Evaluación: Sombras proyectadas
+# Evaluación: Sombras Proyectadas
 
-## Pregunta 1
-
-**Tipo**: Opción múltiple
-
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
+**Tipo**: Análisis de Errores
 
 ---
 
-## Pregunta 2
+## 1. El Dibujo Flotante
 
-**Tipo**: Práctica
+Mira el dibujo de abajo (imagínalo):
+Un coche. Debajo del coche hay espacio blanco. Más abajo hay una sombra gris.
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+¿Qué está haciendo el coche?
+a) Está estacionado.
+b) Está volando o saltando.
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+## 2. La Hora del Día
+
+Si ves una foto donde la sombra de una persona es MUY LARGA y estirada...
+¿Qué hora es?
+a) Las 12:00 del mediodía (Sol arriba).
+b) Las 6:00 de la tarde (Sol bajando).
+
+## 3. Oscuridad Extrema
+
+¿Dónde debe ser la sombra más negra y oscura?
+a) Lejos del objeto.
+b) Justo donde el objeto toca el suelo (Sombra de oclusión).
 
 ---
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+## Respuestas
+
+1: b
+2: b
+3: b

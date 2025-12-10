@@ -1,21 +1,20 @@
-# Guión de Audio/Video: Sombras proyectadas
+# Guion: El Fantasma y el Ancla
 
-## Introducción (30 segundos)
-
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Sombras proyectadas**.
-
----
-
-## Desarrollo (2-3 minutos)
-
-[Contenido principal del guión]
+**Personaje**: El Profe Lápiz
+**Duración**: 2 minutos
 
 ---
 
-## Cierre (30 segundos)
+**(Sonido de pasos pesados - BOOM... BOOM...)**
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
+**Profe Lápiz**: ¿Escuchas eso? ¡Algo pesado está caminando!
+¿Sabes por qué suena pesado? Porque está pegado al suelo.
 
----
+**Profe Lápiz**: Si dibujas una manzana sin sombra en el piso, parecerá un fantasma flotando. ¡Boo!
+Para que la manzana pese, necesitas un ANCLA. Esa ancla es la **Sombra Proyectada**.
 
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profe Lápiz**: Es una mancha oscura en el suelo, justo debajo del objeto.
+Es como si la manzana dijera: "¡Aquí estoy yo y tapo el sol!".
+
+**Profe Lápiz**: Recuerda: Si la sombra toca el objeto, el objeto toca el suelo. Si la sombra está lejos, ¡el objeto está volando!
+Vamos a ponerle peso a tus dibujos.

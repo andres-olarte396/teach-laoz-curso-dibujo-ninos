@@ -1,37 +1,34 @@
-# Ejercicios: Sombreado con líneas (rayado)
+# Ejercicios: Sombreado a Rayas (Hatching)
 
-## Ejercicio 1: Práctica Básica
+## Ejercicio 1: La Escalera de Rayas
 
-**Nivel**: Principiante  
-**Tiempo**: 10 minutos
+**Objetivo**: Crear tonos usando densidad de líneas.
+**Tiempo**: 15 minutos.
 
 ### Instrucciones
-[Instrucciones detalladas]
 
-### Criterios de éxito
-- [ ] Criterio 1
-- [ ] Criterio 2
+1. Dibuja 4 cuadros.
+2. Cuadro 1: Haz líneas muy separadas `|   |   |`. (Gris claro).
+3. Cuadro 2: Haz líneas más juntas `||||||`. (Gris medio).
+4. Cuadro 3: Haz líneas verticales Y horizontales `######`. (Gris oscuro).
+5. Cuadro 4: Haz verticales, horizontales Y diagonales `******`. (Negro).
 
 ---
 
-## Ejercicio 2: Desafío Intermedio
+## Ejercicio 2: La Serpiente 3D
 
-**Nivel**: Intermedio  
-**Tiempo**: 15 minutos
-
-### Instrucciones
-[Instrucciones detalladas]
-
----
-
-## Ejercicio 3: Proyecto Creativo
-
-**Nivel**: Avanzado  
-**Tiempo**: 20 minutos
+**Objetivo**: Practicar el "Rayado de Contorno".
+**Tiempo**: 20 minutos.
 
 ### Instrucciones
-[Instrucciones detalladas]
 
----
+1. Dibuja una serpiente larga y curva (solo el borde).
+2. Ahora vamos a darle volumen.
+3. Dibuja líneas curvas que abracen su cuerpo, como si fueran anillos.
+4. Pon más líneas en la parte de abajo de la serpiente (sombra) y deja la parte de arriba casi vacía (luz).
 
-*Nota: Los ejercicios serán expandidos con rúbricas detalladas y ejemplos visuales.*
+### Criterios de Éxito
+
+- [ ] Tus líneas siguen la forma del objeto (curvas para la serpiente).
+- [ ] Hay zonas claras y zonas oscuras.
+- [ ] No parece sucio ni rayado al azar.

@@ -1,31 +1,33 @@
-# Evaluación: Sombreado difuminado
+# Evaluación: Difuminado
 
-## Pregunta 1
-
-**Tipo**: Opción múltiple
-
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
+**Tipo**: Verdadero o Falso
 
 ---
 
-## Pregunta 2
+## 1. Herramientas
 
-**Tipo**: Práctica
+¿Cuál de estas cosas NO sirve para difuminar?
+a) El dedo.
+b) Un papel higiénico.
+c) Una lija de madera.
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+## 2. La Regla del Borroso
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+Verdadero o Falso:
+"Para que un dibujo se vea bien, debo difuminar absolutamente TODO, incluyendo los bordes y las líneas negras."
+( ) Verdadero
+( ) Falso
+
+## 3. Limpieza
+
+¿Qué pasa si uso un dedo sucio con grafito oscuro para difuminar una nube blanca?
+a) Se ve genial y misterioso.
+b) Se ve sucio y manchado.
 
 ---
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+## Respuestas
+
+1: c
+2: Falso (Se pierde definición)
+3: b

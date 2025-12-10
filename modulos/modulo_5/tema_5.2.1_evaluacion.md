@@ -1,31 +1,35 @@
-# Evaluación: Sombreado con líneas (rayado)
+# Evaluación: Técnica de Rayado
 
-## Pregunta 1
-
-**Tipo**: Opción múltiple
-
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
+**Tipo**: Identificación Visual
 
 ---
 
-## Pregunta 2
+## 1. Tipos de Rayado
 
-**Tipo**: Práctica
+Une con una línea:
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+1. Líneas paralelas `||||` ............. ( ) Cross-Hatching (Cruzado)
+2. Líneas cruzadas `####` .............. ( ) Contour Hatching (Contorno)
+3. Líneas curvas `((((` ................ ( ) Hatching (Paralelo)
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+## 2. Lógica de Luz
+
+Si quiero que una zona se vea MÁS OSCURA usando rayado, debo:
+a) Presionar más fuerte hasta romper la punta.
+b) Dibujar más líneas juntas y cruzadas.
+c) Usar un borrador.
+
+## 3. Reto Práctico
+
+Dibuja un círculo. Sombreado usando SOLO líneas rectas paralelas `||||`.
+¿Se ve redondo y 3D?
+a) Sí.
+b) No, se ve plano porque las líneas son rectas. (Por eso necesitamos líneas curvas).
 
 ---
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+## Respuestas
+
+1: Cruzado, Paralelo, Contorno (Orden visual)
+2: b
+3: b

@@ -1,21 +1,19 @@
-# Guión de Audio/Video: Sombreado difuminado
+# Guion: Pintando con Polvo
 
-## Introducción (30 segundos)
-
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Sombreado difuminado**.
-
----
-
-## Desarrollo (2-3 minutos)
-
-[Contenido principal del guión]
+**Personaje**: El Profe Lápiz con las manos sucias de gris
+**Duración**: 2 minutos
 
 ---
 
-## Cierre (30 segundos)
+**(Sonido suave - fshhh fshhh)**
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
+**Profe Lápiz**: Mira mis manos. ¡Están grises! He estado difuminando.
+A veces, las rayas del lápiz son muy duras. Queremos dibujar nubes, piel de bebé o humo. Cosas suaves.
 
----
+**Profe Lápiz**: Para eso, convertimos el lápiz en polvo.
+Pintamos suave y luego... ¡frotamos! Puedes usar tu dedo (si está limpio) o un papelito enrollado llamado difumino.
 
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profe Lápiz**: Al frotar, las rayas desaparecen y queda una niebla mágica.
+Pero cuidado, ¡es adictivo! Si difuminas demasiado, todo tu dibujo se verá borroso, como si necesitaras anteojos.
+
+**Profe Lápiz**: El secreto es: Difumina las sombras, pero deja los bordes y brillos limpios. ¡A ensuciarse los dedos!

@@ -1,21 +1,23 @@
-# Guión de Audio/Video: Sombreado con líneas (rayado)
+# Guion: El Secreto del Cómic
 
-## Introducción (30 segundos)
-
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Sombreado con líneas (rayado)**.
-
----
-
-## Desarrollo (2-3 minutos)
-
-[Contenido principal del guión]
+**Personaje**: El Profe Lápiz dibujando en un cuaderno viejo
+**Duración**: 2 minutos
 
 ---
 
-## Cierre (30 segundos)
+**(Sonido de rasguido rápido de pluma - scritch scratch)**
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
+**Profe Lápiz**: ¿Has intentado difuminar con un bolígrafo? ¡Es un desastre! Te manchas todo de tinta.
+Entonces, ¿cómo sombrean los dibujantes de manga y cómics?
 
----
+**Profe Lápiz**: Usan el poder de la MULTITUD.
+Una línea solita es delgada y débil.
+Pero si pones muchas líneas juntas... ¡se vuelven oscuridad!
 
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profe Lápiz**: Esta técnica se llama "Rayado" o "Hatching".
+Es como tejer con el lápiz.
+Si quieres gris claro, separa las líneas.
+Si quieres negro noche, cruza las líneas como una red.
+
+**Profe Lápiz**: Y si lo que dibujas es redondo, ¡tus líneas deben ser curvas! Acaricia la forma.
+¡Vamos a rayar!
