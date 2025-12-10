@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#e3fafc" />
+
+  <!-- Taza Normal (Pequeña) -->
+  <g transform="translate(200, 200)">
+    <rect x="0" y="0" width="60" height="50" fill="#339af0" rx="5"/>
+    <path d="M60,10 Q80,10 80,25 Q80,40 60,40" fill="none" stroke="#339af0" stroke-width="5"/>
+    <text x="0" y="80" font-size="16" fill="#1864ab">Objeto Normal</text>
+  </g>
+
+  <!-- Lupa Grande -->
+  <g transform="translate(450, 150)">
+    <circle cx="100" cy="100" r="100" fill="#fff" stroke="#333" stroke-width="10" opacity="0.9"/>
+    <rect x="180" y="180" width="20" height="100" fill="#333" transform="rotate(-45 190 190)"/> <!-- Mango -->
+    
+    <!-- Taza Vista de Detective (Geometría) -->
+    <g transform="translate(50, 50)">
+       <rect x="25" y="25" width="50" height="50" fill="none" stroke="#fa5252" stroke-width="3" stroke-dasharray="5,5"/> <!-- Cuadrado oculto -->
+       <ellipse cx="50" cy="25" rx="25" ry="10" fill="none" stroke="#fa5252" stroke-width="3" stroke-dasharray="5,5"/> <!-- Elipse boca -->
+       <text x="10" y="100" font-size="20" fill="#fa5252">¡Formas Ocultas!</text>
+    </g>
+  </g>
+
+  <text x="50" y="50" font-family="Arial" font-size="30" fill="#1098ad" font-weight="bold">OJOS DE DETECTIVE</text>
+
+</svg>

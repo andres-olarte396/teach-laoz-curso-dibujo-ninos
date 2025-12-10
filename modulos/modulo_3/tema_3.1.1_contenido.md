@@ -1,56 +1,65 @@
 # Ojos de Detective (Aprender a Ver)
 
-![Perspectiva básica](imagenes/perspectiva_basica.svg)
+![Perspectiva básica](./tema_3.1.1_header.svg)
 
 **Tiempo estimado**: 35 minutos  
 **Nivel**: Intermedio (6+ años)  
-**Prerrequisitos**: Ninguno (solo tus ojos).
+**Prerrequisitos**: Ninguno (solo tus ojos y mucha curiosidad).
 
 ---
 
-## ¿Mirar o Ver?
+## 1. ¿Mirar o Ver? (El Superpoder del Artista)
 
-Hay una diferencia gigante entre **Mirar** y **Observar**.
+Hay una diferencia gigante entre **Mirar** y **Observar**. La mayoría de las personas solo miran, pero los artistas observan.
 
-* **Mirar**: Es rápido. "Ah, eso es un zapato".
-* **Observar**: Es lento. "Es un zapato azul, con agujetas blancas, una mancha de lodo en la punta y la suela gastada".
+* **Mirar 👁️**: Es rápido y superficial. "Ah, eso es un zapato". Tu cerebro le pone una etiqueta y sigue adelante.
+* **Observar 🕵️**: Es lento y detallado. "Es un zapato azul desgastado, con agujetas blancas cruzadas, una mancha de lodo en la punta y la suela un poco chueca".
 
-Para dibujar bien, tienes que convertirte en un **Detective Visual**. No puedes adivinar cómo son las cosas; tienes que *investigarlas*.
-
----
-
-## El Cerebro es un Mentiroso
-
-Tu cerebro quiere trabajar poco.
-Cuando ve un ojo, te dice: *"Dibuja un círculo con un punto"*.
-¡Pero un ojo no es así! Tiene forma de almendra, tiene párpados, tiene pestañas, tiene brillo.
-
-Si le haces caso a tu cerebro, dibujas símbolos (como caritas felices).
-Si le haces caso a tus ojos, dibujas la realidad.
+**Tu Misión**: Para dibujar bien, tienes que convertirte en un **Detective Visual**. No puedes adivinar cómo son las cosas; tienes que *investigarlas* con tus ojos hasta descubrir sus secretos.
 
 ---
 
-## Herramientas de Detective
+## 2. El Cerebro es un "Mentiroso" (Eficiencia vs. Realidad)
 
-### 1. El Dibujo a Ciegas (La Mano Tonta)
+Tu cerebro es increíble, pero también es un poco perezoso. Quiere trabajar poco para ahorrar energía.
 
-Este es un juego divertido para callar al cerebro.
+Cuando ve un ojo, te dice: *"¡Rápido! Dibuja un símbolo de ojo (un círculo con un punto)"*.
+¡Pero un ojo real no es así! Tiene forma de almendra, tiene párpados que lo cubren, tiene pestañas, tiene un brillo húmedo y el iris tiene texturas.
 
-1. Pon un objeto frente a ti.
-2. Pon el lápiz en el papel.
-3. ¡NO MIRES EL PAPEL!
-4. Mira solo el objeto. Mueve el lápiz siguiendo los bordes del objeto.
-5. Tu mano es como un robot que obedece a tus ojos.
+* Si le haces caso a tu **cerebro**, dibujas **símbolos** (como los emojis 😀).
+* Si le haces caso a tus **ojos**, dibujas la **realidad**.
 
-### 2. Los Espacios Vacíos (El Agujero de Dona)
-
-A veces es difícil dibujar una silla. ¡Tiene muchas patas!
-Truco: No dibujes la silla. **Dibuja los huecos de aire** que hay entre las patas.
-Si dibujas bien los huecos... ¡la silla aparece mágicamente!
+> **Preconcepto Clave**: **Simbolismo**. Los símbolos son dibujos simplificados que representan algo, pero no se parecen exactamente a la cosa real. Debemos aprender a "apagar" el modo símbolo.
 
 ---
 
-## Entrenamiento Diario
+## 3. Herramientas de Detective
 
-¿Quieres ojos de artista?
-Mira algo (tu mano, una hoja, un insecto) durante 1 minuto SIN hacer nada más. Busca 5 detalles secretos que nadie más notaría.
+### Herramienta 1: El Dibujo a Ciegas (Contorno Ciego)
+
+Este es un juego divertido para "engañar" a tu cerebro lógico y obligarlo a observar.
+
+1. Pon un objeto frente a ti (tu mano, una fruta, un juguete).
+2. Pon el lápiz en el papel en una posición cómoda.
+3. **¡REGLA DE ORO: NO MIRES EL PAPEL!** 🚫👀
+4. Mira SOLO el objeto. Imagina que la punta de tu lápiz está tocando el objeto real.
+5. Mueve tus ojos milímetro a milímetro por el borde del objeto, y mueve tu mano exactamente a la misma velocidad.
+6. *No importa si el dibujo sale "feo" o deforme. ¡El objetivo es conectar tus ojos con tu mano!*
+
+### Herramienta 2: Los Espacios Vacíos (El Espacio Negativo)
+
+A veces es difícil dibujar una silla porque nuestro cerebro se confunde con tantas patas.
+**Truco Maestro**: No dibujes la silla. **Dibuja los huecos de aire** que hay entre las patas.
+
+Si te concentras en dibujar las formas de los huecos (que suelen ser triángulos o rectángulos simples), ¡la silla aparecerá mágicamente en medio! A esto los artistas lo llaman **Espacio Negativo**.
+
+---
+
+## 4. Entrenamiento Diario
+
+¿Quieres ojos de artista? Practica esto:
+Mira algo ordinario (tu mano, una hoja, un insecto) durante 1 minuto completo SIN hacer nada más. Busca **5 detalles secretos** que nadie más notaría (una pequeña arruga, un cambio de color, una sombra).
+
+## Galería de Inspiración
+
+![Concepto de Observación](./tema_3.1.1_extra_concept.svg)
