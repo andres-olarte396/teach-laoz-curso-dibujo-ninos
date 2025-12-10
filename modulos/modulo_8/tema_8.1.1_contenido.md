@@ -8,32 +8,32 @@
 
 ---
 
-## El Secreto del Robot
+## 1. El Secreto del Robot
 
 ¿Crees que dibujar personas es difícil?
-Es porque intentas dibujarlo todo junto (ropa, pelo, dedos).
-¡Alto! Primero tienes que construir el **Maniquí**.
+Eso es porque intentas dibujarlo todo junto (ropa, pelo, dedos) al mismo tiempo. ¡Imposible!
+Primero tienes que construir el **Maniquí (Robot)**.
 
-Imagina que somos robots hechos de piezas simples:
+Imagina que somos robots hechos de piezas geométricas simples:
 
-1. **Cabeza**: Un HUEVO.
-2. **Cuerpo**: Una CAJA DE CEREAL.
-3. **Brazos y Piernas**: TUBOS (Salchichas).
-
----
-
-## Reglas de Conexión
-
-1. **El Cuello**: La cabeza no flota. Conéctala a la caja con un tubo corto.
-2. **Los Hombros**: Los brazos NO salen de la cintura, ni del cuello. Salen de las **esquinas de arriba** de la caja.
-3. **El Largo**: Las piernas son más largas que los brazos. (Si no, pareceríamos gorilas).
+1. **Cabeza**: Un HUEVO (Ovalo).
+2. **Cuerpo**: Una CAJA DE CEREAL (Rectángulo).
+3. **Brazos y Piernas**: TUBOS FLEXIBLES (Cilindros/Salchichas).
+4. **Articulaciones**: ESFERAS (Círculos) en codos y rodillas.
 
 ---
 
-## Pasos
+## 2. Reglas de Conexión (Dónde pegar las piezas)
 
-1. Dibuja el Huevo (Cabeza).
-2. Dibuja la Caja (Cuerpo) debajo.
-3. Pon círculos en las esquinas (Hombros y Caderas). son los tornillos.
-4. Conecta los Tubos (Brazos y Piernas).
-¡Listo! Tienes un humano básico.
+1. **El Cuello**: La cabeza no flota mágicamente. Conéctala a la caja con un tubo corto.
+2. **Los Hombros**: Los brazos NO salen del cuello (parecería un monstruo). Salen de las **esquinas de arriba** de la caja.
+3. **El Largo**: Las piernas son más largas que los brazos. (Si las haces iguales, pareceremos gorilas).
+
+---
+
+## 3. Pasos de Construcción
+
+1. **Esqueleto**: Dibuja una línea suave para saber qué postura tiene.
+2. **Volumen**: Dibuja el Huevo, la Caja y los Tubos encima de la línea.
+3. **Vestido**: Ahora sí, ponle ropa y pelo encima de tu robot.
+    * ¡Ya tienes un humano sólido!
