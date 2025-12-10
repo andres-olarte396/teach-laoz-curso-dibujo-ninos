@@ -1,0 +1,9 @@
+¡Bienvenido, ingeniero jefe! Hoy la fábrica está bajo tu control.
+
+Lo mejor de dibujar robots es que tú inventas las reglas. ¿Quieres un robot con tres ojos? ¡Hazlo! ¿Un robot con ruedas en vez de pies? ¡Adelante!
+
+Solo hay un truco para que se vean bien: Usa tus formas geométricas.
+
+Yo-soy-un-robot. Mi-cabeza-es-un-cuadrado. Mi-panza-es-un-rectángulo.
+
+No olvides los detalles. Un robot necesita botones, luces, antenas y cables. Si te sale una línea chueca, ¡di que es un cable suelto! Bip-bip... ¡a trabajar!
