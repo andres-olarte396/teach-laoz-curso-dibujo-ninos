@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#f1f3f5" />
+
+  <!-- Zig zag (Rayo) -->
+  <path d="M50,200 L100,100 L150,300 L200,100 L250,200" fill="none" stroke="#fcc419" stroke-width="8" stroke-linejoin="round"/>
+  <text x="80" y="350" font-family="Arial" font-size="20" fill="#fcc419">¡ENERGÍA!</text>
+
+  <!-- Ondas (Mar) -->
+  <path d="M300,200 Q325,150 350,200 Q375,250 400,200 Q425,150 450,200 Q475,250 500,200" fill="none" stroke="#339af0" stroke-width="8" stroke-linecap="round"/>
+  <text x="350" y="350" font-family="Arial" font-size="20" fill="#339af0">Calma</text>
+
+  <!-- Bucles (Viento) -->
+  <path d="M550,200 C550,100 600,100 600,200 C600,300 650,300 650,200 C650,100 700,100 700,200" fill="none" stroke="#ae3ec9" stroke-width="8" stroke-linecap="round"/>
+  <text x="580" y="350" font-family="Arial" font-size="20" fill="#ae3ec9">Diversión</text>
+
+</svg>

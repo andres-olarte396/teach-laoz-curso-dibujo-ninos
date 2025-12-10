@@ -1,37 +1,28 @@
-# Evaluación: Líneas que cuentan historias
+# Evaluación: Crítico de Cine
 
 ## Pregunta 1
 
-Si dibujas un personaje corriendo hacia la derecha, ¿dónde deberías poner las "líneas de velocidad"?
+Si dibujo un avión y quiero que parezca que vuela muy rápido hacia adelante, ¿dónde pongo las líneas de velocidad?
 
-- A) Delante de él (a la derecha).
-- B) Detrás de él (a la izquierda).
-- C) Encima de su cabeza.
+- A) Adelante del avión (para que se tropiece).
+- B) Atrás del avión (como el humo que deja al pasar).
+- C) Encima del avión.
 
 ## Pregunta 2
 
-¿Qué tipo de línea comunica mejor la idea de **"Electricidad"** o **"Peligro"**?
+¿Qué emoción sientes si ves muchas líneas en ZIGZAG, fuertes y picudas (como rayos)?
 
-- A) Una línea curva y suave.
-- B) Una línea recta horizontal.
-- C) Una línea quebrada en Zig-Zag (como un rayo).
+- A) Calma y sueño.
+- B) Peligro, electricidad o enojo.
 
-## Pregunta 3
+## Misión de Observación
 
-En un cómic, si quieres mostrar que un personaje está **temblando** de miedo o frío, ¿cómo dibujas su contorno?
+Mira un cómic o una caricatura. Busca:
 
-- A) Con una línea súper recta y firme.
-- B) Con una línea temblorosa o vibrante.
-- C) Con una línea invisible.
+- [ ] ¿Encontraste líneas de movimiento cuando corren?
+- [ ] ¿Encontraste gotitas de sudor cuando están nerviosos?
 
-## Pregunta 4
+## Reto Final
 
-Verdadero o Falso:
-"Las líneas de impacto (rayitas que salen de un centro hacia afuera) sirven para mostrar que dos objetos chocaron o explotaron."
-
-- ( ) Verdadero
-- ( ) Falso (Sirven para mostrar silencio).
-
-## Ejercicio Rápido
-
-Dibuja una pelota. Ahora agrégale 3 líneas para que parezca que está CAYENDO a toda velocidad desde el cielo.
+Dibuja una **Taza de Chocolate Caliente**.
+¡Usa líneas para mostrar que está MUY caliente! (Pista: Humo ondulado ~~~).

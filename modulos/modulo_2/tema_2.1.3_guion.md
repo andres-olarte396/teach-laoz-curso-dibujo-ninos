@@ -1,13 +1,17 @@
-# Guion: Líneas que cuentan historias
+# Guion: Efectos Especiales
 
-**(Sonido de coche de carreras pasando rápido: VROOOOM)**
+**(Sonido de coche de carreras: ¡VROOOOM!)**
 
-**Profesor**: "¿Vieron eso? ¡Fue rapidísimo! Pero... en un dibujo, las cosas no se mueven. ¿Cómo hacemos para que parezca que corren?"
+**Profe Lápiz**: "¡Wow! ¿Vieron eso? ¡Iba rapidísimo!"
 
-**Profesor**: "Usamos las Líneas de Movimiento. Si dibujas unas rayas horizontales detrás de un coche, ¡automáticamente parece veloz!"
+**Profe Lápiz**: "Pero... esperen. En un dibujo nada se mueve. ¿Cómo le decimos a los ojos que ese coche va a mil por hora?"
 
-**(Sonido de golpe: BOING)**
+**Profe Lápiz**: "¡Con líneas mágicas! Si dibujamos rayitas horizontales detrás del coche... ¡Fiuuum! Parece que deja una estela de velocidad."
 
-**Profesor**: "Si dibujas líneas en zigzag alrededor de un golpe, ¡duele más! Las líneas son los efectos especiales del dibujante."
+**(Sonido de golpe: ¡PUUUM!)**
 
-**Profesor**: "Podemos dibujar el viento, el frío (líneas temblorosas), el calor (líneas onduladas) y hasta el grito (burbuja con picos). ¡Vamos a convertirnos en directores de cine con nuestro lápiz!"
+**Profe Lápiz**: "Si alguien se cae, dibujamos una estrella de picos alrededor. ¡Eso duele!"
+
+**Profe Lápiz**: "Si alguien tiene frío, dibujamos líneas temblorosas brrr. Si alguien está enamorado, dibujamos corazones flotando."
+
+**Profe Lápiz**: "Hoy tú eres el director de efectos especiales. ¡Ponle acción a esos dibujos!"

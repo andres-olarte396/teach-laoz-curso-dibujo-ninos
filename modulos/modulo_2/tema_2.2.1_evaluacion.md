@@ -1,37 +1,30 @@
-# Evaluación: Puntos, rayas y cuadrículas
+# Evaluación: Detective de Patrones
 
 ## Pregunta 1
 
-¿Qué pasa con el tono de tu dibujo si dibujas puntos (o rayas) muy **juntos**?
+Si dibujas muchos puntos pegaditos unos con otros, ¿tu dibujo se ve más CLARO o más OSCURO?
 
-- A) Se ve más claro (blanco).
-- B) Se ve más oscuro (sombra).
-- C) El papel se rompe.
+- A) Más Claro (Blanco).
+- B) Más Oscuro (Sombra).
 
 ## Pregunta 2
 
-¿Cómo se llama la técnica de sombrear usando líneas cruzadas (verticales y horizontales)?
+¿Qué patrón usarías para dibujar el **pasto** de un jardín?
 
-- A) Cross-hatching (Tramado cruzado).
-- B) Puntilismo.
-- C) Garabateo.
+- A) Cuadrículas perfectas (como una reja).
+- B) Rayitas cortas hacia arriba (como pelitos).
 
-## Pregunta 3
+## Reto de Paciencia
 
-Si quieres dibujar la textura de una **pelota de baloncesto** porosa, ¿qué patrón funciona mejor?
+Toma un cuadrito de papel (pequeño).
+Llénalo de puntos hasta que se vea gris oscuro.
 
-- A) Rayas largas y rectas.
-- B) Puntos (punteado).
-- C) Cuadrícula perfecta.
+- [ ] ¡Lo logré sin rayar! (Puros puntos).
+- [ ] Me desesperé y empecé a hacer rayas (¡Inténtalo de nuevo!).
 
-## Pregunta 4
+## Pregunta Visual
 
-Verdadero o Falso:
-"Para hacer texturas, siempre debes usar reglas para que los patrones salgan matemáticamente perfectos."
+Si ves un dibujo con rayas diagonales cruzadas (haciendo X), eso se llama:
 
-- ( ) Verdadero
-- ( ) Falso (A mano alzada se ve más natural y orgánico, especialmente para cosas como pasto o pelo).
-
-## Ejercicio Rápido
-
-En un cuadrito de papel de 3x3 cm, intenta oscurecerlo usando SOLAMENTE puntos. ¡No vale rayar!
+- A) Relleno de cuadros.
+- B) Tramado o Hatching (para sombras fuertes).

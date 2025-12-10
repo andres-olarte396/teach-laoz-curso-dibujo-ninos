@@ -1,31 +1,30 @@
-# Ejercicios: Líneas suaves y líneas fuertes
+# Ejercicios: Laboratorio de Texturas
 
-## Ejercicio 1: Escalas de Intensidad
+## Ejercicio 1: La Nube y la Roca
 
-**Objetivo**: Dominar los extremos del trazo.
+**Objetivo**: Sentir la diferencia.
 
 **Instrucciones**:
 
-1. **Escala Suave**: Dibuja 5 líneas horizontales. La primera debe ser casi invisible (susurro). Las siguientes aumentan un poquito, pero sin dejar de ser suaves. La última es gris medio.
-2. **Escala Fuerte**: Dibuja 5 líneas horizontales. La primera es gris medio. La última debe ser NEGRA y profunda (grito), trazada con velocidad y confianza.
+1. A la izquierda, dibuja una **Nube**. Usa líneas curvas, suaaaaaves, casi invisibles. Pasa tu dedo para difuminar.
+2. A la derecha, dibuja una **Roca**. Usa líneas rectas, fuertes y rápidas. ¡Clac, clac!
+3. Compara: ¿Cuál se ve más pesada?
 
 ## Ejercicio 2: El Guerrero y la Mariposa
 
-**Objetivo**: Usar diferentes líneas para diferentes objetos.
+**Objetivo**: Dibujar personajes opuestos.
 
 **Instrucciones**:
 
-1. Divide la hoja en dos.
-2. **Lado A (La Mariposa)**: Dibuja una mariposa, una flor o una nube. Usa SOLO líneas suaves, curvas y delicadas. Si presionas fuerte, pierdes.
-3. **Lado B (El Guerrero)**: Dibuja una espada, una roca o un rayo. Usa SOLO líneas fuertes, rectas y marcadas. Ataca el papel con el lápiz.
+1. Dibuja una **Espada** o un **Robot**. Ataca el papel. Líneas negras y rectas.
+2. Dibuja una **Mariposa** volando cerca. Acaricia el papel. Líneas curvas y grises.
 
-## Ejercicio 3: Dibujo Táctil
+## Ejercicio 3: Materiales Misteriosos
 
-**Objetivo**: Que el dibujo transmita la sensación del material.
+**Objetivo**: Dibujar lo que sientes.
 
 **Instrucciones**:
 
-1. Busca en tu casa algo de **Metal** (duro) y algo de **Algodón** (suave).
-2. Dibuja el objeto de Metal con líneas rápidas, rectas y fuertes.
-3. Dibuja el objeto de Algodón con líneas lentas, curvas y difusas.
-4. Pídele a alguien que toque el dibujo (con cuidado) y adivine cuál es cuál solo mirando el tipo de línea.
+1. Imagina una **Pelota de Algodón**. Dibújala (suave).
+2. Imagina una **Bala de Cañón**. Dibújala (fuerte/pesada).
+3. Imagina una **Burbuja de Jabón**. Dibújala (suave/transparente).

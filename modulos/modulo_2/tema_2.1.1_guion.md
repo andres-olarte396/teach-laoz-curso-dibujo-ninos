@@ -1,20 +1,13 @@
-# Guion: Líneas gruesas y delgadas
+# Guion: El Volumen del Lápiz
 
-**(Sonido de lápiz suave scritch-scritch)**
+**(Sonido de lápiz suave: scritch-scritch)**
 
-**Profesor**: "¿Alguna vez han tratado de susurrar... y luego gritar?"
+**Profe Lápiz**: "(Susurrando) Hola... ¿Me escuchan? Estoy hablando con voz de línea delgada. Apenas toco el papel. Soy suave como una pluma."
 
-**(Sonido de susurro)** "Hola..."
-**(Sonido fuerte)** "¡HOLA!"
+**(Sonido fuerte: SCRAAAATCH)**
 
-**Profesor**: "En el dibujo, las líneas también tienen voz. Una línea delgadita y suave es como un susurro. Una línea gruesa y oscura es como un grito fuerte."
+**Profe Lápiz**: "(Gritando) ¡HOLA! ¡Ahora soy una línea GRUESA! ¡Soy fuerte y pesado!"
 
-**Profesor**: "El secreto es la PRESIÓN. Imaginen que su lápiz es un botón. Si lo aprietan suave, línea fina. Si lo aprietan fuerte, línea gorda."
+**Profe Lápiz**: (Voz normal) "Tu lápiz puede hacer las dos cosas. El secreto es la fuerza de tu mano. Si aprietas mucho, el lápiz grita. Si acaricias el papel, el lápiz susurra."
 
-**Profesor**: "¿Para qué sirve? Para la magia de la distancia."
-
-**(Sonido de eco)**
-
-**Profesor**: "Las cosas que están lejos se ven borrosas y suaves (línea fina). Las cosas que están cerca se ven claras y fuertes (línea gruesa)."
-
-**Profesor**: "¡Vamos a practicar nuestro 'volumen' de dibujo!"
+**Profe Lápiz**: "Los mejores dibujos tienen las dos. Usamos líneas fuertes para decir '¡Mírame!' y líneas suaves para detalles secretos. ¡Vamos a practicar la fuerza!"

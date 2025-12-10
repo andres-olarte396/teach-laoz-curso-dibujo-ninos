@@ -1,37 +1,34 @@
-# Ejercicios: Texturas de la naturaleza
+# Ejercicios: Explorador de la Naturaleza
 
-## Ejercicio 1: El Museo de Ciencias Naturales
+## Ejercicio 1: El Muestrario Científico
 
-**Objetivo**: Observar y replicar patrones orgánicos.
+**Objetivo**: Copiar la "piel" de las cosas.
+
+**Instrucciones**:
+Dibuja 4 círculos. Convierte cada uno en una textura diferente:
+
+1. **Bola de Pelo**: Llénala de rayitas cortas saliendo hacia afuera.
+2. **Bola de Piedra**: Hazle grietas y puntitos.
+3. **Bola de Agua**: Hazle ondas y burbujas.
+4. **Bola de Madera**: Hazle vetas (líneas curvas como un mapa).
+
+## Ejercicio 2: El Árbol Imposible
+
+**Objetivo**: Jugar con texturas.
 
 **Instrucciones**:
 
-1. Dibuja 4 rectángulos vacíos.
-2. Llénalos imitando estas superficies:
-    * **Escamas de Pez**: (Pista: Usa la letra "U" repetida muchas veces).
-    * **Corteza de Árbol**: (Pista: Líneas verticales arrugadas e irregulares).
-    * **Pasto**: (Pista: Líneas cortas y rápidas hacia arriba, como "V" o "I").
-    * **Piedra**: (Pista: Líneas quebradas y puntos para los granitos de arena).
+1. Dibuja un árbol grande sin hojas.
+2. En vez de hojas normales, ¡invenntale una textura rara!
+    * ¿Hojas de nubes?
+    * ¿Hojas de fuego?
+    * ¿Hojas de ladrillo?
 
-## Ejercicio 2: El Árbol de la Vida
+## Ejercicio 3: El Paisaje Rápido
 
-**Objetivo**: Aplicar texturas a un objeto completo.
-
-**Instrucciones**:
-
-1. Dibuja el contorno de un árbol grande (tronco y copa).
-2. No lo pintes ni lo sombrees con gris. ¡Usa texturas!
-3. En el tronco, dibuja las líneas de la madera.
-4. En la copa, dibuja pequeños garabatos o bucles para simular miles de hojas.
-5. En el suelo, dibuja rayitas verticales para el pasto.
-
-## Ejercicio 3: Agua Viva
-
-**Objetivo**: Capturar el movimiento con líneas.
+**Objetivo**: Usar la sugerencia (no dibujar todo).
 
 **Instrucciones**:
 
-1. Dibuja tres vasos con agua "invisibles" (solo el contorno).
-2. **Vaso 1 (Quieto)**: Dibuja una línea horizontal perfecta para la superficie.
-3. **Vaso 2 (Agitado)**: Dibuja líneas onduladas irregulares (~).
-4. **Vaso 3 (Hirviendo)**: Dibuja círculos y burbujas saltando.
+1. Dibuja una línea de horizonte.
+2. Dibuja un campo de pasto, pero **SOLO dibuja pasto en las esquinas de abajo**. Deja el centro vacío. (¿Ves cómo tu cerebro igual "ve" pasto en todo el dibujo?).

@@ -1,37 +1,27 @@
-# Evaluación: Líneas suaves y líneas fuertes
+# Evaluación: Detector de Sensaciones
 
 ## Pregunta 1
 
-Si quieres dibujar una **burbuja de jabón** transparente y ligera, ¿qué tipo de línea es la mejor?
+Si quieres dibujar un **bebé durmiendo** en una nube, ¿qué tipo de línea usarías?
 
-- A) Una línea negra, gruesa y fuerte.
-- B) Una línea suave, delgada y tal vez discontinua.
-- C) Una línea roja.
+- A) Línea Fuerte, negra y picuda (estilo Robot).
+- B) Línea Suave, gris y borrosa (estilo Algodón).
 
 ## Pregunta 2
 
-¿Qué emoción transmite generalmente una línea **fuerte, oscura y angulosa**?
+¿Cuál es el secreto para hacer una línea "fantasma" (muy suave)?
 
-- A) Calma y sueño.
-- B) Energía, tensión, fuerza o enojo.
-- C) Silencio.
+- A) Agarrar el lápiz lejos de la punta y acostarlo.
+- B) Apretar el lápiz con las dos manos.
 
 ## Pregunta 3
 
-Para lograr una línea suave con efecto "difuminado", ¿qué puedes hacer además de presionar poco?
+Observa tu dibujo de la Roca y la Nube.
 
-- A) Usar el dedo o un difumino para suavizar el trazo.
-- B) Dibujar más rápido.
-- C) Usar un bolígrafo.
+- [ ] ¿La Roca se ve dura?
+- [ ] ¿La Nube se ve blandita?
 
-## Pregunta 4
+## Reto Extra
 
-Verdadero o Falso:
-"Los dibujos de robots y maquinaria se ven mejor con líneas suaves y temblorosas."
-
-- ( ) Verdadero
-- ( ) Falso (Generalmente requieren líneas fuertes y definidas para mostrar la dureza del metal).
-
-## Ejercicio Rápido
-
-Dibuja una pequeña **nube** con línea suave y abajo una **piedra** con línea fuerte. ¡Siente la diferencia en tu mano!
+Dibuja un **Cactus**.
+¿Qué líneas usas para las espinas? (¡Deben verse filosas!).

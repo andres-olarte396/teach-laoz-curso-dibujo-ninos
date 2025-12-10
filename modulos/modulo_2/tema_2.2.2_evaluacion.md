@@ -1,37 +1,28 @@
-# Evaluación: Texturas de la naturaleza
+# Evaluación: Experto en Naturaleza
 
 ## Pregunta 1
 
-Si quieres dibujar un **campo de pasto**, ¿cuál es la mejor estrategia?
+Para dibujar un bosque lleno de árboles...
 
-- A) Dibujar cada hojita de pasto con regla, una por una, contando hasta un millón.
-- B) Dibujar manchas de líneas verticales cortas y rápidas sugiriendo la textura, sin rellenar todo el papel.
-- C) Pintarlo todo de verde sólido.
+- A) Tienes que dibujar cada hoja, una por una (millones).
+- B) Dibujas algunas hojas y usas garabatos/texturas para sugerir el resto.
 
 ## Pregunta 2
 
-¿Qué patrón de líneas funciona mejor para representar la **corteza rugosa** de un árbol?
+¿Qué líneas usas para dibujar el agua de un río tranquilo?
 
-- A) Líneas perfectamente rectas y pulidas.
-- B) Líneas verticales irregulares, rotas y con grosores variados.
-- C) Círculos perfectos.
+- A) Líneas quebradas y duras (zigzag).
+- B) Líneas onduladas y suaves (~).
 
-## Pregunta 3
+## Reto de Observación
 
-Para dibujar **escamas** (de pez o dragón), ¿qué forma básica repetimos?
+Sal al patio o mira por la ventana. Busca algo que tenga textura "Rugosa".
 
-- A) La forma de U o corchetes pequeños.
-- B) La forma de X.
-- C) La forma de Z.
+- [ ] Dibújalo rápido aquí: [Espacio]
 
-## Pregunta 4
+## Pregunta Final
 
-Verdadero o Falso:
-"Las piedras y rocas deben dibujarse con líneas curvas y suaves como nubes."
+Si tu dibujo se ve "plano" y aburrido, ¿qué le falta?
 
-- ( ) Verdadero
-- ( ) Falso (Generalmente usan líneas quebradas y angulosas para mostrar dureza).
-
-## Ejercicio Rápido
-
-Mira la palma de tu mano. Trata de dibujar en un rincón del papel las líneas principales que ves (la textura de tu piel).
+- A) Más color rojo.
+- B) Texturas (puntos, rayas y patrones).

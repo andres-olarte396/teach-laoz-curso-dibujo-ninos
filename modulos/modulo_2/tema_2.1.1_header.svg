@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#f8f9fa" />
+
+  <!-- Línea Gruesa -->
+  <path d="M100,100 Q400,50 700,100" fill="none" stroke="#333" stroke-width="20" stroke-linecap="round"/>
+  <text x="350" y="80" font-family="Arial" font-size="20">Gruesa</text>
+
+  <!-- Línea Media -->
+  <path d="M100,200 Q400,150 700,200" fill="none" stroke="#333" stroke-width="10" stroke-linecap="round"/>
+  <text x="350" y="180" font-family="Arial" font-size="20">Media</text>
+
+  <!-- Línea Delgada -->
+  <path d="M100,300 Q400,250 700,300" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <text x="350" y="280" font-family="Arial" font-size="20">Delgada</text>
+
+  <!-- Lápiz dibujando -->
+  <g transform="translate(700, 300) rotate(-45)">
+    <path d="M0,0 L20,0 L10,30 Z" fill="#fab005"/> <!-- Punta -->
+    <rect x="0" y="-80" width="20" height="80" fill="#fab005"/>
+    <rect x="0" y="-100" width="20" height="20" fill="#fa5252"/> <!-- Borrador -->
+  </g>
+
+</svg>

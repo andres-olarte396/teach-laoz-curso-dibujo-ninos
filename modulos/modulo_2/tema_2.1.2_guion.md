@@ -1,19 +1,19 @@
-# Guion: Líneas suaves y líneas fuertes
+# Guion: Música para tus Ojos
 
-**(Música de balada suave)**
+**(Música de cuna muy suave)**
 
-**Profesor**: "Imaginen que están acariciando a un conejito bebé. ¿Cómo mueven su mano? Suave, ¿verdad?"
+**Profe Lápiz**: "(Voz relajada) Imagina que estás tocando la piel de un durazno... o una nube... o el pelo de un conejito. Tu mano se mueve lento, suave..."
 
-**(Sonido de lápiz muy suave)**
+**(Sonido de trazo suave)**
 
-**Profesor**: "Así dibujamos las cosas delicadas: nubes, flores, pelo de bebé. Apenas tocamos el papel. Es como un susurro gráfico."
+**Profe Lápiz**: "Así hacemos las **Líneas Suaves**. Acariciamos el papel. Apenas dejamos huella."
 
-**(Cambio a música de Rock pesado)**
+**(Sonido de guitarra eléctrica: ¡TA-DAAAA!)**
 
-**Profesor**: "Ahora imaginen que son un karateka rompiendo una tabla. ¡KIAI!"
+**Profe Lápiz**: "(Voz energética) ¡Pero ahora imagina que eres un karateka! ¡O un robot gigante de acero! Tus movimientos son rápidos, duros, ¡fuertes!"
 
-**(Sonido de rasguño fuerte)**
+**(Sonido de trazo rápido: ¡ZAS!)**
 
-**Profesor**: "Así dibujamos las cosas fuertes: rocas, robots, explosiones. El lápiz ataca el papel. Es un grito de energía."
+**Profe Lápiz**: "Así hacemos las **Líneas Fuertes**. Cortamos el papel con el lápiz. Sin miedo."
 
-**Profesor**: "Un buen dibujante no usa siempre la misma fuerza. A veces es un hada madrina (suave) y a veces es un guerrero del espacio (fuerte). ¡Aprendan a cambiar de personaje!"
+**Profe Lápiz**: "Un buen dibujante sabe cuándo ser un conejito y cuándo ser un karateka. ¡Vamos a probar!"

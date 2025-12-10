@@ -1,33 +1,34 @@
-# Ejercicios: Puntos, rayas y cuadrículas
+# Ejercicios: Laboratorio de Texturas
 
-## Ejercicio 1: El Laboratorio de Texturas
+## Ejercicio 1: La Escala de Hormigas (Puntos)
 
-**Objetivo**: Experimentar con los 3 patrones básicos.
-
-**Instrucciones**:
-
-1. Divide tu hoja en 3 franjas horizontales.
-2. **Franja 1 (Puntos)**: Crea un degradado. Empieza con puntos muy juntos a la izquierda (oscuridad) y ve separándolos hacia la derecha (luz).
-3. **Franja 2 (Rayas)**: Haz lo mismo con rayas verticales. Juntas = oscuro. Separadas = claro.
-4. **Franja 3 (Cuadrícula)**: Dibuja una red de cuadros. Luego, rellena algunos cuadros al azar para crear un diseño tipo ajedrez roto.
-
-## Ejercicio 2: Sombreado sin manchas
-
-**Objetivo**: Usar tramas (hatching) para dar volumen.
+**Objetivo**: Entender que "más puntos = más oscuro".
 
 **Instrucciones**:
 
-1. Dibuja una manzana simple (solo el contorno).
-2. No uses el dedo ni difumines.
-3. Para la parte oscura de la manzana, usa **Rayado Cruzado** (rayas verticales + horizontales).
-4. Para la parte media, usa **Rayado Simple** (solo diagonales).
-5. Para la parte de luz, deja el papel blanco.
+1. Dibuja 3 cuadrados.
+2. **Cuadrado 1 (Día)**: Pon solo 10 puntitos separados. (Se ve blanco/claro).
+3. **Cuadrado 2 (Tarde)**: Pon 50 puntitos más juntos. (Se ve gris).
+4. **Cuadrado 3 (Noche)**: Pon MILLONES de puntitos pegaditos (sin encimarlos demasiado). (Se ve casi negro).
 
-## Ejercicio 3: Lluvia y Nieve
+## Ejercicio 2: El Clima en Rayas
 
-**Objetivo**: Asociar patrones con elementos naturales.
+**Objetivo**: Usar rayas para efectos.
 
 **Instrucciones**:
 
-1. **Lluvia**: Dibuja una nube y usa rayas diagonales rápidas para simular lluvia fuerte. Intenta que todas tengan el mismo ángulo.
-2. **Nieve**: Dibuja otra nube y usa puntos dispersos y suaves para simular nieve cayendo lentamente.
+1. **Lluvia**: Dibuja una nube. Abajo haz rayas diagonales rápidas (///).
+2. **Pasto**: Dibuja el suelo. Haz rayitas cortas hacia arriba, como pelitos (||| VV).
+3. **Mar**: Dibuja ondas suaves horizontales (~~~).
+
+## Ejercicio 3: Sombreado Cruzado (Nivel Ninja)
+
+**Objetivo**: Crear sombra fuerte.
+
+**Instrucciones**:
+
+1. Dibuja una pelota (círculo).
+2. Imagina que la sombra está abajo.
+3. Dibuja rayas diagonales (///) en la parte de abajo.
+4. Dibuja rayas diagonales al revés (\\\) encima de las primeras.
+5. ¡Mira cómo se oscurece y parece una red! (Esto se llama "Hatching").

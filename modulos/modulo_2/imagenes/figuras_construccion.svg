@@ -1,0 +1,18 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #E3F2FD; }
+    .block { fill: #90CAF9; stroke: #1E88E5; stroke-width: 2; }
+    .triangle { fill: #A5D6A7; stroke: #43A047; stroke-width: 2; }
+    .circle { fill: #FFCC80; stroke: #FB8C00; stroke-width: 2; }
+    .crane { stroke: #546E7A; stroke-width: 2; }
+  </style>
+  <rect width="400" height="300" class="bg"/>
+  <!-- Grúa simple -->
+  <line x1="40" y1="240" x2="120" y2="120" class="crane"/>
+  <line x1="120" y1="120" x2="200" y2="120" class="crane"/>
+  <line x1="200" y1="120" x2="200" y2="160" class="crane"/>
+  <!-- Bloques de construcción con formas -->
+  <rect x="140" y="200" width="60" height="40" rx="6" class="block"/>
+  <polygon points="170,180 140,200 200,200" class="triangle"/>
+  <circle cx="240" cy="220" r="20" class="circle"/>
+</svg>

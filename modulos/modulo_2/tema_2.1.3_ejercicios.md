@@ -1,38 +1,36 @@
-# Ejercicios: Líneas que cuentan historias
+# Ejercicios: Director de Acción
 
-## Ejercicio 1: Efectos Especiales
+## Ejercicio 1: ¡Haz que se mueva
 
-**Objetivo**: Dar movimiento a objetos estáticos.
+**Objetivo**: Dar velocidad a objetos quietos.
 
 **Instrucciones**:
 
-1. Dibuja 3 círculos simples (pelotas).
-    * **Pelota 1 (Cayendo)**: Dibuja líneas verticales rectas arriba de ella.
-    * **Pelota 2 (Rebotando)**: Dibuja una línea curva de trayectoria y unas líneas de "impacto" en el suelo.
-    * **Pelota 3 (Rodando)**: Dibuja una espiral dentro o líneas horizontales detrás.
-2. ¡Haz que se muevan sin animación!
+1. Dibuja una **Pelota** (círculo).
+2. ¡Haz que caiga del cielo! (Dibuja líneas verticales arriba de ella).
+3. ¡Haz que rebote! (Dibuja un arco de movimiento y una estrellita de impacto en el suelo).
+4. ¡Haz que ruede! (Dibuja una espiral adentro o líneas de polvo atrás).
 
 ## Ejercicio 2: El Diario de Emociones
 
-**Objetivo**: Expresar sentimientos sin dibujar caras.
+**Objetivo**: Expresar sentimientos sin caras.
 
 **Instrucciones**:
 
 1. Dibuja 4 cuadros vacíos.
-2. En cada cuadro, llena el espacio con líneas que representen una emoción (¡solo líneas, no dibujos!):
-    * **Enojo**: (Pista: Usa zig-zags fuertes y apretados).
-    * **Calma**: (Pista: Usa ondas suaves y horizontales).
-    * **Confusión**: (Pista: Usa espirales y garabatos revueltos).
-    * **Alegría**: (Pista: Usa curvas saltarinas y burbujas).
+2. Llénalos solo con líneas que representen:
+    * **Cuadro 1: Enojo** (Zigzags fuertes, rayos).
+    * **Cuadro 2: Calma** (Olas suaves del mar).
+    * **Cuadro 3: Fiesta** (Confeti, espirales, estrellas).
+    * **Cuadro 4: Miedo** (Líneas temblorosas y chuecas).
 
-## Ejercicio 3: Mini-Cómic Mudo
+## Ejercicio 3: Cómic Mudo (Sin palabras)
 
-**Objetivo**: Narrar una secuencia simple.
+**Objetivo**: Contar una historia.
 
 **Instrucciones**:
+Dibuja 3 cuadros:
 
-1. Piensa en "Alguien se resbala con una cáscara de plátano".
-2. **Cuadro 1**: El personaje caminando (Líneas de ritmo tranquilo).
-3. **Cuadro 2**: El pie pisando la cáscara (Líneas de sorpresa/impacto pequeñito).
-4. **Cuadro 3**: El personaje volando por el aire (Líneas de velocidad curvas).
-5. **Cuadro 4**: El golpe en el suelo (Líneas de explosión/impacto grande "Ouch").
+1. Un personaje camina tranquilo (Líneas de ritmo).
+2. ¡Se tropieza con una piedra! (Líneas de sorpresa y desequilibrio).
+3. ¡Cae al suelo! (Estrella de impacto "PUM").

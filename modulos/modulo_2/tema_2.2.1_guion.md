@@ -1,13 +1,17 @@
-# Guion: Puntos, rayas y cuadrículas
+# Guion: El Código Secreto
 
-**(Sonido de máquina de escribir: tac-tac-tac)**
+**(Sonido de pájaro carpintero: Tac-tac-tac)**
 
-**Profesor**: "El dibujo tiene un alfabeto secreto. Solo tiene tres letras: El Punto, La Raya y la Cuadrícula."
+**Profe Lápiz**: "¿Escuchan eso? Es el sonido del PUNTILLISMO. Miles de puntitos creando una figura."
 
-**(Sonido de lluvia)**
+**Profe Lápiz**: "Hoy vamos a aprender el alfabeto secreto del dibujo. Solo tiene 3 letras: Punto, Raya y Red."
 
-**Profesor**: "¿Cómo dibujamos la lluvia? ¡Con rayas! ¿Cómo dibujamos la arena de la playa? ¡Con puntos! ¿Cómo dibujamos una camisa de leñador? ¡Con cuadrículas!"
+**Profe Lápiz**: "Si quieres dibujar arena... ¿qué usas? ¡PUNTOS!"
+**(Sonido suave: tic tic tic)**
 
-**Profesor**: "Si dominas estos tres patrones, puedes dibujar cualquier textura del mundo. No necesitas colores. Si pones muchos puntos juntos, se ve oscuro como la noche. Si los pones separados, se ve claro como la niebla."
+**Profe Lápiz**: "Si quieres dibujar lluvia... ¿qué usas? ¡RAYAS!"
+**(Sonido rápido: Shhh shhh)**
 
-**Profesor**: "Hoy vamos a llenar el papel de ritmos y patrones. ¡1, 2, 3, punto! ¡1, 2, 3, raya!"
+**Profe Lápiz**: "Si quieres dibujar una camisa de cuadros... ¡REDES!"
+
+**Profe Lápiz**: "Si usas estas tres cosas, nunca más tendrás que 'colorear' todo aburridamente. ¡Vamos a texturizar el mundo!"

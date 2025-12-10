@@ -1,13 +1,15 @@
-# Guion: Texturas de la naturaleza
+# Guion: Tocando con los Ojos
 
-**(Sonido de bosque: pajaritos cantando y viento en las hojas)**
+**(Sonido de viento y hojas secas)**
 
-**Profesor**: "Cierren los ojos. Imaginen que tocan el tronco rugoso de un árbol viejo. Ahora imaginen que tocan la superficie lisa de un lago."
+**Profe Lápiz**: "Cierra los ojos. Imagina que pasas la mano por la corteza de un árbol viejo. Es rugosa, ¿verdad? Raspa un poquito."
 
-**Profesor**: "Cada cosa en la naturaleza tiene su propia 'firma'. Y nosotros podemos copiarla con líneas."
+**(Sonido de raspar madera)**
 
-**Profesor**: "Para el pasto, hacemos líneas rápidas hacia arriba: ¡Chas, chas, chas! Para el agua, hacemos líneas onduladas y perezosas: Ssssss..."
+**Profe Lápiz**: "Ahora imagina que metes la mano en un río fresco. El agua se escapa entre tus dedos. Es suave y resbalosa."
 
-**(Sonido de ondas de agua)**
+**(Sonido de agua)**
 
-**Profesor**: "El truco es NO dibujar cada hoja del árbol. ¡Tardaríamos años! Dibujamos el 'patrón' de las hojas, y el cerebro del espectador hace el resto. ¡Vamos a explorar!"
+**Profe Lápiz**: "Cuando dibujamos, queremos que la gente 'sienta' esas cosas con los ojos. Si dibujas una piedra, ¡haz que se vea dura! Si dibujas un gatito, ¡haz que se vea suave!"
+
+**Profe Lápiz**: "Hoy vamos a darle 'piel' a nuestros dibujos. ¡Manos a la obra!"
