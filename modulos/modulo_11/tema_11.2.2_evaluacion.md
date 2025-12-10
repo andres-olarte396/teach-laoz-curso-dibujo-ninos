@@ -1,31 +1,37 @@
-# Evaluación: Arena, tela y otros materiales
+# Evaluación: Manchas divertidas (Tinta y imaginación)
 
 ## Pregunta 1
 
-**Tipo**: Opción múltiple
+¿Qué es la **Pareidolia**?
 
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
-
----
+- A) Una marca de pintura.
+- B) La capacidad del cerebro para reconocer formas familiares (como caras o animales) en estímulos vagos o aleatorios (como nubes o manchas).
+- C) Un tipo de pincel.
 
 ## Pregunta 2
 
-**Tipo**: Práctica
+En la técnica de "Blow Painting" (Pintura soplada), ¿para qué usamos el popote?
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+- A) Para bebernos la pintura.
+- B) Para empujar la pintura con aire y crear formas orgánicas (ramas, rayos) que no podríamos dibujar a mano.
+- C) Para hacer agujeros en el papel.
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+## Pregunta 3
 
----
+¿Cuál es el paso más importante ANTES de dibujar con plumón sobre tu mancha de acuarela?
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+- A) Esperar a que se SEQUE completamente.
+- B) Ponerle más agua.
+- C) Borrar la mancha.
+
+## Pregunta 4
+
+Verdadero o Falso:
+"Si se te cae una gota de tinta por accidente en tu dibujo final, debes tirarlo a la basura inmediatamente."
+
+- ( ) Verdadero
+- ( ) Falso (¡Intégralo! Convierte la mancha en un pájaro, una roca o parte del fondo. Adáptate).
+
+## Ejercicio Rápido
+
+Cierra los ojos y haz un garabato rápido en un papel aparte. Ábrelos. ¿Qué ves en ese garabato? (Un pato, un zapato, una cara...).

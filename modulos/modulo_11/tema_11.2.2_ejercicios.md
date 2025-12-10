@@ -1,37 +1,38 @@
-# Ejercicios: Arena, tela y otros materiales
+# Ejercicios: Manchas divertidas (Tinta y imaginación)
 
-## Ejercicio 1: Práctica Básica
+## Ejercicio 1: Pareidolia (Ver caras)
 
-**Nivel**: Principiante  
-**Tiempo**: 10 minutos
+**Objetivo**: Entrenar el cerebro para encontrar formas en el caos.
 
-### Instrucciones
-[Instrucciones detalladas]
+**Instrucciones**:
 
-### Criterios de éxito
-- [ ] Criterio 1
-- [ ] Criterio 2
+1. Pide a alguien que haga 3 garabatos rápidos (ojos cerrados) en tu hoja.
+2. Míralos desde diferentes ángulos (gira la hoja).
+3. Encuentra una figura en cada garabato y delinéala con color.
+4. ¡No vale decir "no veo nada"! Esfuérzate.
 
----
+## Ejercicio 2: Monstruos de Tinta (Soplado)
 
-## Ejercicio 2: Desafío Intermedio
+**Objetivo**: Crear personajes dinámicos sin dibujar el cuerpo.
 
-**Nivel**: Intermedio  
-**Tiempo**: 15 minutos
+**Instrucciones**:
 
-### Instrucciones
-[Instrucciones detalladas]
+1. Pon una gota grande de tinta/acuarela en el papel.
+2. Sopla con un popote en varias direcciones para crear "patas" o "pelos".
+3. Deja secar.
+4. Si la mancha tiene patas largas -> Es un monstruo corredor. Ponle tenis.
+5. Si la mancha es redonda y peluda -> Es un monstruo miedoso. Ponle ojos grandes.
+6. Si la mancha parece explosión -> Es un monstruo eléctrico.
 
----
+## Ejercicio 3: Espejo Rorschach
 
-## Ejercicio 3: Proyecto Creativo
+**Objetivo**: Crear simetría y criaturas alienígenas.
 
-**Nivel**: Avanzado  
-**Tiempo**: 20 minutos
+**Instrucciones**:
 
-### Instrucciones
-[Instrucciones detalladas]
-
----
-
-*Nota: Los ejercicios serán expandidos con rúbricas detalladas y ejemplos visuales.*
+1. Dobla una hoja por la mitad y ábrela.
+2. Pon pintura de 3 colores en el pliegue central.
+3. Cierra y aplasta fuerte con la mano.
+4. Abre con cuidado.
+5. Observa la figura simétrica. ¿Parece un insecto? ¿Una máscara? ¿Un dragón?
+6. Dibuja los detalles faltantes (antenas, ojos, dientes) con plumón negro.

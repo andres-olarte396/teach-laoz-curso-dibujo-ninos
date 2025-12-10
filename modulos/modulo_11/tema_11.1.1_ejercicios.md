@@ -1,37 +1,36 @@
-# Ejercicios: Acuarelas y crayones juntos
+# Ejercicios: Magia con cera y agua
 
-## Ejercicio 1: Práctica Básica
+## Ejercicio 1: El Mensaje Secreto
 
-**Nivel**: Principiante  
-**Tiempo**: 10 minutos
+**Objetivo**: Entender la mecánica básica de la resistencia.
 
-### Instrucciones
-[Instrucciones detalladas]
+**Instrucciones**:
 
-### Criterios de éxito
-- [ ] Criterio 1
-- [ ] Criterio 2
+1. Toma un crayón BLANCO.
+2. Escribe tu nombre o una palabra secreta en el centro de tu hoja blanca. Haz trazos gruesos (pasa el crayón 2 o 3 veces).
+3. Moja tu pincel con mucha agua y un poco de pintura (roja o azul).
+4. Pasa el pincel por encima de tu escritura.
+5. ¡Mira cómo aparece el mensaje!
 
----
+## Ejercicio 2: Lluvia Invisible
 
-## Ejercicio 2: Desafío Intermedio
+**Objetivo**: Crear texturas atmosféricas.
 
-**Nivel**: Intermedio  
-**Tiempo**: 15 minutos
+**Instrucciones**:
 
-### Instrucciones
-[Instrucciones detalladas]
+1. Dibuja gotas de lluvia, charcos y nubes usando crayón BLANCO y GRIS CLARO.
+2. Presiona fuerte.
+3. Prepara acuarela AZUL OSCURO (o Negro diluido).
+4. Pinta todo el papel.
+5. El resultado será una tormenta nocturna donde la lluvia brilla.
 
----
+## Ejercicio 3: Peces Luminosos
 
-## Ejercicio 3: Proyecto Creativo
+**Objetivo**: Usar colores neón con fondo oscuro (contraste).
 
-**Nivel**: Avanzado  
-**Tiempo**: 20 minutos
+**Instrucciones**:
 
-### Instrucciones
-[Instrucciones detalladas]
-
----
-
-*Nota: Los ejercicios serán expandidos con rúbricas detalladas y ejemplos visuales.*
+1. Usa tus crayones más brillantes (Amarillo, Naranja, Verde Limón, Rosa).
+2. Dibuja peces simples, medusas y algas. ¡Rellenalos bien de cera!
+3. Pinta todo el fondo con acuarela AZUL MARINO o NEGRA.
+4. La pintura oscura se irá al fondo y tus peces parecerán lámparas de neón.

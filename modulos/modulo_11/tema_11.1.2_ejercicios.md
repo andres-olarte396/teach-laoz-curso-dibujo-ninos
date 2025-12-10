@@ -1,37 +1,39 @@
-# Ejercicios: Collage y dibujo
+# Ejercicios: Recortes y pegamento (Collage)
 
-## Ejercicio 1: Práctica Básica
+## Ejercicio 1: El Rompecabezas de Colores
 
-**Nivel**: Principiante  
-**Tiempo**: 10 minutos
+**Objetivo**: Encontrar texturas en lugar de dibujar formas.
 
-### Instrucciones
-[Instrucciones detalladas]
+**Instrucciones**:
 
-### Criterios de éxito
-- [ ] Criterio 1
-- [ ] Criterio 2
+1. Busca en una revista vieja.
+2. Encuentra y recorta:
+    * Un pedazo grande de color **AZUL** (cielo, mar, jeans).
+    * Un pedazo mediano de color **VERDE** (pasto, lechuga).
+    * Un pedazo pequeño de color **ROJO** (coche, vestido, manzana).
+3. Pégalos en tu hoja para hacer un paisaje: Azul arriba, Verde abajo, Rojo en el medio (como una casa o flor).
 
----
+## Ejercicio 2: Personajes Locos
 
-## Ejercicio 2: Desafío Intermedio
+**Objetivo**: Crear seres híbridos divertidos.
 
-**Nivel**: Intermedio  
-**Tiempo**: 15 minutos
+**Instrucciones**:
 
-### Instrucciones
-[Instrucciones detalladas]
+1. Recorta la cabeza de una persona.
+2. Recorta el cuerpo de un animal (o una cafetera, o un coche).
+3. Recorta piernas de otra persona (o ruedas).
+4. Pega todo junto para crear un personaje nuevo.
+5. Usa un plumón para dibujarle brazos o antenas si le faltan partes.
 
----
+## Ejercicio 3: Autorretrato Estilo Picasso
 
-## Ejercicio 3: Proyecto Creativo
+**Objetivo**: Jugar con la composición del rostro.
 
-**Nivel**: Avanzado  
-**Tiempo**: 20 minutos
+**Instrucciones**:
 
-### Instrucciones
-[Instrucciones detalladas]
-
----
-
-*Nota: Los ejercicios serán expandidos con rúbricas detalladas y ejemplos visuales.*
+1. Dibuja un óvalo grande en tu papel (será la cara).
+2. Busca en revistas: Un ojo grande, un ojo pequeño, una nariz de lado, una boca sonriendo.
+3. Pégalos dentro del óvalo pero... ¡en desorden!
+    * Pon un ojo más arriba que el otro.
+    * Pon la boca un poco chueca.
+4. El resultado es una obra de arte moderna.

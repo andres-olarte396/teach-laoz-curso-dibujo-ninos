@@ -1,21 +1,17 @@
-# Guión de Audio/Video: Arena, tela y otros materiales
+# Guion: Manchas divertidas (Tinta y imaginación)
 
-## Introducción (30 segundos)
+**(Sonido de soplido fuerte fuuuuuu y gotas cayendo plop)**
 
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Arena, tela y otros materiales**.
+**Profesor**: "¡Ups! Se me cayó la tinta. ¿Arruiné el dibujo?"
 
----
+**Profesor**: "¡NO! En el arte, los accidentes son regalos. Hoy vamos a manchar a propósito."
 
-## Desarrollo (2-3 minutos)
+**Profesor**: "¿Han mirado las nubes y visto formas de animales? Eso se llama Pareidolia. Es cuando tu cerebro juega a imaginar."
 
-[Contenido principal del guión]
+**Profesor**: "Vamos a hacer monstruos de viento. Pongan una gota de pintura y... ¡SOPLEN con el popote! ¡Fuuuuuu!"
 
----
+**(Sonido de burbujas)**
 
-## Cierre (30 segundos)
+**Profesor**: "Miren como corre la tinta. Parecen raíces, o patas de araña, o pelo loco. ¡Nadie sabe qué va a salir!"
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
-
----
-
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profesor**: "Una vez que se seque, tomen su plumón. Esa mancha... ¿tiene cara de enojada o de feliz? Ustedes deciden. ¡Denle vida a la mancha!"

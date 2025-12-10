@@ -1,21 +1,17 @@
-# Guión de Audio/Video: Collage y dibujo
+# Guion: Recortes y pegamento (Collage)
 
-## Introducción (30 segundos)
+**(Sonido de tijeras cortando papel scritch-scratch y papel arrugándose)**
 
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Collage y dibujo**.
+**Profesor**: "¡Hola artistas! Hoy guarden sus lápices. Vamos a dibujar... ¡con TIJERAS!"
 
----
+**Profesor**: "Esto se llama Collage. Es una palabra elegante para decir 'cortar y pegar'. A veces, cuando dibujamos, nos preocupamos mucho: '¡Ay, no me sale la nariz! ¡Ay, el ojo me quedó chueco!'."
 
-## Desarrollo (2-3 minutos)
+**Profesor**: "Con el collage, eso no pasa. Si necesitas una nariz, ¡buscas una foto de una nariz en una revista y la recortas! Tienes la nariz perfecta en dos segundos."
 
-[Contenido principal del guión]
+**(Sonido de pegamento destapándose pop)**
 
----
+**Profesor**: "Lo más divertido es mezclar. Puedes ponerle cabeza de gato al cuerpo de un bebé. O ponerle ruedas de coche a una piña. ¡Ustedes son los doctores Frankenstein del papel!"
 
-## Cierre (30 segundos)
+**Profesor**: "Recuerden usar poco pegamento. Solo una gotita en las esquinas. Si ponen mucho, el papel se moja y se rompe. ¡Sean suaves!"
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
-
----
-
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profesor**: "¡Vamos a recortar!"
