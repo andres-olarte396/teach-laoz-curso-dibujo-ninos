@@ -4,44 +4,43 @@
 
 **Tiempo estimado**: 45 minutos  
 **Nivel**: Intermedio  
-**Prerrequisitos**: Tener lápiz y dedo.
+**Prerrequisitos**: Tener lápiz y dedo (o difumino).
 
 ---
 
-## El Truco de Inflar
+## 1. El Truco de Inflar
 
-Si dibujas un círculo y lo pintas todo igual... parece una moneda aplastada (Plano 2D).
-Si quieres que parezca una pelota (Volumen 3D), necesitas **3 Ingredientes Secretos**:
+Si dibujas un círculo y lo pintas todo del mismo color... parece una moneda aplastada (Plano 2D).
+Si quieres que parezca una pelota inflada (Volumen 3D), necesitas **3 Ingredientes Secretos**:
 
-### 1. El Brillo (Luz)
+### Ingrediente 1: El Brillo (Luz Alta) ✨
 
-Es el punto blanco donde pega la luz.
-¡NO lo pintes! Deja el blanco del papel.
+Es el punto exacto donde la luz golpea más fuerte.
+**¡Truco!** NO lo pintes con color blanco. Deja el blanco del papel virgen.
 
-### 2. El Tono Medio (Gris)
+### Ingrediente 2: El Tono Medio (Color Real) 🎨
 
-Es el color normal de la pelota.
-Píntalo suavecito.
+Es el color normal de la pelota (rojo, gris, azul). Píntalo con fuerza media.
 
-### 3. La Sombra (Oscuridad)
+### Ingrediente 3: La Sombra Propia (Oscuridad) 🌑
 
-Es el lado opuesto a la luz.
-Aquí aprieta el lápiz con fuerza.
+Es el lado opuesto a la luz, donde no llegan los rayos. Aquí aprieta el lápiz con fuerza.
 
 ---
 
-## Cómo Mezclar (Degradado)
+## 2. Cómo Mezclar: El Degradado
 
-Para que se vea real, no puedes tener rayas separadas (Blanco | Gris | Negro).
-Tienes que mezclarlos suavemente, como si fuera humo.
-Puedes usar tu dedo para frotar el lápiz y suavizarlo.
+Para que se vea real, no puedes tener rayas separadas tipo bandera (Blanco | Gris | Negro). ¡Eso se ve rayado!
+Tienes que crear un **Degradado**: una mezcla suave donde el color cambia poco a poco, como el cielo al atardecer o el humo.
 
 ---
 
-## La Escalera de Valores
+## 3. La Escalera de Valores (Tu Fuerza)
 
-Antes de empezar, practica tu fuerza.
+Antes de empezar, practica tu control de fuerza (Presión del lápiz):
 
-* Nivel 1: Apenas toca el papel (Gris clarito).
-* Nivel 5: Aprieta con rabia (Negro total).
-Necesitas todos los niveles para hacer una buena esfera.
+* **Nivel 1 (Pluma)**: Apenas toca el papel (Gris clarito).
+* **Nivel 3 (Normal)**: Fuerza normal de escribir.
+* **Nivel 5 (Roca)**: Aprieta con fuerza (Negro total).
+
+Necesitas usar TODOS los niveles en un solo dibujo para que se vea realmente 3D.

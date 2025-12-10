@@ -8,33 +8,35 @@
 
 ---
 
-## La Pregunta del Millón
+## 1. La Pregunta del Millón (La Fuente de Luz)
 
 Antes de hacer cualquier dibujo, tienes que preguntarte:
 **"¿De dónde viene la luz?"**
 
-* Si no lo sabes, tus sombras estarán locas.
-* Si lo sabes, tu dibujo tendrá **VOLUMEN** (se verá gordito y real).
+* Si no lo sabes, tus sombras estarán locas y apuntando a todos lados.
+* Si lo sabes, tu dibujo tendrá **VOLUMEN** (se verá gordito, real y 3D).
+
+A esto le llamamos **Fuente de Luz** (puede ser el Sol, una lámpara o una vela).
 
 ---
 
-## El Secreto: La Luz y la Sombra son Enemigos
+## 2. El Secreto: Rivales Eternos
 
-Imagina que la luz es una flecha.
-Si la flecha golpea a una pelota por la **Derecha**:
+Imagina que la luz es una lluvia de flechas brillantes.
+Si las flechas golpean a una pelota por la **Derecha**:
 
-* El lado derecho se pone Brillante (Luz).
-* El lado izquierdo se esconde y se pone Oscuro (Sombra).
+1. **LUZ**: El lado derecho recibe los flechazos y se pone Brillante.
+2. **SOMBRA**: El lado izquierdo se esconde detrás de la pelota y se pone Oscuro.
 
-**Regla de Oro**: La sombra siempre huye de la luz. Siempre está en el lado opuesto.
+> **Regla de Oro**: La sombra es tímida. Siempre huye de la luz. Si la luz viene de la derecha, la sombra se esconde a la izquierda.
 
 ---
 
-## Cómo usar "La Flecha"
+## 3. Cómo usar "La Flecha Guía"
 
-Muchos artistas profesionales dibujan una pequeña flechita (o un sol chiquito) en la esquina de su papel.
+Muchos artistas profesionales dibujan una pequeña flechita (o un sol chiquito) en la esquina de su papel antes de empezar.
 Así nunca se les olvida de dónde viene la luz.
 
-* Flecha arriba -> Sombra abajo.
-* Flecha derecha -> Sombra izquierda.
-* Flecha de frente -> ¡Casi no hay sombra!
+* Flecha desde **Arriba** -> Sombra abajo (Como al mediodía).
+* Flecha desde la **Derecha** -> Sombra a la izquierda (Como al atardecer).
+* Flecha de **Frente** -> ¡Casi no hay sombras visibles! (Como con el flash de una cámara).

@@ -4,38 +4,38 @@
 
 **Tiempo estimado**: 40 minutos  
 **Nivel**: Intermedio  
-**Prerrequisitos**: Tener dedo o papelito.
+**Prerrequisitos**: Tener dedo o papel higiénico.
 
 ---
 
-## Pintando con Polvo
+## 1. Pintando con Polvo
 
-A veces no quieres rayas (hatching).
-Quieres piel suave, nubes de algodón o vidrio liso.
+A veces no quieres que se noten las rayas. Quieres dibujar Piel de bebé, Nubes de algodón o Vidrio liso.
 Para eso usamos el **DIFUMINADO**.
 
-Es como magia: Conviertes las rayas duras en humo suave.
+Es como magia: Conviertes las rayas duras de grafito en una niebla suave y continua.
 
 ---
 
-## Herramientas Mágicas
+## 2. Herramientas Mágicas
 
-1. **Tu Dedo**: Es la herramienta #1. Pero cuidado: la grasa de tu dedo puede manchar el papel si no te lavas las manos.
-2. **Papel de Baño**: Enrolla un cuadrito en tu dedo. ¡Es perfecto y limpio!
-3. **Difumino**: Un lápiz de papel que venden en las tiendas (para profesionales).
-
----
-
-## Cómo hacerlo bien
-
-1. **Pinta suave**: Pon grafito en el papel sin apretar.
-2. **Frota**: Pasa tu dedo (o papel) haciendo circulitos.
-3. **Limpia**: Si te sales de la raya, usa tu goma.
+1. **Tu Dedo**: Es la herramienta más fácil. *Advertencia*: La grasa natural de tu piel puede manchar el dibujo con el tiempo.
+2. **Papelis (Papel de Baño)**: Enrolla un cuadrito en tu dedo. ¡Es perfecto, limpio y barato!
+3. **Difumino (Tortillon)**: Un lápiz hecho de papel enrollado que usan los profesionales. Permite difuminar detalles chiquitos (como pestañas).
 
 ---
 
-## ¡Cuidado con el Dedo Sucio
+## 3. Técnica Ninja
 
-Si usaste tu dedo para difuminar una sombra negra... ¡tu dedo ahora es negro!
-Si tocas una parte blanca de tu dibujo, dejarás una huella digital sucia.
-**Regla**: Límpiate el dedo o usa un ladito limpio del papel de baño.
+1. **Pinta suave**: Pon una capa de grafito en el papel sin apretar (haz garabatos suaves).
+2. **Frota**: Pasa tu papelito o dedo haciendo **circulitos pequeños**. No  frotes como borrando, frota para mezclar.
+3. **Limpia**: El difuminado es salvaje, se sale de las líneas. Usa tu goma para limpiar los bordes y recuperar el brillo.
+
+---
+
+## 4. ¡Alerta de Dedo Sucio
+
+Si usaste tu dedo para difuminar una sombra negra... ¡tu dedo ahora es un arma de destrucción masiva!
+Si tocas por accidente una parte blanca de tu dibujo (como el brillo del ojo), dejarás una huella digital negra imposible de borrar.
+
+**Regla**: Límpiate el dedo constantemente o gira el papelito para usar un lado limpio.
