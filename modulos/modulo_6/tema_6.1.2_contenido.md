@@ -8,39 +8,41 @@
 
 ---
 
-## El Mundo no es Plano
+## 1. El Mundo no es Plano
 
-El papel es plano (2D). El mundo es profundo (3D).
-¿Cómo metemos el mundo en el papel?
-¡Haciendo un Sándwich!
+Tu hoja es plana (2D), pero el mundo real es profundo (3D).
+¿Cómo metemos un mundo entero en una hoja delgada?
+¡Haciendo un Sándwich de Realidad!
 
-Imagina que tu dibujo tiene 3 capas:
+Imagina que tu dibujo tiene **3 Capas** transparentes:
 
-### 1. Primer Plano (Cerca)
+### Capa 1: Primer Plano (Lo que puedes tocar) ✋
 
-* Está abajo en el papel.
-* Se ve **GIGANTE**.
-* Tiene muchos detalles y colores fuertes.
-* (Ejemplo: Una roca, un arbusto, tu mano).
+* **Posición**: Abajo de la hoja.
+* **Tamaño**: GIGANTE.
+* **Detalle**: Ves cada pelito, cada textura. Colores fuertes.
+* **Ejemplo**: Una roca, un arbusto, tu propia mano.
 
-### 2. Plano Medio (Acción)
+### Capa 2: Plano Medio (La Historia) 🏃
 
-* Está en el medio.
-* Tamaño normal.
-* Aquí pasa la historia principal.
-* (Ejemplo: El caballo corriendo, la casa).
+* **Posición**: En el medio.
+* **Tamaño**: Normal.
+* **Detalle**: Aquí pasa la acción principal.
+* **Ejemplo**: El caballo corriendo, la casa, el héroe.
 
-### 3. Fondo (Lejos)
+### Capa 3: Fondo (El Decorado) 🏔️
 
-* Está arriba en el papel.
-* Se ve **PEQUEÑITO**.
-* Colores suaves y borrosos.
-* (Ejemplo: Montañas, sol, nubes).
+* **Posición**: Arriba de la hoja.
+* **Tamaño**: Diminuto (hormigas).
+* **Detalle**: Borroso, colores suaves y azulados.
+* **Ejemplo**: Montañas, sol, nubes, ciudades lejanas.
 
 ---
 
-## Superposición (Tapar cosas)
+## 2. Superposición (El Secreto de Tapar)
 
-En la vida real, las cosas se tapan.
-Si dibujas todo separado para que "se vea bien"... se verá falso.
-¡Deja que el árbol tape la casa! Eso crea profundidad.
+En la vida real, las cosas se tapan unas a otras.
+Si en tu dibujo separas al perro, al árbol y a la casa para que no se toquen... ¡se verá FALSO!
+
+**Regla PRO**: Deja que el árbol (Primer Plano) tape un pedazo de la casa (Plano Medio). Y que la casa tape un pedazo de la montaña (Fondo).
+¡Eso crea profundidad instantánea!

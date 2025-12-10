@@ -8,35 +8,41 @@
 
 ---
 
-## ¿Tu dibujo se cae?
+## 1. ¿Tu dibujo se cae de lado?
 
-Imagina que tu dibujo es un plato que llevas con una sola mano.
+Imagina que tu dibujo es una bandeja de mesero que llevas con una sola mano.
 
-* Si pones toda la comida a la izquierda... ¡se te cae el plato!
-* Si pones toda la comida a la derecha... ¡se te cae también!
+* Si pones todos los personajes a la izquierda... ¡la bandeja se cae!
+* Si dibujas todo a la derecha... ¡se cae también!
 
-Necesitas **EQUILIBRIO** (Balance).
-Hay dos formas de lograrlo:
-
-### 1. El Espejo (Simetría)
-
-Pones exactamente lo mismo a la izquierda y a la derecha.
-
-* Ejemplo: Una mariposa, una cara, un palacio.
-* Se siente: Serio, quieto, perfecto.
-
-### 2. El Juego de Pesos (Asimetría)
-
-Pones cosas diferentes, pero que pesan lo mismo.
-
-* Izquierda: Una Roca Gigante (Pesa mucho).
-* Derecha: Tres pajaritos y una nube (Pesan poco, pero juntos equilibran a la roca).
-* Se siente: Divertido, natural.
+Necesitas **EQUILIBRIO** (Balance). Para que tu dibujo no se sienta "mareado", tienes que repartir el peso.
 
 ---
 
-## ¿Qué pesa en un dibujo?
+## 2. Los Dos Tipos de Balanza
 
-* Lo **Oscuro** pesa más que lo Claro.
-* Lo **Grande** pesa más que lo Pequeño.
-* Lo **Rojo** pesa más que lo Azul.
+### A. El Espejo (Simetría) 🦋
+
+Pones exactamente lo mismo a la izquierda y a la derecha.
+
+* *Ejemplo*: Una mariposa, una cara humana, la entrada de un palacio.
+* *Sensación*: Serio, sagrado, perfecto, aburrido.
+
+### B. El Juego de Pesos (Asimetría) ⚖️
+
+Pones cosas **diferentes**, pero que pesan lo mismo en la balanza.
+
+* *Lado Izquierdo*: Una Gran Roca Gigante (Pesa mucho).
+* *Lado Derecho*: 3 pajaritos volando y una nube (Pesan poco individualmente, pero juntos equilibran a la roca).
+* *Sensación*: Divertido, natural, emocionante.
+
+---
+
+## 3. ¿Qué "pesa" en un dibujo?
+
+Tus ojos sienten que algunas cosas son más pesadas que otras:
+
+* **Lo Oscuro** pesa más que lo Claro.
+* **Lo Grande** pesa más que lo Pequeño.
+* **El Color Rojo** pesa más que el Azul.
+* **Las Personas** pesan más que los objetos (porque nos gusta mirar caras).

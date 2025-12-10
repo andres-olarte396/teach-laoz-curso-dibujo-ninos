@@ -8,31 +8,37 @@
 
 ---
 
-## El Síndrome de la Hormiga
+## 1. El Síndrome de la Hormiga
 
-Muchos niños dibujan todo chiquitito en el puro centro de la hoja.
-El resto del papel queda blanco y vacío.
-¡Parece una isla desierta en medio del océano!
+Muchos niños (y adultos) dibujan todo chiquitito en el puro centro de la hoja.
+El resto del papel queda blanco y vacío, como un océano gigante.
+Tu dibujo parece una pequeña isla desierta a punto de hundirse.
 
-El papel es caro. ¡Úsalo todo!
-Un dibujo profesional toca los bordes. Se siente **GRANDE**.
+**¡ERROR!**
+El papel es caro. ¡ÚSALO TODO!
+Un dibujo profesional toca los 4 bordes. Se siente **GRANDE** y valiente.
 
 ---
 
-## Zonas del Papel (El Mapa)
+## 2. Zonas del Papel (El Mapa)
 
-Imagina tu hoja como un mapa:
+Imagina tu hoja como un escenario de teatro:
 
 1. **Arriba (Cielo)**: Para las cosas que vuelan o están lejos (pájaros, nubes, montañas).
-2. **Abajo (Tierra)**: Para las cosas pesadas y cercanas (suelo, piedras, pies).
-3. **Centro (Rey)**: Para lo más importante.
-4. **Bordes (Salida)**: Las cosas pueden salirse del papel. ¡No las encierres!
+2. **Abajo (Tierra)**: Para las cosas pesadas y cercanas (suelo, piedras, tus propios pies).
+3. **Centro (Rey)**: Para lo más importante de la historia.
+4. **Bordes (Las Puertas)**: Las cosas pueden entrar y salir del papel. ¡No las encierres en una cárcel invisible!
 
 ---
 
-## La Regla del Borde (Cropping)
+## 3. La Regla del Borde (Cropping)
 
-¿Quieres que un dinosaurio se vea gigante?
-Dibújalo tan grande que **NO QUEPA**.
-Si dibujas solo su cabeza y dejas que el cuello se salga del papel, tu cerebro piensa: "Wow, es enorme".
-Si lo dibujas entero y chiquito para que quepa, se ve como un juguete.
+¿Quieres que un T-Rex se vea GIGANTE y aterrador?
+
+* **Opción A (Aburrida)**: Dibújalo entero, chiquito, en el centro para que quepa la cola. -> Se ve como un juguete de plástico.
+* **Opción B (Profesional)**: Dibújalo TAN GRANDE que **NO QUEPA**.
+  * Haz que su cabeza toque el techo.
+  * Deja que su cola se salga del papel.
+  * Tu cerebro pensará: "Wow, es tan enorme que no cabe en el mundo".
+
+> **Consejo**: Perder partes del dibujo (cortarlas) está bien. ¡Se llama Encuadre!

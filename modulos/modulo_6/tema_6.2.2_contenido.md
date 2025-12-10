@@ -8,30 +8,32 @@
 
 ---
 
-## ¿Quién es el Jefe?
+## 1. ¿Quién es el Jefe aquí?
 
 Si en una película todos los actores gritan al mismo tiempo... ¡nadie entiende nada!
-Necesitas un **Protagonista**. Alguien a quien mirar.
+Lo mismo pasa en el dibujo. Si dibujas mil cosas con el mismo detalle... es un caos.
 
-En el dibujo, a ese jefe le llamamos **PUNTO FOCAL**.
-Es lo primero que miran tus ojos.
+Necesitas un **Protagonista**.
+En arte le llamamos **PUNTO FOCAL**. Es el lugar donde quieres que la gente mire primero.
 
 ---
 
-## Cómo crear un Jefe
+## 2. Cómo crear un Jefe (El Poder del Contraste)
 
-Tu ojo es curioso. Siempre busca lo que es **DIFERENTE**.
+Tu ojo es curioso y perezoso. Siempre busca lo que es **DIFERENTE** para mirarlo.
 
 1. **El Diferente**: Si hay 100 ovejas blancas y 1 lobo negro... ¿a quién miras? ¡Al lobo!
 2. **El Solitario**: Si todos están amontonados allá y hay uno solito aquí... miras al solito.
-3. **El Color**: Si todo es gris y hay una manzana ROJA... miras la manzana.
+3. **El Color**: Si todo el dibujo es gris (lápiz) y pintas una manzana de **ROJO**... miras la manzana.
 
 ---
 
-## ¿Dónde lo pongo? (Regla de los Tercios)
+## 3. ¿Dónde lo pongo? (Regla de los Tercios)
 
-¿Dónde pones a tu protagonista?
+¿Dónde pones a tu protagonista para que se vea genial?
 
-* ¿En el centro? Mmm, un poco aburrido.
-* **Mejor**: Dibuja un "Gato" (Ta-Te-Ti) imaginario en la hoja. (#)
-* Pon a tu personaje donde se cruzan las líneas. ¡Ahí se ve de película!
+* ¿En el puro centro? Mmm, un poco aburrido (parece foto de pasaporte).
+* **Mejor**: Dibuja un "Gato" (Ta-Te-Ti / Tres en Raya) imaginario en la hoja (#).
+  * Tienes 4 puntos donde las líneas se cruzan.
+  * **¡Pon a tu personaje principal en uno de esos puntos!**
+  * Tu dibujo se verá automáticamente más profesional y de película.
