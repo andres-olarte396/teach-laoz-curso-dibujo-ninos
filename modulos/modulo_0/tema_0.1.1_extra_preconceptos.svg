@@ -2,18 +2,19 @@
   <style>
     .bg { fill: #FFF8E1; }
     .magnifier { fill: #90CAF9; stroke: #1976D2; stroke-width: 3; }
-    .handle { fill: #546E7A; }
+    .handle { stroke: #B0BEC5; stroke-width: 8; fill: none; }
     .shape { fill-opacity: 0.85; }
     .label { fill: #37474F; font-family: 'Arial'; font-size: 12px; }
   </style>
   <rect width="400" height="300" class="bg"/>
   <!-- Lupa para explorar preconceptos -->
-  <g transform="translate(120,120)">
+  <g transform="translate(200,150)">
     <circle cx="0" cy="0" r="70" class="magnifier"/>
-    <rect x="50" y="60" width="80" height="16" rx="8" class="handle" transform="rotate(30)"/>
+    <!-- Mango ajustado: inicia justo en el borde de la lente -->
+    <line x1="60.6" y1="35" x2="120" y2="70" class="handle"/>
   </g>
   <!-- Formas dentro de la lupa -->
-  <g transform="translate(120,120)">
+  <g transform="translate(200,150)">
     <circle cx="-20" cy="-10" r="18" class="shape" fill="#FF8A65"/>
     <rect x="10" y="-25" width="30" height="30" rx="6" class="shape" fill="#4FC3F7"/>
     <polygon points="-10,20 10,45 -30,45" class="shape" fill="#AED581"/>

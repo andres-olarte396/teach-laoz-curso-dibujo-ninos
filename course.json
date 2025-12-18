@@ -1,0 +1,73 @@
+{
+  "id": "teach-laoz-curso-dibujo-ninos",
+  "title": "Dibujo de 0 a Experto para Niños",
+  "description": "Curso completo de dibujo diseñado específicamente para niños y niñas de 6 años en adelante. Progresa desde fundamentos básicos hasta técnicas avanzadas, enfocándose en el dibujo libre y el desarrollo de la creatividad.",
+  "level": "Básico a Avanzado",
+  "duration_hours": 120,
+  "total_modules": 13,
+  "author": "Sistema de Generación Automática de Cursos Teach Laoz",
+  "version": "1.0.0",
+  "cover_image": null,
+  "target_audience": "Niños y niñas de 6+ años",
+  "prerequisites": "Ninguno",
+  "learning_objectives": [
+    "Expresarse visualmente utilizando diferentes técnicas de dibujo",
+    "Aplicar fundamentos artísticos (forma, línea, color, composición, perspectiva)",
+    "Observar y representar objetos del mundo real con atención al detalle",
+    "Desarrollar un estilo personal combinando técnicas con imaginación",
+    "Experimentar con materiales diversos para enriquecer posibilidades expresivas",
+    "Planificar y ejecutar proyectos artísticos completos",
+    "Valorar el proceso creativo y aceptar el error como parte del aprendizaje"
+  ],
+  "methodology": "Aprendizaje progresivo de simple a complejo, con práctica constante, refuerzo positivo y énfasis en creatividad libre",
+  "evaluation_criteria": {
+    "completion_rate": "80% de ejercicios completados",
+    "final_project": "Presentación de proyecto final",
+    "progress": "Demostración de progreso medible"
+  },
+  "recognition_levels": [
+    {
+      "level": "Artista Emergente",
+      "description": "Nivel básico completado",
+      "icon": "🌟"
+    },
+    {
+      "level": "Artista en Desarrollo",
+      "description": "Nivel intermedio completado",
+      "icon": "🎨"
+    },
+    {
+      "level": "Artista Avanzado",
+      "description": "Nivel alto completado",
+      "icon": "🏆"
+    }
+  ],
+  "materials_required": {
+    "basic": [
+      "Lápices grafito (HB, 2B, 4B)",
+      "Goma de borrar blanca",
+      "Sacapuntas",
+      "Papel bond blanco",
+      "Crayones (12-24 colores)",
+      "Marcadores de colores"
+    ],
+    "intermediate": [
+      "Lápices de colores (12-24 colores)",
+      "Acuarelas (paleta básica)",
+      "Pinceles (tamaños variados)",
+      "Papel para acuarela",
+      "Difuminos",
+      "Regla"
+    ],
+    "advanced": [
+      "Carboncillo",
+      "Pasteles secos",
+      "Tinta china",
+      "Materiales mixtos (telas, arena, etc.)",
+      "Cartulinas de colores"
+    ]
+  },
+  "last_updated": "2025-12-09",
+  "status": "En desarrollo",
+  "completion_percentage": 25
+}
