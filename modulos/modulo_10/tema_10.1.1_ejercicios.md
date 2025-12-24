@@ -2,7 +2,7 @@
 
 ---
 
-## Ejercicio 1: El Dado de la Bestia (Calentamiento)
+## Ejercicio 1. El Dado de la Bestia (Calentamiento)
 
 **Objetivo**: Romper el bloqueo creativo usando el azar.
 

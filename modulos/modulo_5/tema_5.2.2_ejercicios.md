@@ -1,6 +1,6 @@
 # Ejercicios: Suavidad Total
 
-## Ejercicio 1: El Tornado Fantasma
+## Ejercicio 1. El Tornado Fantasma
 
 **Objetivo**: Crear degradado sin rayas.
 

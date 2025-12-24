@@ -1,6 +1,6 @@
 # Evaluación: Mi Planeta Extraño
 
-## Pregunta 1: El Cambio Rápido
+## Pregunta 1. El Cambio Rápido
 
 Si quieres que tu dibujo se vea "Alienígena" inmediatamente, ¿qué cambio de color es el más efectivo?
 

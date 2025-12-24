@@ -41,7 +41,7 @@ Tu brazo tiene tres "motores" para dibujar. El truco es saber cuál usar.
 
 ## Trucos para que salgan redondos
 
-### Técnica 1: El Fantasma
+### Técnica 1. El Fantasma
 
 Antes de tocar el papel, mueve el lápiz en círculos en el aire (encima de la hoja). Cuando sientas el movimiento seguro... ¡baja el lápiz suavemente!
 

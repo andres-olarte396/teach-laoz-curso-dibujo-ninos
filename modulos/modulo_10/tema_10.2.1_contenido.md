@@ -21,7 +21,7 @@ Si tu dibujo se parece al parque de tu casa, ¡fallaste! Tiene que verse extrañ
 
 Para que tu planeta se sienta real, cambia estas 3 cosas:
 
-### Regla 1: El Color del Cielo
+### Regla 1. El Color del Cielo
 
 Es el truco más rápido.
 

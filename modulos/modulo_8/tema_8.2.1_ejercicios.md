@@ -1,6 +1,6 @@
 # Ejercicios: Laboratorio de Muecas
 
-## Ejercicio 1: Emojis Básicos
+## Ejercicio 1. Emojis Básicos
 
 **Objetivo**: Dominar las cejas.
 

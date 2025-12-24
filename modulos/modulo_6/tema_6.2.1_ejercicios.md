@@ -1,6 +1,6 @@
 # Ejercicios: Equilibrista
 
-## Ejercicio 1: El Espejo
+## Ejercicio 1. El Espejo
 
 **Objetivo**: Simetría perfecta.
 

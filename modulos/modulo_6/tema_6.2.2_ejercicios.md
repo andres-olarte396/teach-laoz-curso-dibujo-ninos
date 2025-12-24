@@ -1,6 +1,6 @@
 # Ejercicios: ¿Dónde está Wally?
 
-## Ejercicio 1: El Pez Dorado
+## Ejercicio 1. El Pez Dorado
 
 **Objetivo**: Contraste de Color.
 

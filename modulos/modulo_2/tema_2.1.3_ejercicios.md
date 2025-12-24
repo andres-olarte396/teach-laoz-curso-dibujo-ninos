@@ -1,6 +1,6 @@
 # Ejercicios: Director de Acción
 
-## Ejercicio 1: ¡Haz que se mueva
+## Ejercicio 1. ¡Haz que se mueva
 
 **Objetivo**: Dar velocidad a objetos quietos.
 
@@ -19,7 +19,7 @@
 
 1. Dibuja 4 cuadros vacíos.
 2. Llénalos solo con líneas que representen:
-    * **Cuadro 1: Enojo** (Zigzags fuertes, rayos).
+    * **Cuadro 1. Enojo** (Zigzags fuertes, rayos).
     * **Cuadro 2: Calma** (Olas suaves del mar).
     * **Cuadro 3: Fiesta** (Confeti, espirales, estrellas).
     * **Cuadro 4: Miedo** (Líneas temblorosas y chuecas).

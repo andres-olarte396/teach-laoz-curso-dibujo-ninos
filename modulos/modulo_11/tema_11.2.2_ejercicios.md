@@ -2,7 +2,7 @@
 
 ---
 
-## Ejercicio 1: El Zoológico de Manchas
+## Ejercicio 1. El Zoológico de Manchas
 
 **Objetivo**: Flexibilidad mental (Imaginación).
 

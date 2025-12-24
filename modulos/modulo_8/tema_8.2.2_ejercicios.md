@@ -1,6 +1,6 @@
 # Ejercicios: Yo Soy Yo
 
-## Ejercicio 1: El Huevo Humano
+## Ejercicio 1. El Huevo Humano
 
 **Objetivo**: Proporciones correctas.
 

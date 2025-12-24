@@ -23,7 +23,7 @@ Una casa compleja es solo un montón de formas simples pegadas:
 
 ## Guía Paso a Paso
 
-### Paso 1: El Suelo (¡Importante!)
+### Paso 1. El Suelo (¡Importante!)
 
 Antes de construir, necesitamos tierra firme. Dibuja una línea horizontal en la parte baja de tu hoja. Si no la dibujas, tu casa saldrá volando al espacio.
 
@@ -53,7 +53,7 @@ Dibuja **Cuadrados** pequeños para las ventanas.
 
 ## Niveles de Detalle
 
-### Nivel 1: Casa Básica
+### Nivel 1. Casa Básica
 
 Solo la forma principal.
 

@@ -23,27 +23,27 @@ Curso completo de dibujo diseñado específicamente para niños y niñas de 6 a�
 **Estado**: ✅ Completo con contenido detallado
 
 - **Tema 0.1**: Bienvenida al Mundo del Dibujo
-  - 0.1.1: ¿Qué es el dibujo y por qué es divertido? ✅
+  - 0.1.1. ¿Qué es el dibujo y por qué es divertido? ✅
   - 0.1.2: Conociendo nuestros materiales mágicos ✅
   - Preconceptos fundamentales ✅
 
 - **Tema 0.2**: Primeros Trazos Libres
-  - 0.2.1: Garabatos con propósito ✅
+  - 0.2.1. Garabatos con propósito ✅
   - 0.2.2: El juego de las líneas locas ✅
 
 ---
 
-### Módulo 1: Fundamentos de Formas Básicas (10h)
+### Módulo 1. Fundamentos de Formas Básicas (10h)
 
 **Estado**: 📝 Estructura base creada
 
 - **Tema 1.1**: El Mundo de las Formas Simples
-  - 1.1.1: Círculos perfectos (o casi)
+  - 1.1.1. Círculos perfectos (o casi)
   - 1.1.2: Cuadrados y rectángulos
   - 1.1.3: Triángulos de todos los tipos
 
 - **Tema 1.2**: Combinando Formas para Crear Objetos
-  - 1.2.1: Mi primera casa
+  - 1.2.1. Mi primera casa
   - 1.2.2: Robots geométricos
   - 1.2.3: Animales con formas simples
 
@@ -54,12 +54,12 @@ Curso completo de dibujo diseñado específicamente para niños y niñas de 6 a�
 **Estado**: 📝 Estructura base creada
 
 - **Tema 2.1**: Líneas con Personalidad
-  - 2.1.1: Líneas gruesas y delgadas
+  - 2.1.1. Líneas gruesas y delgadas
   - 2.1.2: Líneas suaves y líneas fuertes
   - 2.1.3: Líneas que cuentan historias
 
 - **Tema 2.2**: Patrones y Texturas
-  - 2.2.1: Puntos, rayas y cuadrículas
+  - 2.2.1. Puntos, rayas y cuadrículas
   - 2.2.2: Texturas de la naturaleza
 
 ---
@@ -136,7 +136,7 @@ Curso completo de dibujo diseñado específicamente para niños y niñas de 6 a�
 
 ---
 
-### Módulo 11: Técnicas Mixtas y Experimentación (8h)
+### Módulo 11. Técnicas Mixtas y Experimentación (8h)
 
 **Estado**: 📝 Estructura base creada
 

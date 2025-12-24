@@ -19,7 +19,7 @@ Al finalizar este curso, el estudiante será capaz de:
 | Módulo | Competencia Específica (Saber Hacer) | Resultado de Aprendizaje (Evidencia) |
 |:-------|:-------------------------------------|:-------------------------------------|
 | **Módulo 0: Preparación y Descubrimiento** | Familiarizarse con materiales artísticos y desarrollar confianza inicial en el dibujo | Portafolio de trazos libres y experimentación con diferentes materiales |
-| **Módulo 1: Formas Básicas** | Dibujar formas geométricas con control y combinarlas para crear objetos reconocibles | Serie de dibujos de objetos simples (casa, robot, animales) usando formas básicas |
+| **Módulo 1. Formas Básicas** | Dibujar formas geométricas con control y combinarlas para crear objetos reconocibles | Serie de dibujos de objetos simples (casa, robot, animales) usando formas básicas |
 | **Módulo 2: Control de Línea** | Crear líneas con diferentes características expresivas y aplicar patrones para generar texturas | Catálogo de líneas y texturas aplicadas a dibujos temáticos |
 | **Módulo 3: Observación** | Observar objetos reales y reproducirlos gráficamente respetando proporciones básicas | Dibujos del natural (juguetes, frutas, objetos cotidianos) con medición visual |
 | **Módulo 4: Color** | Comprender teoría del color y aplicar armonías cromáticas en composiciones | Círculo cromático personal y proyectos con paletas cálidas/frías |
@@ -29,7 +29,7 @@ Al finalizar este curso, el estudiante será capaz de:
 | **Módulo 8: Figura Humana** | Dibujar figuras humanas en diferentes poses y con expresiones faciales variadas | Serie de figuras en movimiento y retratos con emociones |
 | **Módulo 9: Animales y Naturaleza** | Representar seres vivos y elementos naturales capturando características distintivas | Portafolio de animales diversos y paisaje natural completo |
 | **Módulo 10: Imaginación** | Crear seres y mundos fantásticos combinando elementos reales de forma original | Diseño de criaturas fantásticas y escenarios imaginarios |
-| **Módulo 11: Técnicas Mixtas** | Experimentar con combinaciones de materiales para crear efectos visuales únicos | Obras utilizando al menos dos técnicas diferentes integradas |
+| **Módulo 11. Técnicas Mixtas** | Experimentar con combinaciones de materiales para crear efectos visuales únicos | Obras utilizando al menos dos técnicas diferentes integradas |
 | **Módulo 12: Proyecto Final** | Planificar, ejecutar y presentar un proyecto artístico personal que integre aprendizajes del curso | Obra final completa con documentación del proceso creativo |
 
 ---

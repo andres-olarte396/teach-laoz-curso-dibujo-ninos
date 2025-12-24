@@ -1,6 +1,6 @@
 # Ejercicios: El Rey del Hielo
 
-## Ejercicio 1: El Castillo Congelado
+## Ejercicio 1. El Castillo Congelado
 
 **Objetivo**: Usar solo colores fríos.
 

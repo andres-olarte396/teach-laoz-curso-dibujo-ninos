@@ -51,7 +51,7 @@ graph TD
 **Duración**: 6 horas  
 **Objetivo**: Familiarizar al niño con materiales, desarrollar confianza inicial y establecer hábitos creativos
 
-#### TEMA 0.1: Bienvenida al Mundo del Dibujo
+#### TEMA 0.1. Bienvenida al Mundo del Dibujo
 
 **Objetivo del Tema**: Generar entusiasmo y eliminar el miedo al error
 
@@ -81,12 +81,12 @@ graph TD
 
 ---
 
-### MÓDULO 1: Fundamentos de Formas Básicas
+### MÓDULO 1. Fundamentos de Formas Básicas
 
 **Duración**: 10 horas  
 **Objetivo**: Dominar el dibujo de formas geométricas simples como base de objetos complejos
 
-#### TEMA 1.1: El Mundo de las Formas Simples
+#### TEMA 1.1. El Mundo de las Formas Simples
 
 **Objetivo del Tema**: Reconocer y dibujar formas geométricas básicas
 
@@ -131,7 +131,7 @@ graph TD
 **Duración**: 12 horas  
 **Objetivo**: Desarrollar precisión en el trazado y variedad de líneas expresivas
 
-#### TEMA 2.1: Líneas con Personalidad
+#### TEMA 2.1. Líneas con Personalidad
 
 **Objetivo del Tema**: Crear diferentes tipos de líneas con intención expresiva
 
@@ -171,7 +171,7 @@ graph TD
 **Duración**: 14 horas  
 **Objetivo**: Desarrollar habilidad de observación para dibujar objetos reales
 
-#### TEMA 3.1: Aprendiendo a Ver como Artistas
+#### TEMA 3.1. Aprendiendo a Ver como Artistas
 
 **Objetivo del Tema**: Entrenar la observación detallada de objetos
 
@@ -211,7 +211,7 @@ graph TD
 **Duración**: 12 horas  
 **Objetivo**: Comprender teoría básica del color y aplicarla creativamente
 
-#### TEMA 4.1: El Círculo Cromático Mágico
+#### TEMA 4.1. El Círculo Cromático Mágico
 
 **Objetivo del Tema**: Conocer colores primarios, secundarios y complementarios
 
@@ -251,7 +251,7 @@ graph TD
 **Duración**: 10 horas  
 **Objetivo**: Dar tridimensionalidad a los dibujos mediante sombreado
 
-#### TEMA 5.1: De lo Plano a lo Redondo
+#### TEMA 5.1. De lo Plano a lo Redondo
 
 **Objetivo del Tema**: Comprender cómo la luz crea volumen
 
@@ -291,7 +291,7 @@ graph TD
 **Duración**: 10 horas  
 **Objetivo**: Organizar elementos en el espacio del papel de forma equilibrada
 
-#### TEMA 6.1: El Espacio del Papel
+#### TEMA 6.1. El Espacio del Papel
 
 **Objetivo del Tema**: Usar todo el espacio disponible de forma intencional
 
@@ -326,7 +326,7 @@ graph TD
 **Duración**: 8 horas  
 **Objetivo**: Representar profundidad y espacio tridimensional
 
-#### TEMA 7.1: Cosas Cerca y Cosas Lejos
+#### TEMA 7.1. Cosas Cerca y Cosas Lejos
 
 **Objetivo del Tema**: Comprender que los objetos lejanos se ven más pequeños
 
@@ -361,7 +361,7 @@ graph TD
 **Duración**: 12 horas  
 **Objetivo**: Dibujar personas usando proporciones básicas y formas simples
 
-#### TEMA 8.1: El Muñeco de Palitos Evolucionado
+#### TEMA 8.1. El Muñeco de Palitos Evolucionado
 
 **Objetivo del Tema**: Construir figuras humanas con estructura básica
 
@@ -396,7 +396,7 @@ graph TD
 **Duración**: 10 horas  
 **Objetivo**: Representar seres vivos y elementos naturales
 
-#### TEMA 9.1: Animales Favoritos
+#### TEMA 9.1. Animales Favoritos
 
 **Objetivo del Tema**: Dibujar animales comunes con formas simplificadas
 
@@ -431,7 +431,7 @@ graph TD
 **Duración**: 10 horas  
 **Objetivo**: Desarrollar estilo personal y narrativa visual
 
-#### TEMA 10.1: Criaturas Fantásticas
+#### TEMA 10.1. Criaturas Fantásticas
 
 **Objetivo del Tema**: Inventar seres originales combinando elementos reales
 
@@ -461,12 +461,12 @@ graph TD
 
 ---
 
-### MÓDULO 11: Técnicas Mixtas y Experimentación
+### MÓDULO 11. Técnicas Mixtas y Experimentación
 
 **Duración**: 8 horas  
 **Objetivo**: Combinar diferentes materiales y técnicas
 
-#### TEMA 11.1: Más Allá del Lápiz
+#### TEMA 11.1. Más Allá del Lápiz
 
 **Objetivo del Tema**: Explorar materiales diversos
 
@@ -501,7 +501,7 @@ graph TD
 **Duración**: 8 horas  
 **Objetivo**: Crear una obra completa que demuestre todo lo aprendido
 
-#### TEMA 12.1: Planificación del Proyecto
+#### TEMA 12.1. Planificación del Proyecto
 
 **Objetivo del Tema**: Diseñar un proyecto artístico personal
 

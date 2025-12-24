@@ -1,6 +1,6 @@
 # Ejercicios: Explorador de la Naturaleza
 
-## Ejercicio 1: El Muestrario Científico
+## Ejercicio 1. El Muestrario Científico
 
 **Objetivo**: Copiar la "piel" de las cosas.
 

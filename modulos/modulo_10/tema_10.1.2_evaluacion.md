@@ -1,6 +1,6 @@
 # Evaluación: Híbridos Imposibles
 
-## Pregunta 1: La Costura Invisible
+## Pregunta 1. La Costura Invisible
 
 Cuando unes dos animales diferentes en un dibujo, ¿cómo debe ser la unión?
 

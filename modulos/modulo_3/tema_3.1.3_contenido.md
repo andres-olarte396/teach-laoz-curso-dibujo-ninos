@@ -34,7 +34,7 @@ A esto le llamamos **FORMAS ORGÁNICAS**. Son formas vivas, curvas y naturales q
 
 ## 3. Cómo dibujar frutas reales
 
-### Truco 1: El Tallo no es una Vela
+### Truco 1. El Tallo no es una Vela
 
 **Error común**: Dibujar el tallo pegado encima del círculo como si fuera una vela en un pastel.
 **La Verdad**: El tallo sale de un **hoyo** o hundimiento en la fruta.

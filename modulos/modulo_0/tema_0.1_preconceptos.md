@@ -10,7 +10,7 @@ Este módulo es como preparar tus herramientas antes de construir algo maravillo
 
 ## PRECONCEPTOS ESENCIALES (Organizados por Dependencia)
 
-### NIVEL 1: Conceptos Más Básicos
+### NIVEL 1. Conceptos Más Básicos
 
 #### 1. ¿Qué es una Línea?
 

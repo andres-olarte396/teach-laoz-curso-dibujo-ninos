@@ -2,7 +2,7 @@
 
 ---
 
-## Ejercicio 1: Transformación de Objetos
+## Ejercicio 1. Transformación de Objetos
 
 **Objetivo**: Ver formas arquitectónicas en objetos cotidianos.
 

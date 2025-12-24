@@ -1,6 +1,6 @@
 # Ejercicios: Entrenamiento de Bombero
 
-## Ejercicio 1: El León Solar
+## Ejercicio 1. El León Solar
 
 **Objetivo**: Usar solo colores calientes.
 

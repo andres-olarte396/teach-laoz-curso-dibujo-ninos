@@ -1,6 +1,6 @@
 # Ejercicios: Gimnasia para la mano
 
-## Ejercicio 1: El Tornado Loco
+## Ejercicio 1. El Tornado Loco
 
 **Objetivo**: Despertar el brazo y perder el miedo.
 

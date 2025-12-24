@@ -1,6 +1,6 @@
 # Ejercicios: Taller de Robótica
 
-## Ejercicio 1: El Robot Ayudante
+## Ejercicio 1. El Robot Ayudante
 
 **Objetivo**: Diseñar pensando en la función.
 

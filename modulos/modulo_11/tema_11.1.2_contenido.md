@@ -29,7 +29,7 @@ Henri Matisse, un artista viejito y famoso, ya no podía pintar porque estaba en
 
 ## 3. Paso a paso: El Monstruo Frankenstein
 
-### Paso 1: La Cacería
+### Paso 1. La Cacería
 
 Abre una revista vieja. No leas, solo mira las IMÁGENES. Busca:
 

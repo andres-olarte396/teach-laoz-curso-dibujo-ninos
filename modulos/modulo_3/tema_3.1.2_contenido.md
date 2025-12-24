@@ -30,7 +30,7 @@ Esto significa romper cosas difíciles en pedazos fáciles.
 
 ## 3. Pasos para el Retrato Perfecto
 
-### Paso 1: El Esqueleto Fantasma (Boceto Suave)
+### Paso 1. El Esqueleto Fantasma (Boceto Suave)
 
 No empieces por los ojos o los botones. ¡Error de principiante!
 

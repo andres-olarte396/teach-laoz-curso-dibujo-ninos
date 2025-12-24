@@ -9,10 +9,10 @@ $estructura = @(
     @{
         modulo = 1
         titulo = "Fundamentos de Formas Básicas"
-        temas = @(
+        temas  = @(
             @{
-                tema_id = "1.1"
-                titulo = "El Mundo de las Formas Simples"
+                tema_id  = "1.1"
+                titulo   = "El Mundo de las Formas Simples"
                 subtemas = @(
                     @{ id = "1.1.1"; titulo = "Círculos perfectos (o casi)" },
                     @{ id = "1.1.2"; titulo = "Cuadrados y rectángulos" },
@@ -20,8 +20,8 @@ $estructura = @(
                 )
             },
             @{
-                tema_id = "1.2"
-                titulo = "Combinando Formas para Crear Objetos"
+                tema_id  = "1.2"
+                titulo   = "Combinando Formas para Crear Objetos"
                 subtemas = @(
                     @{ id = "1.2.1"; titulo = "Mi primera casa" },
                     @{ id = "1.2.2"; titulo = "Robots geométricos" },
@@ -33,10 +33,10 @@ $estructura = @(
     @{
         modulo = 2
         titulo = "Control de Línea y Trazado"
-        temas = @(
+        temas  = @(
             @{
-                tema_id = "2.1"
-                titulo = "Líneas con Personalidad"
+                tema_id  = "2.1"
+                titulo   = "Líneas con Personalidad"
                 subtemas = @(
                     @{ id = "2.1.1"; titulo = "Líneas gruesas y delgadas" },
                     @{ id = "2.1.2"; titulo = "Líneas suaves y líneas fuertes" },
@@ -44,8 +44,8 @@ $estructura = @(
                 )
             },
             @{
-                tema_id = "2.2"
-                titulo = "Patrones y Texturas"
+                tema_id  = "2.2"
+                titulo   = "Patrones y Texturas"
                 subtemas = @(
                     @{ id = "2.2.1"; titulo = "Puntos, rayas y cuadrículas" },
                     @{ id = "2.2.2"; titulo = "Texturas de la naturaleza" }
@@ -56,10 +56,10 @@ $estructura = @(
     @{
         modulo = 3
         titulo = "Observación y Dibujo del Natural"
-        temas = @(
+        temas  = @(
             @{
-                tema_id = "3.1"
-                titulo = "Aprendiendo a Ver como Artistas"
+                tema_id  = "3.1"
+                titulo   = "Aprendiendo a Ver como Artistas"
                 subtemas = @(
                     @{ id = "3.1.1"; titulo = "El juego de las diferencias" },
                     @{ id = "3.1.2"; titulo = "Dibujando mi juguete favorito" },
@@ -67,8 +67,8 @@ $estructura = @(
                 )
             },
             @{
-                tema_id = "3.2"
-                titulo = "Proporciones Básicas"
+                tema_id  = "3.2"
+                titulo   = "Proporciones Básicas"
                 subtemas = @(
                     @{ id = "3.2.1"; titulo = "Grande, mediano y pequeño" },
                     @{ id = "3.2.2"; titulo = "La regla del pulgar (medición visual)" }
@@ -79,10 +79,10 @@ $estructura = @(
     @{
         modulo = 4
         titulo = "Introducción al Color"
-        temas = @(
+        temas  = @(
             @{
-                tema_id = "4.1"
-                titulo = "El Círculo Cromático Mágico"
+                tema_id  = "4.1"
+                titulo   = "El Círculo Cromático Mágico"
                 subtemas = @(
                     @{ id = "4.1.1"; titulo = "Los tres colores mágicos (primarios)" },
                     @{ id = "4.1.2"; titulo = "Mezclando colores nuevos (secundarios)" },
@@ -90,8 +90,8 @@ $estructura = @(
                 )
             },
             @{
-                tema_id = "4.2"
-                titulo = "Colores Cálidos y Fríos"
+                tema_id  = "4.2"
+                titulo   = "Colores Cálidos y Fríos"
                 subtemas = @(
                     @{ id = "4.2.1"; titulo = "El sol y el fuego (colores cálidos)" },
                     @{ id = "4.2.2"; titulo = "El mar y el cielo (colores fríos)" }
@@ -102,10 +102,10 @@ $estructura = @(
     @{
         modulo = 5
         titulo = "Luz, Sombra y Volumen"
-        temas = @(
+        temas  = @(
             @{
-                tema_id = "5.1"
-                titulo = "De lo Plano a lo Redondo"
+                tema_id  = "5.1"
+                titulo   = "De lo Plano a lo Redondo"
                 subtemas = @(
                     @{ id = "5.1.1"; titulo = "¿De dónde viene la luz?" },
                     @{ id = "5.1.2"; titulo = "Sombreando una esfera" },
@@ -113,8 +113,8 @@ $estructura = @(
                 )
             },
             @{
-                tema_id = "5.2"
-                titulo = "Técnicas de Sombreado"
+                tema_id  = "5.2"
+                titulo   = "Técnicas de Sombreado"
                 subtemas = @(
                     @{ id = "5.2.1"; titulo = "Sombreado con líneas (rayado)" },
                     @{ id = "5.2.2"; titulo = "Sombreado difuminado" }
@@ -125,18 +125,18 @@ $estructura = @(
     @{
         modulo = 6
         titulo = "Composición y Diseño"
-        temas = @(
+        temas  = @(
             @{
-                tema_id = "6.1"
-                titulo = "El Espacio del Papel"
+                tema_id  = "6.1"
+                titulo   = "El Espacio del Papel"
                 subtemas = @(
                     @{ id = "6.1.1"; titulo = "Arriba, abajo, centro" },
                     @{ id = "6.1.2"; titulo = "Primer plano y fondo" }
                 )
             },
             @{
-                tema_id = "6.2"
-                titulo = "Equilibrio Visual"
+                tema_id  = "6.2"
+                titulo   = "Equilibrio Visual"
                 subtemas = @(
                     @{ id = "6.2.1"; titulo = "Simetría y asimetría" },
                     @{ id = "6.2.2"; titulo = "El punto focal (¿dónde miran primero?)" }
@@ -147,18 +147,18 @@ $estructura = @(
     @{
         modulo = 7
         titulo = "Perspectiva Básica"
-        temas = @(
+        temas  = @(
             @{
-                tema_id = "7.1"
-                titulo = "Cosas Cerca y Cosas Lejos"
+                tema_id  = "7.1"
+                titulo   = "Cosas Cerca y Cosas Lejos"
                 subtemas = @(
                     @{ id = "7.1.1"; titulo = "El camino que se hace chiquito" },
                     @{ id = "7.1.2"; titulo = "Casas en la distancia" }
                 )
             },
             @{
-                tema_id = "7.2"
-                titulo = "La Línea del Horizonte"
+                tema_id  = "7.2"
+                titulo   = "La Línea del Horizonte"
                 subtemas = @(
                     @{ id = "7.2.1"; titulo = "Cielo y tierra" },
                     @{ id = "7.2.2"; titulo = "Perspectiva de un punto (la calle)" }
@@ -169,18 +169,18 @@ $estructura = @(
     @{
         modulo = 8
         titulo = "Figura Humana Simplificada"
-        temas = @(
+        temas  = @(
             @{
-                tema_id = "8.1"
-                titulo = "El Muñeco de Palitos Evolucionado"
+                tema_id  = "8.1"
+                titulo   = "El Muñeco de Palitos Evolucionado"
                 subtemas = @(
                     @{ id = "8.1.1"; titulo = "Cabeza, tronco y extremidades" },
                     @{ id = "8.1.2"; titulo = "Poses y movimiento" }
                 )
             },
             @{
-                tema_id = "8.2"
-                titulo = "Rostros Expresivos"
+                tema_id  = "8.2"
+                titulo   = "Rostros Expresivos"
                 subtemas = @(
                     @{ id = "8.2.1"; titulo = "Feliz, triste, enojado, sorprendido" },
                     @{ id = "8.2.2"; titulo = "Mi autorretrato" }
@@ -191,18 +191,18 @@ $estructura = @(
     @{
         modulo = 9
         titulo = "Animales y Naturaleza"
-        temas = @(
+        temas  = @(
             @{
-                tema_id = "9.1"
-                titulo = "Animales Favoritos"
+                tema_id  = "9.1"
+                titulo   = "Animales Favoritos"
                 subtemas = @(
                     @{ id = "9.1.1"; titulo = "Mascotas (perro, gato, conejo)" },
                     @{ id = "9.1.2"; titulo = "Animales salvajes (león, elefante, jirafa)" }
                 )
             },
             @{
-                tema_id = "9.2"
-                titulo = "Paisajes Naturales"
+                tema_id  = "9.2"
+                titulo   = "Paisajes Naturales"
                 subtemas = @(
                     @{ id = "9.2.1"; titulo = "Árboles de diferentes tipos" },
                     @{ id = "9.2.2"; titulo = "Mi paisaje imaginario" }
@@ -213,18 +213,18 @@ $estructura = @(
     @{
         modulo = 10
         titulo = "Imaginación y Creatividad Avanzada"
-        temas = @(
+        temas  = @(
             @{
-                tema_id = "10.1"
-                titulo = "Criaturas Fantásticas"
+                tema_id  = "10.1"
+                titulo   = "Criaturas Fantásticas"
                 subtemas = @(
                     @{ id = "10.1.1"; titulo = "Mi dragón único" },
                     @{ id = "10.1.2"; titulo = "Híbridos imposibles" }
                 )
             },
             @{
-                tema_id = "10.2"
-                titulo = "Mundos Inventados"
+                tema_id  = "10.2"
+                titulo   = "Mundos Inventados"
                 subtemas = @(
                     @{ id = "10.2.1"; titulo = "Mi planeta extraño" },
                     @{ id = "10.2.2"; titulo = "La ciudad del futuro" }
@@ -235,18 +235,18 @@ $estructura = @(
     @{
         modulo = 11
         titulo = "Técnicas Mixtas y Experimentación"
-        temas = @(
+        temas  = @(
             @{
-                tema_id = "11.1"
-                titulo = "Más Allá del Lápiz"
+                tema_id  = "11.1"
+                titulo   = "Más Allá del Lápiz"
                 subtemas = @(
                     @{ id = "11.1.1"; titulo = "Acuarelas y crayones juntos" },
                     @{ id = "11.1.2"; titulo = "Collage y dibujo" }
                 )
             },
             @{
-                tema_id = "11.2"
-                titulo = "Texturas Reales"
+                tema_id  = "11.2"
+                titulo   = "Texturas Reales"
                 subtemas = @(
                     @{ id = "11.2.1"; titulo = "Frotado de texturas" },
                     @{ id = "11.2.2"; titulo = "Arena, tela y otros materiales" }
@@ -257,18 +257,18 @@ $estructura = @(
     @{
         modulo = 12
         titulo = "Proyecto Personal Final"
-        temas = @(
+        temas  = @(
             @{
-                tema_id = "12.1"
-                titulo = "Planificación del Proyecto"
+                tema_id  = "12.1"
+                titulo   = "Planificación del Proyecto"
                 subtemas = @(
                     @{ id = "12.1.1"; titulo = "Eligiendo mi tema favorito" },
                     @{ id = "12.1.2"; titulo = "Bocetos y pruebas" }
                 )
             },
             @{
-                tema_id = "12.2"
-                titulo = "Ejecución y Presentación"
+                tema_id  = "12.2"
+                titulo   = "Ejecución y Presentación"
                 subtemas = @(
                     @{ id = "12.2.1"; titulo = "Creando mi obra maestra" },
                     @{ id = "12.2.2"; titulo = "Presentando mi trabajo" }
@@ -323,7 +323,7 @@ foreach ($mod in $estructura) {
 
 ## Práctica guiada
 
-### Ejercicio 1: [Nombre del ejercicio]
+### Ejercicio 1. [Nombre del ejercicio]
 
 **Materiales**: Lápiz, papel
 
@@ -353,7 +353,7 @@ foreach ($mod in $estructura) {
                 $ejerciciosTemplate = @"
 # Ejercicios: $($subtema.titulo)
 
-## Ejercicio 1: Práctica Básica
+## Ejercicio 1. Práctica Básica
 
 **Nivel**: Principiante  
 **Tiempo**: 10 minutos

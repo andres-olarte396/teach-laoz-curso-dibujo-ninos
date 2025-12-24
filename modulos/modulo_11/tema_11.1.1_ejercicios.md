@@ -2,7 +2,7 @@
 
 ---
 
-## Ejercicio 1: Agente Secreto 007
+## Ejercicio 1. Agente Secreto 007
 
 **Objetivo**: Entender la presión y la resistencia.
 

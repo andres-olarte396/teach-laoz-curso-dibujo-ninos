@@ -1,6 +1,6 @@
 # Ejercicios: Control de Vuelo
 
-## Ejercicio 1: El OVNI
+## Ejercicio 1. El OVNI
 
 **Objetivo**: Entender que la sombra indica altura.
 

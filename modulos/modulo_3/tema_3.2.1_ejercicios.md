@@ -1,6 +1,6 @@
 # Ejercicios: Laboratorio de Escalas
 
-## Ejercicio 1: La Familia Real
+## Ejercicio 1. La Familia Real
 
 **Objetivo**: Comparar tamaños.
 

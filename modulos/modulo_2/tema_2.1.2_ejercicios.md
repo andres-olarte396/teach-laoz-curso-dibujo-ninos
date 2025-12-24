@@ -1,6 +1,6 @@
 # Ejercicios: Laboratorio de Texturas
 
-## Ejercicio 1: La Nube y la Roca
+## Ejercicio 1. La Nube y la Roca
 
 **Objetivo**: Sentir la diferencia.
 

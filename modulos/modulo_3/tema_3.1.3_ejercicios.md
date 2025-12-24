@@ -1,6 +1,6 @@
 # Ejercicios: Frutería Artística
 
-## Ejercicio 1: La Manzana Fea (y Real)
+## Ejercicio 1. La Manzana Fea (y Real)
 
 **Objetivo**: Amar la imperfección.
 

@@ -1,6 +1,6 @@
 # Ejercicios: Laboratorio de Líneas
 
-## Ejercicio 1: Música Visual
+## Ejercicio 1. Música Visual
 
 **Objetivo**: Conectar el oído con la mano.
 

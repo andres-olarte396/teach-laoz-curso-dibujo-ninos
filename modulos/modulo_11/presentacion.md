@@ -1,4 +1,4 @@
-# Presentación del Módulo 11: Técnicas Mixtas y Experimentación
+# Presentación del Módulo 11. Técnicas Mixtas y Experimentación
 
 ## Descripción General
 

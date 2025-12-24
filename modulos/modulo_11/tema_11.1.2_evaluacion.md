@@ -1,6 +1,6 @@
 # Evaluación: Recortes y Pegamento
 
-## Pregunta 1: Definición
+## Pregunta 1. Definición
 
 ¿Qué es un Collage?
 

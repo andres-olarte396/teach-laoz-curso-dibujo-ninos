@@ -1,6 +1,6 @@
 # Ejercicios: Fábrica de Robots
 
-## Ejercicio 1: El Esqueleto de Cajas
+## Ejercicio 1. El Esqueleto de Cajas
 
 **Objetivo**: Aprender las piezas.
 

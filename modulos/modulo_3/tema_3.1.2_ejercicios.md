@@ -1,6 +1,6 @@
 # Ejercicios: Taller de Retratos
 
-## Ejercicio 1: Visión Borrosa (Rayos X)
+## Ejercicio 1. Visión Borrosa (Rayos X)
 
 **Objetivo**: Ignorar detalles y ver formas.
 

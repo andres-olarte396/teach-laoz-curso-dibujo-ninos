@@ -1,6 +1,6 @@
 # Ejercicios: Capas de Cebolla
 
-## Ejercicio 1: El Paisaje Sándwich
+## Ejercicio 1. El Paisaje Sándwich
 
 **Objetivo**: Dibujar las 3 zonas.
 

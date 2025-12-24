@@ -33,7 +33,7 @@ Se ha completado exitosamente la generación del curso "Dibujo de 0 a Experto pa
 4. tema_0.2.1_contenido.md - Garabatos con propósito
 5. tema_0.2.2_contenido.md - El juego de las líneas locas
 
-#### Módulo 1: Formas Básicas (10h) ✅
+#### Módulo 1. Formas Básicas (10h) ✅
 
 6. tema_1.1.1_contenido.md - Círculos perfectos
 7. tema_1.1.2_contenido.md - Cuadrados y rectángulos
@@ -110,7 +110,7 @@ Se ha completado exitosamente la generación del curso "Dibujo de 0 a Experto pa
 
 ## 🚀 OPCIONES DE IMPLEMENTACIÓN
 
-### Opción 1: Piloto con Contenido Actual (RECOMENDADO)
+### Opción 1. Piloto con Contenido Actual (RECOMENDADO)
 
 **Qué hacer**:
 

@@ -1,6 +1,6 @@
 # Ejercicios: Medidas Secretas
 
-## Ejercicio 1: El Cazador de Puertas
+## Ejercicio 1. El Cazador de Puertas
 
 **Objetivo**: Entender ancho vs. alto.
 

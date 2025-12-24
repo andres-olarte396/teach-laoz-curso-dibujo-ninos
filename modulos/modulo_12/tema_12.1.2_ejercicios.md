@@ -2,7 +2,7 @@
 
 ---
 
-## Ejercicio 1: El Trazo Fantasma
+## Ejercicio 1. El Trazo Fantasma
 
 **Objetivo**: Controlar la presión de la mano.
 

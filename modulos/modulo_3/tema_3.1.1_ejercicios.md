@@ -1,6 +1,6 @@
 # Ejercicios: Entrenamiento de Detective
 
-## Ejercicio 1: Dibujo a Ciegas (Blind Contour)
+## Ejercicio 1. Dibujo a Ciegas (Blind Contour)
 
 **Objetivo**: Conectar ojo y mano.
 

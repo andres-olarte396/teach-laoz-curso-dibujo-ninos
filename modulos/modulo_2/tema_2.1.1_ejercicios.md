@@ -1,6 +1,6 @@
 # Ejercicios: Gimnasio de Presión
 
-## Ejercicio 1: Nombres con Volumen
+## Ejercicio 1. Nombres con Volumen
 
 **Objetivo**: Controlar la fuerza de la mano.
 

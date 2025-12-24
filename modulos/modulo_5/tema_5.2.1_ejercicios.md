@@ -1,13 +1,13 @@
 # Ejercicios: Tejido de Sombras
 
-## Ejercicio 1: La Red de Araña
+## Ejercicio 1. La Red de Araña
 
 **Objetivo**: Aprender a oscurecer cruzando líneas.
 
 **Instrucciones**:
 
 1. Dibuja 3 cuadros.
-2. Cuadro 1: Llena de rayas verticales separadas `| | |`. (Se ve claro).
+2. Cuadro 1. Llena de rayas verticales separadas `| | |`. (Se ve claro).
 3. Cuadro 2: Haz lo mismo, y luego pon rayas horizontales encima `+ + +`. (Se ve más oscuro).
 4. Cuadro 3: Haz verticales, horizontales y diagonales `* * *`. (¡Se ve casi negro!).
 

@@ -31,7 +31,7 @@ Se llaman **Bocetos Miniatura**.
 
 ## 3. Paso a paso: La Tormenta Creativa
 
-### Paso 1: Lluvia de Ideas (Brainstorming)
+### Paso 1. Lluvia de Ideas (Brainstorming)
 
 Escribe 3 cosas que te encanten:
 

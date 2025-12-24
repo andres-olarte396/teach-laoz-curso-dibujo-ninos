@@ -1,6 +1,6 @@
 # Ejercicios: Laboratorio de Científico Loco
 
-## Ejercicio 1: El Gusano Arcoíris
+## Ejercicio 1. El Gusano Arcoíris
 
 **Objetivo**: Ver la mezcla en acción.
 

@@ -2,7 +2,7 @@
 
 ---
 
-## Ejercicio 1: Diseñando tu Firma
+## Ejercicio 1. Diseñando tu Firma
 
 **Objetivo**: Crear una identidad visual única.
 

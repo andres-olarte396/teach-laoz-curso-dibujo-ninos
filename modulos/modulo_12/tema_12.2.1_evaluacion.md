@@ -1,6 +1,6 @@
 # Evaluación: El Toque Final
 
-## Pregunta 1: Ubicación
+## Pregunta 1. Ubicación
 
 ¿Cuál es el lugar estándar para firmar una obra de arte?
 

@@ -1,6 +1,6 @@
 # Ejercicios: Conquistando el Papel
 
-## Ejercicio 1: Toca los 4 Bordes
+## Ejercicio 1. Toca los 4 Bordes
 
 **Objetivo**: Perder el miedo al borde.
 

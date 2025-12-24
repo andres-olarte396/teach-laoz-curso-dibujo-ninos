@@ -1,6 +1,6 @@
 # Ejercicios: Diseñador de Modas
 
-## Ejercicio 1: El Uniforme Explosivo
+## Ejercicio 1. El Uniforme Explosivo
 
 **Objetivo**: Usar Complementarios (Opuestos).
 

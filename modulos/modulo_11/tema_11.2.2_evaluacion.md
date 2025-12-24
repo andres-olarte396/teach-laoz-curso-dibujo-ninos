@@ -1,6 +1,6 @@
 # Evaluación: Manchas Divertidas
 
-## Pregunta 1: Superpoder Mental
+## Pregunta 1. Superpoder Mental
 
 ¿Qué es la **Pareidolia**?
 

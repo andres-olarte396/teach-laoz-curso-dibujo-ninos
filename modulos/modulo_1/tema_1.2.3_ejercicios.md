@@ -1,6 +1,6 @@
 # Ejercicios: Safari de Papel
 
-## Ejercicio 1: Animales Híbridos
+## Ejercicio 1. Animales Híbridos
 
 **Objetivo**: Jugar con las partes.
 

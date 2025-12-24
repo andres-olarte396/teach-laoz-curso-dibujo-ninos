@@ -1,13 +1,13 @@
 # Ejercicios: Laboratorio de Volumen
 
-## Ejercicio 1: La Escalera de Fuerza
+## Ejercicio 1. La Escalera de Fuerza
 
 **Objetivo**: Controlar tu mano.
 
 **Instrucciones**:
 
 1. Dibuja 5 cuadritos juntos.
-2. Cuadro 1: BLANCO (No toques el papel).
+2. Cuadro 1. BLANCO (No toques el papel).
 3. Cuadro 2: Gris muy suave.
 4. Cuadro 3: Gris normal.
 5. Cuadro 4: Gris oscuro.

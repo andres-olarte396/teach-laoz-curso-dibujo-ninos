@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
   <rect width="800" height="400" fill="#e9fac8" /> <!-- Fondo Bosque Claro -->
 
-  <!-- Árbol 1: Pino (Triángulos) -->
+  <!-- Árbol 1. Pino (Triángulos) -->
   <rect x="150" y="300" width="20" height="60" fill="#5c3a21"/>
   <polygon points="100,300 220,300 160,200" fill="#2f9e44"/>
   <polygon points="110,220 210,220 160,140" fill="#37b24d"/>

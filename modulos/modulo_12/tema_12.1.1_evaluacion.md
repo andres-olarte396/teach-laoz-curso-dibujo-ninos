@@ -1,6 +1,6 @@
 # Evaluación: Lluvia de Ideas
 
-## Pregunta 1: El Mapa
+## Pregunta 1. El Mapa
 
 ¿Por qué hacemos bocetos pequeños (Miniaturas) antes del dibujo final?
 

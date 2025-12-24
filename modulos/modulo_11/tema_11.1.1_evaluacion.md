@@ -1,6 +1,6 @@
 # Evaluación: Magia con Cera
 
-## Pregunta 1: La Regla de Oro
+## Pregunta 1. La Regla de Oro
 
 Para que el dibujo "invisible" aparezca bien, ¿cómo debes usar el crayón?
 

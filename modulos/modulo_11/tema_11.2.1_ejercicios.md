@@ -2,7 +2,7 @@
 
 ---
 
-## Ejercicio 1: El Muestrario Secreto
+## Ejercicio 1. El Muestrario Secreto
 
 **Objetivo**: Encontrar 4 texturas diferentes en tu casa.
 

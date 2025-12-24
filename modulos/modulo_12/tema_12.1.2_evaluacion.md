@@ -1,6 +1,6 @@
 # Evaluación: La Gran Obra
 
-## Pregunta 1: Preparación
+## Pregunta 1. Preparación
 
 ¿Qué debes hacer antes de poner tu papel final sobre la mesa?
 

@@ -1,4 +1,4 @@
-# Presentación del Módulo 1: Fundamentos de Formas Básicas
+# Presentación del Módulo 1. Fundamentos de Formas Básicas
 
 ## Descripción General
 

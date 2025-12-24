@@ -16,7 +16,7 @@ Tu hoja es plana (2D), pero el mundo real es profundo (3D).
 
 Imagina que tu dibujo tiene **3 Capas** transparentes:
 
-### Capa 1: Primer Plano (Lo que puedes tocar) ✋
+### Capa 1. Primer Plano (Lo que puedes tocar) ✋
 
 * **Posición**: Abajo de la hoja.
 * **Tamaño**: GIGANTE.

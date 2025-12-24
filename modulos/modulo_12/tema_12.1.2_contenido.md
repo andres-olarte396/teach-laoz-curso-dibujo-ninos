@@ -20,7 +20,7 @@ Es ese estado mágico donde te olvidas del tiempo. No hay prisa. Solo tú y el a
 
 No tires todos los ingredientes a la olla de golpe. Sigue estos pasos:
 
-### Fase 1: El Fantasma (Boceto)
+### Fase 1. El Fantasma (Boceto)
 
 * Usa el lápiz más suave (HB).
 * Dibuja el esqueleto de tu dibujo.

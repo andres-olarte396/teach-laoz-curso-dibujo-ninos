@@ -1,6 +1,6 @@
 # Ejercicios: El Mundo Picudo
 
-## Ejercicio 1: Conectando Puntos
+## Ejercicio 1. Conectando Puntos
 
 **Objetivo**: Crear triángulos locos.
 

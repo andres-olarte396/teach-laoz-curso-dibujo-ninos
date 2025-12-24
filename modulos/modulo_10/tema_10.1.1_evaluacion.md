@@ -1,6 +1,6 @@
 # Evaluación: Mi dragón único
 
-## Pregunta 1: La Fórmula Secreta
+## Pregunta 1. La Fórmula Secreta
 
 Para crear un monstruo creíble, los artistas profesionales suelen:
 

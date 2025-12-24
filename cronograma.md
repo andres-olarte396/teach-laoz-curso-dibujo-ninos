@@ -13,9 +13,9 @@
 
 ## CALENDARIO SEMANAL
 
-### 📅 MES 1: DESCUBRIMIENTO Y FUNDAMENTOS BÁSICOS
+### 📅 MES 1. DESCUBRIMIENTO Y FUNDAMENTOS BÁSICOS
 
-#### **Semana 1: Módulo 0 - Preparación y Descubrimiento Artístico**
+#### **Semana 1. Módulo 0 - Preparación y Descubrimiento Artístico**
 
 - **Temas**: Bienvenida al dibujo + Primeros trazos libres
 - **Actividad Clave**: Exploración libre de materiales y creación de "libro de trazos"
@@ -93,7 +93,7 @@
 - **Materiales**: Lápices de colores, crayones
 - **Duración**: 4 horas
 
-#### **Semana 11: Módulo 4 - Color (Parte 3)**
+#### **Semana 11. Módulo 4 - Color (Parte 3)**
 
 - **Temas**: Aplicación creativa del color
 - **Actividad Clave**: Proyecto libre con paleta elegida
@@ -175,7 +175,7 @@
 
 ### 📅 MES 6: NATURALEZA E IMAGINACIÓN
 
-#### **Semana 21: Módulo 9 - Animales y Naturaleza (Parte 1)**
+#### **Semana 21. Módulo 9 - Animales y Naturaleza (Parte 1)**
 
 - **Temas**: Animales favoritos
 - **Actividad Clave**: Dibujar mascotas y animales salvajes

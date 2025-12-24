@@ -1,6 +1,6 @@
 # Ejercicios: Gigantes de la Selva
 
-## Ejercicio 1: La Jirafa Infinita
+## Ejercicio 1. La Jirafa Infinita
 
 **Objetivo**: Exageración vertical.
 

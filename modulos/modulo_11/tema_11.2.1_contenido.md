@@ -30,7 +30,7 @@ Estás usand tu lápiz como un **Escáner Manual**.
 
 ## 3. Paso a paso: El Mapa de Texturas
 
-### Paso 1: Encontrar la Pista
+### Paso 1. Encontrar la Pista
 
 Busca algo que se sienta rasposo al tacto. (Si es liso como un vidrio, no sirve).
 

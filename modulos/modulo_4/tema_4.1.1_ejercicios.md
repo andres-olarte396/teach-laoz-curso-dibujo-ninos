@@ -1,6 +1,6 @@
 # Ejercicios: Entrenamiento de Jefes
 
-## Ejercicio 1: Cazadores de Color
+## Ejercicio 1. Cazadores de Color
 
 **Objetivo**: Encontrar los primarios en la vida real.
 

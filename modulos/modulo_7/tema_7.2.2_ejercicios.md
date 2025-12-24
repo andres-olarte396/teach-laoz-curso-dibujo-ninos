@@ -1,6 +1,6 @@
 # Ejercicios: Ingeniero de Ciudad
 
-## Ejercicio 1: La Calle Maestra
+## Ejercicio 1. La Calle Maestra
 
 **Objetivo**: Dibujo completo.
 

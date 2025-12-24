@@ -1,6 +1,6 @@
 # Ejercicios: Conociendo materiales
 
-## Ejercicio 1: El Laboratorio de Pruebas
+## Ejercicio 1. El Laboratorio de Pruebas
 
 **Objetivo**: Sentir la diferencia entre cada herramienta.
 

@@ -1,6 +1,6 @@
 # Ejercicios: Cambiando de Cámara
 
-## Ejercicio 1: Vista de Gusano (Poderoso)
+## Ejercicio 1. Vista de Gusano (Poderoso)
 
 **Objetivo**: Dibujo Épico.
 

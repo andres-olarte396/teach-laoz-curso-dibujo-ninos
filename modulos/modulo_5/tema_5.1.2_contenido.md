@@ -13,7 +13,7 @@
 Si dibujas un círculo y lo pintas todo del mismo color... parece una moneda aplastada (Plano 2D).
 Si quieres que parezca una pelota inflada (Volumen 3D), necesitas **3 Ingredientes Secretos**:
 
-### Ingrediente 1: El Brillo (Luz Alta) ✨
+### Ingrediente 1. El Brillo (Luz Alta) ✨
 
 Es el punto exacto donde la luz golpea más fuerte.
 **¡Truco!** NO lo pintes con color blanco. Deja el blanco del papel virgen.

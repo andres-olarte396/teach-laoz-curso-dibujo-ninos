@@ -27,7 +27,7 @@ Para que un monstruo parezca REAL, tienes que mezclar partes de animales que SÍ
 
 ## 2. Paso a paso: Cómo dibujar tu Dragón
 
-### Paso 1: El Cuerpo (El Chasis)
+### Paso 1. El Cuerpo (El Chasis)
 
 Imagina qué "vehículo" es tu dragón:
 

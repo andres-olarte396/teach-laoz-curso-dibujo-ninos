@@ -2,7 +2,7 @@
 
 ---
 
-## Ejercicio 1: El Mundo Invertido (Color)
+## Ejercicio 1. El Mundo Invertido (Color)
 
 **Objetivo**: Entrenar el cerebro para usar colores "incorrectos".
 

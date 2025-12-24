@@ -28,7 +28,7 @@ Tú dibujas con cera, y cuando pintas encima con agua... ¡el dibujo "rechaza" l
 
 ## 3. Paso a paso: La Noche Estrellada
 
-### Paso 1: El Dibujo Fantasma
+### Paso 1. El Dibujo Fantasma
 
 Usa tu crayón BLANCO sobre el papel blanco.
 

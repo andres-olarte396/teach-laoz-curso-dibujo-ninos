@@ -1,6 +1,6 @@
 # Evaluación: La Ciudad del Futuro
 
-## Pregunta 1: Estilos de Futuro
+## Pregunta 1. Estilos de Futuro
 
 ¿Cómo se llama el estilo de futuro que mezcla tecnología con **Naturaleza** (plantas, sol, aire limpio)?
 

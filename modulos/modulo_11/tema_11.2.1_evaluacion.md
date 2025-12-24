@@ -1,6 +1,6 @@
 # Evaluación: Texturas Secretas
 
-## Pregunta 1: Herramientas
+## Pregunta 1. Herramientas
 
 Para que el Frottage salga perfecto, ¿qué tipo de papel necesitas?
 

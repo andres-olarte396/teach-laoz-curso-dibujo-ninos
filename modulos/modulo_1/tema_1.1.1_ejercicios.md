@@ -1,6 +1,6 @@
 # Ejercicios: El Señor de los Anillos
 
-## Ejercicio 1: Calentamiento de Hombro
+## Ejercicio 1. Calentamiento de Hombro
 
 **Objetivo**: Activar el "Motor del Hombro".
 

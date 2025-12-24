@@ -22,7 +22,7 @@ Si dibujas una hormiga del mismo tamaño que un elefante, confundes al cerebro. 
 
 ## 2. Dos Trucos Mágicos de Tamaño
 
-### Truco 1: Jerarquía (¿Quién es el Rey?)
+### Truco 1. Jerarquía (¿Quién es el Rey?)
 
 El objeto más importante de tu dibujo debe destacar por su tamaño.
 

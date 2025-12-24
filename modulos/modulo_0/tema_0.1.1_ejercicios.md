@@ -1,6 +1,6 @@
 # Ejercicios: ¿Qué es el dibujo?
 
-## Ejercicio 1: Calentamiento de Garabatos
+## Ejercicio 1. Calentamiento de Garabatos
 
 **Objetivo**: Perder el miedo a la hoja en blanco (¡el enemigo número 1 de los artistas!).
 

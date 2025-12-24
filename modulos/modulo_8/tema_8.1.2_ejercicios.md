@@ -1,6 +1,6 @@
 # Ejercicios: Olimpiadas de Dibujo
 
-## Ejercicio 1: Palitos Extremos
+## Ejercicio 1. Palitos Extremos
 
 **Objetivo**: Dibujar movimiento rápido.
 

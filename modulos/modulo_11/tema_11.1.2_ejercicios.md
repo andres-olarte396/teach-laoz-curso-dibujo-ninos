@@ -2,7 +2,7 @@
 
 ---
 
-## Ejercicio 1: Paisaje de Texturas
+## Ejercicio 1. Paisaje de Texturas
 
 **Objetivo**: Ver colores y texturas, no objetos.
 

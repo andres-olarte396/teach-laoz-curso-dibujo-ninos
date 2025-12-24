@@ -2,7 +2,7 @@
 
 ---
 
-## Ejercicio 1: Práctica de Costura (Técnica)
+## Ejercicio 1. Práctica de Costura (Técnica)
 
 **Objetivo**: Aprender a mezclar dos texturas sin usar líneas rectas.
 

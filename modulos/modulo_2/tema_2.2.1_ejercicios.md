@@ -1,6 +1,6 @@
 # Ejercicios: Laboratorio de Texturas
 
-## Ejercicio 1: La Escala de Hormigas (Puntos)
+## Ejercicio 1. La Escala de Hormigas (Puntos)
 
 **Objetivo**: Entender que "más puntos = más oscuro".
 

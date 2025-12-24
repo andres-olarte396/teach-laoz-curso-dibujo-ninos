@@ -29,7 +29,7 @@ Vamos a usar eso para crear monstruos únicos.
 
 Necesitamos tinta muy líquida (acuarela o colorante de comida) y un popote (pajita).
 
-### Paso 1: La Gota Gorda
+### Paso 1. La Gota Gorda
 
 Pon un charco de tinta en el papel.
 

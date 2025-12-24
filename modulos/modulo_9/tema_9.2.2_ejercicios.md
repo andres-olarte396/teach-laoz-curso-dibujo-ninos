@@ -1,6 +1,6 @@
 # Ejercicios: Creador de Mundos
 
-## Ejercicio 1: Las 3 Capas
+## Ejercicio 1. Las 3 Capas
 
 **Objetivo**: Organizar el espacio.
 

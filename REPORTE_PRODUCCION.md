@@ -56,7 +56,7 @@ Se ha generado exitosamente la **arquitectura completa** del curso "Dibujo de 0 
 
 ---
 
-### FASE 1: PLANIFICACIÓN ✅
+### FASE 1. PLANIFICACIÓN ✅
 
 **Completado**: 100%
 

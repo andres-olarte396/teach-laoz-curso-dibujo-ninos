@@ -1,6 +1,6 @@
 # Ejercicios: Arquitecto de Papel
 
-## Ejercicio 1: Bloques Flotantes
+## Ejercicio 1. Bloques Flotantes
 
 **Objetivo**: Entender la fuga.
 

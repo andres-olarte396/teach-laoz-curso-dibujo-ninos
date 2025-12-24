@@ -1,6 +1,6 @@
 # Evaluación: Graduación Artística
 
-## Pregunta 1: Comunicación
+## Pregunta 1. Comunicación
 
 ¿Por qué exponemos nuestro arte?
 

@@ -1,6 +1,6 @@
 # Ejercicios: Jardinero de Papel
 
-## Ejercicio 1: El Árbol Y
+## Ejercicio 1. El Árbol Y
 
 **Objetivo**: Estructura.
 

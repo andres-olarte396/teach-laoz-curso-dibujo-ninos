@@ -1,6 +1,6 @@
 # Ejercicios: Mundo Cuadriculado
 
-## Ejercicio 1: Robots de Caja
+## Ejercicio 1. Robots de Caja
 
 **Objetivo**: Combinar cuadrados y rectángulos.
 

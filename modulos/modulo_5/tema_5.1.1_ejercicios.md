@@ -1,6 +1,6 @@
 # Ejercicios: Cazadores de Sombras
 
-## Ejercicio 1: La Brújula de Sombra
+## Ejercicio 1. La Brújula de Sombra
 
 **Objetivo**: Mover el sol.
 

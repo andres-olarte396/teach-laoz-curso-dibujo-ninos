@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
   <rect width="800" height="400" fill="#fff" />
 
-  <!-- Capa 1: Fondo (Cielo/Pan de Arriba) -->
+  <!-- Capa 1. Fondo (Cielo/Pan de Arriba) -->
   <path d="M50,50 Q400,0 750,50 Q750,100 400,100 Q50,100 50,50" fill="#ffec99" stroke="#f08c00" stroke-width="2"/>
   <text x="350" y="70" font-family="Arial" font-size="20" fill="#e67700">FONDO (Cielo)</text>
 

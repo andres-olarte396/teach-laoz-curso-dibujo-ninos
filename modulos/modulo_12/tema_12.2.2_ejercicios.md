@@ -2,7 +2,7 @@
 
 ---
 
-## Ejercicio 1: El Curador de Museo
+## Ejercicio 1. El Curador de Museo
 
 **Objetivo**: Seleccionar y organizar.
 

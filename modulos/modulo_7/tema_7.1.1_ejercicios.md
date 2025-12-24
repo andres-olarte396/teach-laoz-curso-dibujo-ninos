@@ -1,6 +1,6 @@
 # Ejercicios: El Camino al Infinito
 
-## Ejercicio 1: La Carretera
+## Ejercicio 1. La Carretera
 
 **Objetivo**: Tu primera perspectiva.
 

@@ -2,7 +2,7 @@
 
 ---
 
-## Ejercicio 1: Miniaturas Veloces
+## Ejercicio 1. Miniaturas Veloces
 
 **Objetivo**: Perder el miedo a dibujar mal y enfocarse en la composición.
 
@@ -11,7 +11,7 @@
 1. Dibuja 4 rectángulos pequeños en tu hoja (tamaño tarjeta de presentación).
 2. Tema: "CASTILLO".
 3. Tienes 1 minuto para llenar los 4 cuadros con 4 castillos diferentes:
-    * Cuadro 1: Castillo de cuentos (picudo).
+    * Cuadro 1. Castillo de cuentos (picudo).
     * Cuadro 2: Castillo de horror (roto y oscuro).
     * Cuadro 3: Castillo futurista (flotante).
     * Cuadro 4: Castillo de dulces.

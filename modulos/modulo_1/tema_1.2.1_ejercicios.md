@@ -1,6 +1,6 @@
 # Ejercicios: Barrio de Artistas
 
-## Ejercicio 1: La Casa de Jengibre
+## Ejercicio 1. La Casa de Jengibre
 
 **Objetivo**: Practicar formas básicas divirtiéndote.
 

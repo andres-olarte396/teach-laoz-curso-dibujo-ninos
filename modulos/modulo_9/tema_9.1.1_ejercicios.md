@@ -1,6 +1,6 @@
 # Ejercicios: Peludos y Patones
 
-## Ejercicio 1: El Gusano de Bolitas
+## Ejercicio 1. El Gusano de Bolitas
 
 **Objetivo**: Estructura básica.
 

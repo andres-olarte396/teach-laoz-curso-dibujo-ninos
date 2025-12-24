@@ -35,7 +35,7 @@ Cuando ve un ojo, te dice: *"¡Rápido! Dibuja un símbolo de ojo (un círculo c
 
 ## 3. Herramientas de Detective
 
-### Herramienta 1: El Dibujo a Ciegas (Contorno Ciego)
+### Herramienta 1. El Dibujo a Ciegas (Contorno Ciego)
 
 Este es un juego divertido para "engañar" a tu cerebro lógico y obligarlo a observar.
 
