@@ -23,6 +23,7 @@ Curso completo de dibujo diseñado específicamente para niños y niñas de 6 a�
 **Estado**: ✅ Completo con contenido detallado
 
 - **Tema 0.1**: Bienvenida al Mundo del Dibujo
+
   - 0.1.1. ¿Qué es el dibujo y por qué es divertido? ✅
   - 0.1.2: Conociendo nuestros materiales mágicos ✅
   - Preconceptos fundamentales ✅
@@ -38,6 +39,7 @@ Curso completo de dibujo diseñado específicamente para niños y niñas de 6 a�
 **Estado**: 📝 Estructura base creada
 
 - **Tema 1.1**: El Mundo de las Formas Simples
+
   - 1.1.1. Círculos perfectos (o casi)
   - 1.1.2: Cuadrados y rectángulos
   - 1.1.3: Triángulos de todos los tipos
@@ -54,6 +56,7 @@ Curso completo de dibujo diseñado específicamente para niños y niñas de 6 a�
 **Estado**: 📝 Estructura base creada
 
 - **Tema 2.1**: Líneas con Personalidad
+
   - 2.1.1. Líneas gruesas y delgadas
   - 2.1.2: Líneas suaves y líneas fuertes
   - 2.1.3: Líneas que cuentan historias
@@ -230,7 +233,7 @@ Al completar este curso, el estudiante será capaz de:
 ### Estructura de Cada Lección
 
 1. **Introducción**: Por qué importa el concepto
-2. **Explicación**: Comprensión intuitiva y formal
+2. **Justificación**: Comprensión intuitiva y formal
 3. **Demostración**: Ejemplos paso a paso
 4. **Práctica guiada**: Ejercicios con instrucciones
 5. **Práctica libre**: Aplicación creativa

@@ -439,7 +439,7 @@ c) Opción C
 d) Opción D
 
 **Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
+**Justificación**: [Por qué es correcta]
 
 ---
 
