@@ -1,0 +1,20 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #E3F2FD; }
+    .line { stroke-width: 6; stroke-linecap: round; }
+    .curve { stroke: #42A5F5; }
+    .zigzag { stroke: #AB47BC; }
+    .dotted { stroke: #FF7043; stroke-dasharray: 10 8; }
+    .hand { fill: #FBC02D; }
+  </style>
+  <rect width="400" height="300" class="bg"/>
+  <!-- Manito dibujando líneas -->
+  <g transform="translate(60,220)">
+    <rect x="0" y="-10" width="90" height="12" rx="6" class="hand"/>
+    <polygon points="90,-10 115,0 90,2" fill="#F57F17"/>
+  </g>
+  <!-- Líneas básicas -->
+  <path d="M 120 210 Q 220 160, 320 140" class="line curve"/>
+  <path d="M 120 240 L 150 220 L 180 240 L 210 220 L 240 240 L 270 220 L 300 240" class="line zigzag"/>
+  <path d="M 120 180 C 180 200, 240 200, 300 180" class="line dotted"/>
+</svg>

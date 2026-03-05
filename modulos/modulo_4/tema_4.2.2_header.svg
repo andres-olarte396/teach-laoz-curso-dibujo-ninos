@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#e3fafc" />
+
+  <!-- Montañas de Hielo (Fondo) -->
+  <path d="M0,350 L200,100 L400,350 L600,150 L800,350 L800,400 L0,400 Z" fill="#74c0fc" stroke="#1c7ed6" stroke-width="2"/>
+  
+  <!-- Agua Congelada (Primer plano) -->
+  <rect x="0" y="320" width="800" height="80" fill="#a5d8ff" opacity="0.6"/>
+  <path d="M50,340 Q100,320 150,340" stroke="#fff" stroke-width="3" fill="none"/>
+  <path d="M600,360 Q650,340 700,360" stroke="#fff" stroke-width="3" fill="none"/>
+
+  <!-- Copo de Nieve Gigante -->
+  <g transform="translate(650, 100)">
+    <line x1="0" y1="-40" x2="0" y2="40" stroke="#fff" stroke-width="5"/>
+    <line x1="-35" y1="-20" x2="35" y2="20" stroke="#fff" stroke-width="5"/>
+    <line x1="-35" y1="20" x2="35" y2="-20" stroke="#fff" stroke-width="5"/>
+    <circle cx="0" cy="0" r="10" fill="#fff"/>
+  </g>
+
+  <!-- Iglú -->
+  <g transform="translate(200, 300)">
+     <path d="M-50,0 A50,50 0 0,1 50,0 Z" fill="#e7f5ff" stroke="#339af0" stroke-width="2"/>
+     <rect x="-15" y="-15" width="30" height="15" fill="#1864ab" rx="5"/> <!-- Puerta -->
+     <line x1="-40" y1="-10" x2="40" y2="-10" stroke="#339af0" stroke-width="1"/>
+     <line x1="-45" y1="-25" x2="45" y2="-25" stroke="#339af0" stroke-width="1"/>
+     <line x1="-30" y1="-38" x2="30" y2="-38" stroke="#339af0" stroke-width="1"/>
+  </g>
+
+  <text x="50" y="80" font-family="Arial" font-size="30" fill="#1864ab" font-weight="bold">PLANETA HIELO</text>
+  <text x="50" y="110" font-family="Arial" font-size="20" fill="#1864ab">Azul, Morado, Verde</text>
+
+</svg>

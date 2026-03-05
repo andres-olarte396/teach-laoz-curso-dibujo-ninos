@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#fff9db" />
+
+  <!-- Manzana -->
+  <g transform="translate(300, 100)">
+    <!-- Forma base -->
+    <path d="M100,20 Q60,0 20,20 Q0,50 10,100 Q0,150 50,180 Q100,200 150,180 Q200,150 190,100 Q200,50 180,20 Q140,0 100,20" fill="#ff8787" stroke="#e03131" stroke-width="4"/>
+    
+    <!-- Tallo y Hoja -->
+    <path d="M100,20 Q110,-10 120,-20" stroke="#5c3a21" stroke-width="5" fill="none"/>
+    <path d="M120,-20 Q150,-30 140,0 Q120,10 120,-20" fill="#40c057"/>
+
+    <!-- Sombreado Hatching (Líneas diagonales) -->
+    <g stroke="#c92a2a" stroke-width="2">
+      <line x1="20" y1="100" x2="60" y2="140"/>
+      <line x1="30" y1="100" x2="70" y2="140"/>
+      <line x1="40" y1="100" x2="80" y2="140"/>
+      <line x1="50" y1="100" x2="90" y2="140"/>
+      <line x1="60" y1="120" x2="100" y2="160"/>
+    </g>
+
+    <!-- Cross-Hatching (Cruce en la zona más oscura) -->
+    <g stroke="#a61e4d" stroke-width="2">
+      <line x1="160" y1="140" x2="120" y2="180"/>
+      <line x1="170" y1="130" x2="130" y2="170"/>
+      <line x1="180" y1="120" x2="140" y2="160"/>
+      
+      <!-- Cruce -->
+      <line x1="120" y1="140" x2="160" y2="180"/>
+      <line x1="130" y1="130" x2="170" y2="170"/>
+    </g>
+  </g>
+
+  <!-- Zoom Lupa -->
+  <circle cx="600" cy="250" r="80" fill="none" stroke="#333" stroke-width="10"/>
+  <text x="560" y="350" font-family="Arial" font-size="20">¡Rayitas!</text>
+  <line x1="580" y1="230" x2="620" y2="270" stroke="#333" stroke-width="3"/> 
+  <line x1="590" y1="230" x2="630" y2="270" stroke="#333" stroke-width="3"/>
+  <line x1="620" y1="230" x2="580" y2="270" stroke="#333" stroke-width="3"/> <!-- X -->
+
+</svg>

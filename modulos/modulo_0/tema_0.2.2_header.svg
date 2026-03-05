@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#f8f9fa" />
+
+  <!-- Garabatos Locos -->
+  <path d="M100,100 Q200,400 300,100 T500,100 T700,300" stroke="#f06595" stroke-width="5" fill="none"/>
+  <path d="M50,300 C150,100 250,500 350,200 S550,0 650,300" stroke="#ae3ec9" stroke-width="5" fill="none"/>
+  <path d="M200,200 L250,250 L300,150 L350,250 L400,150" stroke="#ffd43b" stroke-width="5" fill="none" stroke-linejoin="round"/>
+
+  <!-- Ojos en los garabatos -->
+  <g transform="translate(300, 100)">
+     <circle cx="0" cy="0" r="15" fill="#fff"/> <circle cx="5" cy="0" r="5" fill="#333"/>
+     <circle cx="30" cy="0" r="15" fill="#fff"/> <circle cx="35" cy="0" r="5" fill="#333"/>
+  </g>
+  
+  <g transform="translate(650, 300)">
+     <circle cx="0" cy="0" r="10" fill="#fff"/> <circle cx="0" cy="0" r="3" fill="#333"/>
+     <circle cx="20" cy="0" r="10" fill="#fff"/> <circle cx="20" cy="0" r="3" fill="#333"/>
+  </g>
+
+  <text x="300" y="350" font-family="Arial" font-size="30" fill="#333">¡Suelta la mano!</text>
+
+</svg>

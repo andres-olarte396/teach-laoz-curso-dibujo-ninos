@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#fff" />
+
+  <!-- Jefe Rojo -->
+  <g transform="translate(150, 200)">
+    <polygon points="0,-80 70,-40 70,40 0,80 -70,40 -70,-40" fill="#fa5252"/>
+    <text x="-15" y="10" font-family="Arial" font-size="40" fill="#fff" font-weight="bold">R</text>
+    <path d="M-50,80 Q0,100 50,80" fill="none" stroke="#fa5252" stroke-width="5" stroke-linecap="round"/> <!-- Capa imaginaria -->
+  </g>
+
+  <!-- Jefe Amarillo -->
+  <g transform="translate(400, 200)">
+    <polygon points="0,-80 80,0 0,80 -80,0" fill="#ffd43b"/>
+    <text x="-15" y="10" font-family="Arial" font-size="40" fill="#fff" font-weight="bold">A</text>
+  </g>
+
+  <!-- Jefe Azul -->
+  <g transform="translate(650, 200)">
+    <circle cx="0" cy="0" r="70" fill="#228be6"/>
+    <text x="-15" y="10" font-family="Arial" font-size="40" fill="#fff" font-weight="bold">Z</text>
+  </g>
+
+  <text x="250" y="50" font-family="Arial" font-size="30" fill="#333" font-weight="bold">LOS 3 JEFES</text>
+
+</svg>

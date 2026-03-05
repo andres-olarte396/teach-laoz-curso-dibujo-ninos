@@ -1,0 +1,20 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #E3F2FD; }
+    .ground { fill: #C8E6C9; }
+    .line { stroke: #616161; stroke-width: 1.5; }
+    .house { fill: #FFAB91; }
+    .roof { fill: #8D6E63; }
+    .road { fill: #B0BEC5; }
+  </style>
+  <rect width="400" height="300" class="bg"/>
+  <rect y="220" width="400" height="80" class="ground"/>
+  <!-- Punto de fuga y líneas -->
+  <circle cx="200" cy="150" r="3" fill="#1976D2"/>
+  <line x1="20" y1="260" x2="200" y2="150" class="line"/>
+  <line x1="380" y1="260" x2="200" y2="150" class="line"/>
+  <polygon points="160,220 240,220 200,260" class="road"/>
+  <!-- Casa en perspectiva -->
+  <rect x="100" y="180" width="60" height="40" class="house"/>
+  <polygon points="95,180 130,160 165,180" class="roof"/>
+</svg>

@@ -1,0 +1,55 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <style>
+    .child-face { fill: #FDE3A7; }
+    .hair { fill: #4A3728; }
+    .shirt { fill: #5D9CEC; }
+    .hand { fill: #FDE3A7; stroke: #4A3728; stroke-width: 2; }
+    .pencil { fill: #F4D03F; }
+    .pencil-tip { fill: #2C3E50; }
+    .perfect-circle { fill: none; stroke: #4CAF50; stroke-width: 3; stroke-dasharray: 5; animation: draw 3s linear infinite; }
+    .wobbly-circle { fill: none; stroke: #E74C3C; stroke-width: 2.5; }
+    .eye { fill: #2C3E50; }
+    .mouth { fill: none; stroke: #2C3E50; stroke-width: 2; }
+    @keyframes draw {
+      to { stroke-dashoffset: -100; }
+    }
+  </style>
+  
+  <!-- Fondo -->
+  <rect width="400" height="300" fill="#E1F5FE"/>
+
+  <!-- Niño -->
+  <g transform="translate(80, 150)">
+    <!-- Cabeza -->
+    <circle cx="50" cy="0" r="40" class="child-face"/>
+    <!-- Pelo -->
+    <path d="M 20 -40 Q 50 -60, 80 -40 L 90 -30 Q 50 -50, 10 -30 Z" class="hair"/>
+    <!-- Ojos -->
+    <circle cx="35" cy="-5" r="4" class="eye"/>
+    <circle cx="65" cy="-5" r="4" class="eye"/>
+    <!-- Sonrisa -->
+    <path d="M 40 15 Q 50 25, 60 15" class="mouth"/>
+    <!-- Cuerpo -->
+    <rect x="20" y="40" width="60" height="80" rx="10" class="shirt"/>
+  </g>
+
+  <!-- Mano y Lápiz -->
+  <g transform="translate(200, 120)">
+    <path d="M0,0 C10,-10 30,-10 40,0 L35,30 C25,40 15,40 5,30 Z" class="hand" transform="rotate(20)"/>
+    <polygon points="30,5 35,0 55,20 50,25" class="pencil"/>
+    <polygon points="55,20 58,17 63,22 60,25" class="pencil-tip"/>
+  </g>
+
+  <!-- Círculos -->
+  <g transform="translate(250, 150)">
+    <!-- Círculo perfecto -->
+    <circle cx="0" cy="0" r="45" class="perfect-circle"/>
+    
+    <!-- Círculo tembloroso -->
+    <path d="M 80,5 C 95,-20 130,-15 140,10 C 150,35 125,55 100,50 C 75,45 65,30 80,5 Z" class="wobbly-circle"/>
+
+     <!-- Otro círculo tembloroso -->
+    <path d="M -50, 60 C -70, 40 -80, 70 -60, 90 C -40, 110 -20, 100 -30, 80 C -40, 60 -50, 60 Z" class="wobbly-circle" stroke-width="2"/>
+  </g>
+  
+</svg>

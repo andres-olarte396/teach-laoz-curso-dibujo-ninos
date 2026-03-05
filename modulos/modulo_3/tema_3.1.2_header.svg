@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#fff5f5" />
+
+  <!-- Mesa -->
+  <rect x="0" y="300" width="800" height="100" fill="#e9ecef"/>
+
+  <!-- Modelo (Oso de Peluche) -->
+  <g transform="translate(200, 200)">
+    <circle cx="0" cy="0" r="40" fill="#d9480f"/> <!-- Cabeza -->
+    <circle cx="-30" cy="-30" r="15" fill="#d9480f"/> <!-- Oreja -->
+    <circle cx="30" cy="-30" r="15" fill="#d9480f"/> <!-- Oreja -->
+    <ellipse cx="0" cy="60" rx="50" ry="60" fill="#d9480f"/> <!-- Cuerpo -->
+    <circle cx="-40" cy="40" r="20" fill="#d9480f"/> <!-- Brazo -->
+    <circle cx="40" cy="40" r="20" fill="#d9480f"/> <!-- Brazo -->
+    
+    <circle cx="0" cy="0" r="10" fill="#fff"/> <!-- Hocico -->
+    <circle cx="0" cy="-5" r="3" fill="#333"/>
+    <circle cx="-15" cy="-10" r="3" fill="#333"/>
+    <circle cx="15" cy="-10" r="3" fill="#333"/>
+  </g>
+
+  <!-- Flecha de Mirada -->
+  <path d="M300,200 L500,200" stroke="#333" stroke-width="2" stroke-dasharray="10,5" marker-end="url(#arrow)"/>
+  <polygon points="500,200 490,190 490,210" fill="#333"/>
+
+  <!-- Dibujo (Bloc de notas) -->
+  <g transform="translate(550, 150)">
+    <rect x="0" y="0" width="150" height="200" fill="#fff" stroke="#868e96" stroke-width="2"/>
+    <rect x="0" y="-10" width="150" height="20" fill="#adb5bd"/> <!-- Espiral -->
+    
+    <!-- Boceto del Oso (Líneas simples) -->
+    <g stroke="#333" stroke-width="2" fill="none">
+       <circle cx="75" cy="60" r="20"/>
+       <ellipse cx="75" cy="110" rx="30" ry="40"/>
+       <path d="M60,200 L120,200" stroke="#fa5252" stroke-width="5" opacity="0.5"/> <!-- Lápiz -->
+    </g>
+  </g>
+
+  <text x="350" y="100" font-family="Arial" font-size="24" fill="#333">¡Dibuja lo que ves!</text>
+
+</svg>

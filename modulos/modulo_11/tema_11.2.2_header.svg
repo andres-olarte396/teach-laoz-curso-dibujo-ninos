@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#f8f9fa" />
+
+  <!-- Mancha Central (Monstruo) -->
+  <path d="M350,200 Q300,100 450,150 Q550,100 500,250 Q600,350 400,300 Q200,350 350,200" fill="#ff6b6b" opacity="0.9"/>
+  <!-- Ojos tontos -->
+  <circle cx="380" cy="200" r="15" fill="#fff"/>
+  <circle cx="380" cy="200" r="5" fill="#333"/>
+  <circle cx="440" cy="180" r="25" fill="#fff"/>
+  <circle cx="440" cy="180" r="8" fill="#333"/>
+  <!-- Boca -->
+  <path d="M400,250 Q430,280 460,250" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Mancha Azul (Explosión) -->
+  <path d="M150,150 Q200,50 250,150 Q280,200 200,250 Q120,220 150,150" fill="#339af0" opacity="0.8"/>
+  <path d="M200,150 L220,100 M220,150 L250,120" stroke="#339af0" stroke-width="5" stroke-linecap="round"/>
+  <!-- Ojo cíclope -->
+  <circle cx="210" cy="180" r="20" fill="#fff"/>
+  <circle cx="210" cy="180" r="8" fill="#333"/>
+
+  <!-- Popote (Herramienta) -->
+  <rect x="650" y="100" width="30" height="200" fill="#51cf66" transform="rotate(45 665 200)"/>
+  <path d="M600,300 Q580,320 550,310" fill="none" stroke="#ced4da" stroke-width="3" opacity="0.5"/> <!-- Aire -->
+</svg>

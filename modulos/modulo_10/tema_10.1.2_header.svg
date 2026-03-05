@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#e3fafc" />
+
+  <!-- Animal Híbrido: Tiburonejo -->
+  <!-- Cuerpo Tiburón -->
+  <path d="M200,200 Q300,100 500,200 Q600,250 500,300 Q300,350 200,200" fill="#adb5bd"/>
+  <path d="M500,200 L550,150 L530,220" fill="#adb5bd"/> <!-- Aleta -->
+  <path d="M600,250 L650,220 L650,280 z" fill="#adb5bd"/> <!-- Cola -->
+
+  <!-- Cabeza Conejo -->
+  <circle cx="200" cy="220" r="60" fill="#fff"/>
+  <ellipse rx="20" ry="60" cx="180" cy="150" fill="#fff" stroke="#ced4da" stroke-width="2"/> <!-- Oreja 1 -->
+  <ellipse rx="20" ry="60" cx="220" cy="150" fill="#fff" stroke="#ced4da" stroke-width="2"/> <!-- Oreja 2 -->
+  
+  <circle cx="190" cy="210" r="5" fill="#333"/> <!-- Ojo -->
+  <circle cx="210" cy="210" r="5" fill="#333"/>
+  <path d="M200,230 L190,240 L210,240 Z" fill="#ffec99"/> <!-- Nariz -->
+
+  <!-- Costura (Símbolo de unión) -->
+  <path d="M240,180 L240,260" stroke="#fa5252" stroke-width="3" stroke-dasharray="5,5"/>
+  <text x="250" y="220" font-family="Arial" font-size="20" fill="#fa5252">?</text>
+
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#d0ebff" /> <!-- Cielo -->
+  <circle cx="700" cy="80" r="50" fill="#ffd43b" /> <!-- Sol -->
+  
+  <!-- Montañas (Fondo) -->
+  <path d="M0,350 L200,100 L400,350 L600,150 L800,350 L800,400 L0,400 Z" fill="#ced4da" stroke="#868e96" stroke-width="2"/>
+  <path d="M150,165 L200,100 L250,165" fill="#fff" /> <!-- Nieve 1 -->
+  <path d="M550,200 L600,150 L650,200" fill="#fff" /> <!-- Nieve 2 -->
+
+  <!-- Colinas (Medio) -->
+  <path d="M0,400 Q400,300 800,400" fill="#51cf66" />
+  
+  <!-- Río (Primer plano) -->
+  <path d="M350,400 Q400,350 450,400" fill="#339af0" /> 
+  <path d="M400,320 Q300,350 200,400 L600,400 Q500,350 400,320" fill="#4dabf7" /> 
+
+  <!-- Árbol Pequeño -->
+  <g transform="translate(100, 250)">
+    <rect x="20" y="50" width="10" height="50" fill="#865439"/>
+    <circle cx="25" cy="40" r="30" fill="#2b8a3e"/>
+  </g>
+  
+  <!-- Nubes -->
+  <circle cx="150" cy="80" r="30" fill="#fff" opacity="0.8"/>
+  <circle cx="190" cy="80" r="40" fill="#fff" opacity="0.8"/>
+  <circle cx="230" cy="80" r="30" fill="#fff" opacity="0.8"/>
+
+</svg>

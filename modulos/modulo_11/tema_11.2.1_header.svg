@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#e9ecef" />
+
+  <!-- Hoja real (debajo) -->
+  <path d="M400,350 Q300,200 400,50 Q500,200 400,350" fill="#868e96" opacity="0.3"/>
+  <path d="M400,50 L400,350" stroke="#868e96" stroke-width="2" opacity="0.3"/> <!-- Vena central -->
+
+  <!-- Papel (Encima) -->
+  <rect x="250" y="50" width="300" height="300" fill="#fff" opacity="0.8" stroke="#ced4da"/>
+
+  <!-- Textura Frotada (Resultado) -->
+  <path d="M380,100 L420,120 M370,150 L430,170 M390,200 L410,210" stroke="#0ca678" stroke-width="4" stroke-linecap="round" stroke-dasharray="5,5"/>
+  <path d="M400,320 Q320,200 400,80 Q480,200 400,320" fill="none" stroke="#20c997" stroke-width="20" stroke-opacity="0.4"/>
+
+  <!-- Crayón acostado (Herramienta) -->
+  <rect x="450" y="250" width="150" height="40" fill="#12b886" transform="rotate(-30 525 270)"/>
+  <text x="490" y="275" font-family="Arial" font-size="12" fill="#fff" transform="rotate(-30 525 270)">CRAYÓN</text>
+  
+  <!-- Mano abstracta (simple) -->
+  <circle cx="580" cy="220" r="30" fill="#ffec99"/>
+</svg>

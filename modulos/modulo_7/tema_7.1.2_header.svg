@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#f8f9fa" />
+
+  <text x="380" y="190" fill="#fa5252" font-weight="bold">X</text> <!-- Punto de Fuga -->
+
+  <!-- Edificio 1 -->
+  <polygon points="100,100 200,100 400,200 100,200" fill="#e9ecef" stroke="#adb5bd" stroke-width="1"/> <!-- Rayos guía -->
+  
+  <rect x="100" y="100" width="100" height="200" fill="#fab005" stroke="#333" stroke-width="3"/> <!-- Frente -->
+  <polygon points="200,100 300,150 300,250 200,300" fill="#ffd43b" stroke="#333" stroke-width="3"/> <!-- Lado profundidad -->
+
+  <!-- Edificio 2 -->
+  <polygon points="600,50 500,50 400,200 600,200" fill="#e9ecef" stroke="#adb5bd" stroke-width="1"/>
+
+  <rect x="500" y="50" width="80" height="150" fill="#ae3ec9" stroke="#333" stroke-width="3"/> <!-- Frente -->
+  <polygon points="500,50 450,150 450,250 500,200" fill="#e599f7" stroke="#333" stroke-width="3"/> <!-- Lado profundidad -->
+
+  <circle cx="400" cy="200" r="5" fill="#fa5252"/>
+</svg>

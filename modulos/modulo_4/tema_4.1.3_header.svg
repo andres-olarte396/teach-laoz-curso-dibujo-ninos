@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#fff" />
+
+  <!-- Círculo Cromático -->
+  <g transform="translate(400, 200) rotate(-90)">
+    <!-- Primarios -->
+    <path d="M0,0 L0,-150 A150,150 0 0,1 130,-75 Z" fill="#fa5252"/> <!-- Rojo -->
+    <path d="M0,0 L130,75 A150,150 0 0,1 0,150 Z" fill="#228be6"/> <!-- Azul -->
+    <path d="M0,0 L-130,-75 A150,150 0 0,1 0,-150 Z" fill="#ffd43b"/> <!-- Amarillo -->
+    
+    <!-- Secundarios (Interpolados visualmente) -->
+    <!-- En realidad SVG paths simples para 6 segmentos -->
+    <!-- Re-haciendo para 6 segmentos iguales de 60 grados -->
+  </g>
+
+  <!-- Versión Simplificada 6 Segmentos -->
+  <g transform="translate(400, 200)">
+    <!-- 1. Rojo (Arriba) -->
+    <path d="M0,0 L-75,-130 A150,150 0 0,1 75,-130 Z" fill="#fa5252" />
+    <!-- 2. Naranja (Arriba Derecha) -->
+    <path d="M0,0 L75,-130 A150,150 0 0,1 150,0 Z" fill="#fd7e14" />
+    <!-- 3. Amarillo (Abajo Derecha) -->
+    <path d="M0,0 L150,0 A150,150 0 0,1 75,130 Z" fill="#fcc419" />
+    <!-- 4. Verde (Abajo) -->
+    <path d="M0,0 L75,130 A150,150 0 0,1 -75,130 Z" fill="#40c057" />
+    <!-- 5. Azul (Abajo Izquierda) -->
+    <path d="M0,0 L-75,130 A150,150 0 0,1 -150,0 Z" fill="#228be6" />
+    <!-- 6. Violeta (Arriba Izquierda) -->
+    <path d="M0,0 L-150,0 A150,150 0 0,1 -75,-130 Z" fill="#be4bdb" />
+    
+    <circle cx="0" cy="0" r="20" fill="#fff"/>
+  </g>
+
+  <!-- Etiquetas Amigos (Opuestos) -->
+  <line x1="400" y1="70" x2="400" y2="330" stroke="#333" stroke-width="2" stroke-dasharray="5,5"/>
+  <text x="600" y="200" font-family="Arial" font-size="20" fill="#495057">¡Colores Amigos!</text>
+
+</svg>

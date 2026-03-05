@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#f3f0ff" />
+  
+  <line x1="0" y1="200" x2="800" y2="200" stroke="#adb5bd" stroke-width="2" stroke-dasharray="5,5"/> <!-- Horizonte -->
+  <text x="50" y="190" fill="#868e96">Nivel de los Ojos</text>
+
+  <!-- Ojo de Pájaro (Arriba) -->
+  <g transform="translate(200, 80)">
+    <rect x="0" y="0" width="80" height="60" fill="#748ffc" stroke="#333" stroke-width="2"/> <!-- Frente -->
+    <polygon points="0,0 30,-30 110,-30 80,0" fill="#a5d8ff" stroke="#333" stroke-width="2"/> <!-- Techo (Visible) -->
+    <polygon points="80,0 110,-30 110,30 80,60" fill="#91a7ff" stroke="#333" stroke-width="2"/> <!-- Lado -->
+    <text x="-50" y="30" fill="#333">Pájaro</text>
+    <!-- Pájaro simple -->
+    <path d="M-20,0 Q-10,-20 0,0" stroke="#333" stroke-width="2" fill="none"/>
+    <path d="M0,0 Q10,-20 20,0" stroke="#333" stroke-width="2" fill="none"/>
+  </g>
+
+  <!-- Ojo de Gusano (Abajo) -->
+  <g transform="translate(500, 250)">
+    <rect x="0" y="0" width="80" height="60" fill="#ff6b6b" stroke="#333" stroke-width="2"/> <!-- Frente -->
+    <polygon points="0,60 30,90 110,90 80,60" fill="#ffc9c9" stroke="#333" stroke-width="2"/> <!-- Piso (Visible) -->
+    <polygon points="80,0 110,30 110,90 80,60" fill="#ff8787" stroke="#333" stroke-width="2"/> <!-- Lado -->
+    <text x="-60" y="30" fill="#333">Gusano</text>
+    <!-- Gusano simple -->
+    <path d="M-20,40 Q-10,30 0,40" stroke="#339af0" stroke-width="4" fill="none"/>
+  </g>
+
+</svg>

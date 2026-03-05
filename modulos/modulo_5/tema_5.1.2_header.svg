@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#e9ecef" />
+
+  <!-- 2D Circle -->
+  <g transform="translate(200, 200)">
+    <circle cx="0" cy="0" r="80" fill="none" stroke="#333" stroke-width="5"/>
+    <text x="-30" y="120" font-family="Arial" font-size="20">Plano</text>
+  </g>
+
+  <!-- Flecha Transformación -->
+  <path d="M320,200 L400,200 L480,200" stroke="#333" stroke-width="5" marker-end="url(#arrow)"/>
+  <polygon points="480,200 460,190 460,210" fill="#333"/>
+  <text x="350" y="180" fill="#fab005" font-weight="bold">¡Magia!</text>
+
+  <!-- 3D Sphere -->
+  <g transform="translate(600, 200)">
+    <circle cx="0" cy="0" r="80" fill="#748ffc"/>
+    <path d="M-80,0 A80,80 0 0,1 80,0 A80,80 0 0,1 -80,0 Z" fill="url(#grad1)"/> 
+    <!-- Simulación de degradado con capas -->
+    <circle cx="-30" cy="-30" r="20" fill="#fff" opacity="0.6"/> <!-- Brillo -->
+    <path d="M20,60 Q50,70 70,30" fill="none" stroke="#333" stroke-width="0" /> <!-- Sombra insinuada -->
+    <ellipse cx="0" cy="90" rx="80" ry="10" fill="#000" opacity="0.2"/> <!-- Sombra piso -->
+    <text x="-30" y="130" font-family="Arial" font-size="20">3D</text>
+  </g>
+
+</svg>

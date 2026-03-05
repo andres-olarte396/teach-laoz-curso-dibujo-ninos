@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#fff4e6" />
+
+  <!-- Dragón -->
+  <!-- Cuerpo (Reptil) -->
+  <path d="M200,250 Q300,350 500,300 Q600,250 550,150" fill="#40c057" stroke="#2b8a3e" stroke-width="3"/>
+  <!-- Cola -->
+  <path d="M200,250 Q100,250 50,300" fill="none" stroke="#40c057" stroke-width="20" stroke-linecap="round"/>
+  <polygon points="40,300 20,280 60,280" fill="#fa5252"/> <!-- Punta Flecha -->
+
+  <!-- Alas (Murciélago) -->
+  <path d="M450,250 Q500,100 650,150 Q600,200 550,200 Q500,200 450,250" fill="#be4bdb" opacity="0.8"/>
+  <line x1="450" y1="250" x2="500" y2="150" stroke="#862e9c" stroke-width="3"/> <!-- Hueso -->
+
+  <!-- Cabeza (Dinosaurio) -->
+  <path d="M550,150 Q600,100 650,150 L650,180 L580,200 Z" fill="#40c057"/>
+  <circle cx="600" cy="140" r="5" fill="#fff"/>
+  <circle cx="600" cy="140" r="2" fill="#000"/> <!-- Ojo -->
+  
+  <!-- Fuego -->
+  <path d="M650,180 Q700,180 750,150 Q720,200 700,220" fill="#ff922b" opacity="0.8"/>
+
+  <text x="50" y="50" font-family="Arial" font-size="20" fill="#868e96">Reptil + Ave + Fuego = Dragón</text>
+</svg>

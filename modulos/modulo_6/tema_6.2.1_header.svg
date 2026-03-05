@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#f1f3f5" />
+
+  <!-- Base del Subibaja -->
+  <polygon points="380,350 420,350 400,300" fill="#333"/>
+  
+  <!-- Tabla -->
+  <rect x="100" y="300" width="600" height="10" fill="#865439" transform="rotate(5 400 305)"/>
+
+  <!-- Objeto Grande Pesado (Izquierda) -->
+  <rect x="150" y="220" width="80" height="80" fill="#e03131" transform="rotate(5 190 300)"/> <!-- Cubo Rojo -->
+  <text x="170" y="270" font-family="Arial" font-size="30" fill="#fff" transform="rotate(5 190 300)">1</text>
+
+  <!-- Objetos Pequeños (Derecha - Equilibrio) -->
+  <circle cx="600" cy="270" r="20" fill="#339af0" transform="translate(0 20)"/> 
+  <circle cx="650" cy="270" r="20" fill="#339af0" transform="translate(0 15)"/> 
+  <circle cx="550" cy="270" r="20" fill="#339af0" transform="translate(0 25)"/> 
+  <text x="590" y="280" font-family="Arial" font-size="20" fill="#fff">Muchos</text>
+
+  <!-- Flechas de Peso -->
+  <path d="M190,150 L190,200 L180,190 M190,200 L200,190" stroke="#333" stroke-width="5"/>
+  <path d="M600,150 L600,200 L590,190 M600,200 L610,190" stroke="#333" stroke-width="5"/>
+
+</svg>

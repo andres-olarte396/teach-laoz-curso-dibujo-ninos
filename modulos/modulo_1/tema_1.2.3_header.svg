@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#fff9db" />
+
+  <!-- Gato (Círculos y Triángulos) -->
+  <g transform="translate(200, 200)">
+    <circle cx="0" cy="50" r="60" fill="#fab005"/> <!-- Cuerpo -->
+    <circle cx="0" cy="-30" r="40" fill="#ffd43b"/> <!-- Cabeza -->
+    
+    <polygon points="-30,-60 -10,-60 -35,-90" fill="#ffd43b"/> <!-- Oreja -->
+    <polygon points="30,-60 10,-60 35,-90" fill="#ffd43b"/> <!-- Oreja -->
+    
+    <circle cx="-15" cy="-40" r="5" fill="#333"/>
+    <circle cx="15" cy="-40" r="5" fill="#333"/>
+    <polygon points="-5,-30 5,-30 0,-20" fill="#e67700"/> <!-- Nariz -->
+    
+    <path d="M0,50 Q20,20 60,30" fill="none" stroke="#fab005" stroke-width="10" stroke-linecap="round"/> <!-- Cola -->
+    <text x="-40" y="140" font-family="Arial" font-size="20">Gato (Círculos)</text>
+  </g>
+
+  <!-- Cerdo (Ovals y Rectángulos) -->
+  <g transform="translate(600, 200)">
+    <ellipse cx="0" cy="50" rx="70" ry="50" fill="#ffc9c9"/> <!-- Cuerpo -->
+    <circle cx="-50" cy="20" r="35" fill="#ffc9c9"/> <!-- Cabeza -->
+    
+    <polygon points="-70,0 -80,-20 -50,-10" fill="#ffc9c9"/> <!-- Oreja -->
+    <polygon points="-30,0 -20,-20 -50,-10" fill="#ffc9c9"/> <!-- Oreja -->
+    
+    <circle cx="-60" cy="15" r="3" fill="#333"/>
+    <circle cx="-40" cy="15" r="3" fill="#333"/>
+    <ellipse cx="-50" cy="25" rx="10" ry="8" fill="#e64980"/> <!-- Hocico -->
+
+    <rect x="-30" y="80" width="15" height="40" fill="#ffc9c9"/> <!-- Pata -->
+    <rect x="20" y="80" width="15" height="40" fill="#ffc9c9"/> <!-- Pata -->
+    
+    <text x="-40" y="140" font-family="Arial" font-size="20">Cerdito (Óvalos)</text>
+  </g>
+
+</svg>

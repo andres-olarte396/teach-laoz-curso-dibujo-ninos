@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#fff5f5" />
+
+  <!-- Stickman Corriendo (Esqueleto) -->
+  <g transform="translate(150, 100)">
+    <circle cx="50" cy="20" r="15" fill="none" stroke="#fa5252" stroke-width="4"/>
+    <line x1="50" y1="35" x2="50" y2="100" stroke="#fa5252" stroke-width="4"/> <!-- Columna -->
+    <line x1="50" y1="50" x2="80" y2="80" stroke="#fa5252" stroke-width="4"/> <!-- Brazo 1 -->
+    <line x1="50" y1="50" x2="20" y2="30" stroke="#fa5252" stroke-width="4"/> <!-- Brazo 2 -->
+    <line x1="50" y1="100" x2="80" y2="140" stroke="#fa5252" stroke-width="4"/> <!-- Pierna 1 -->
+    <line x1="50" y1="100" x2="20" y2="120" stroke="#fa5252" stroke-width="4"/> <!-- Pierna 2 -->
+  </g>
+
+  <!-- Flecha de Evolución -->
+  <path d="M300,150 L350,150 L340,140 M350,150 L340,160" stroke="#333" stroke-width="5" opacity="0.5"/>
+
+  <!-- Figura Completa Corriendo (Carne) -->
+  <g transform="translate(450, 100)">
+    <ellipse cx="50" cy="20" rx="15" ry="18" fill="#20c997"/> <!-- Cabeza -->
+    <rect x="35" y="35" width="30" height="65" fill="#20c997" rx="10"/> <!-- Cuerpo -->
+    
+    <rect x="60" y="50" width="40" height="15" fill="#20c997" rx="5" transform="rotate(45 60 50)"/> <!-- Brazo 1 -->
+    <rect x="10" y="30" width="40" height="15" fill="#20c997" rx="5" transform="rotate(-45 10 30)"/> <!-- Brazo 2 -->
+    
+    <rect x="60" y="100" width="50" height="15" fill="#20c997" rx="5" transform="rotate(60 60 100)"/> <!-- Pierna 1 -->
+    <rect x="20" y="100" width="40" height="15" fill="#20c997" rx="5" transform="rotate(120 20 100)"/> <!-- Pierna 2 -->
+
+    <!-- Líneas de velocidad -->
+    <line x1="-20" y1="80" x2="20" y2="80" stroke="#333" stroke-width="2"/>
+    <line x1="-30" y1="100" x2="10" y2="100" stroke="#333" stroke-width="2"/>
+  </g>
+
+</svg>

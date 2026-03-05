@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#e3fafc" />
+
+  <!-- Feliz -->
+  <g transform="translate(100, 100)">
+    <circle cx="50" cy="50" r="50" fill="#ffd43b"/>
+    <circle cx="30" cy="40" r="5" fill="#333"/>
+    <circle cx="70" cy="40" r="5" fill="#333"/>
+    <path d="M25,60 Q50,90 75,60" fill="none" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <!-- Triste -->
+  <g transform="translate(250, 100)">
+    <circle cx="50" cy="50" r="50" fill="#74c0fc"/>
+    <circle cx="30" cy="40" r="5" fill="#333"/>
+    <circle cx="70" cy="40" r="5" fill="#333"/>
+    <path d="M25,80 Q50,50 75,80" fill="none" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+    <path d="M70,50 L70,70" stroke="#339af0" stroke-width="2"/> <!-- Lágrima -->
+  </g>
+
+  <!-- Enojado -->
+  <g transform="translate(400, 100)">
+    <circle cx="50" cy="50" r="50" fill="#ff6b6b"/>
+    <circle cx="30" cy="50" r="5" fill="#333"/>
+    <circle cx="70" cy="50" r="5" fill="#333"/>
+    <line x1="20" y1="30" x2="45" y2="45" stroke="#333" stroke-width="4"/> <!-- Ceja -->
+    <line x1="80" y1="30" x2="55" y2="45" stroke="#333" stroke-width="4"/> <!-- Ceja -->
+    <line x1="30" y1="80" x2="70" y2="80" stroke="#333" stroke-width="4"/> <!-- Boca recta -->
+  </g>
+
+  <!-- Sorprendido -->
+  <g transform="translate(550, 100)">
+    <circle cx="50" cy="50" r="50" fill="#b197fc"/>
+    <circle cx="30" cy="40" r="5" fill="#333"/>
+    <circle cx="70" cy="40" r="5" fill="#333"/>
+    <circle cx="50" cy="75" r="10" fill="#333"/> <!-- Boca O -->
+  </g>
+
+  <text x="350" y="300" font-family="Arial" font-size="24" fill="#333">¡Tantas Emociones!</text>
+</svg>

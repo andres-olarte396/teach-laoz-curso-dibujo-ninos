@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#fff5f5" />
+
+  <!-- Caballete -->
+  <rect x="380" y="50" width="40" height="300" fill="#ae3ec9" /> <!-- Pata central -->
+  <path d="M300,350 L400,100 L500,350" fill="none" stroke="#862e9c" stroke-width="15" stroke-linecap="round"/>
+
+  <!-- Lienzo en proceso -->
+  <rect x="250" y="100" width="300" height="200" fill="#fff" stroke="#333" stroke-width="5"/>
+  <!-- Obra llena de color -->
+  <circle cx="400" cy="200" r="80" fill="#ffdeeb" />
+  <circle cx="400" cy="200" r="60" fill="#fcc2d7" />
+  <circle cx="400" cy="200" r="40" fill="#f06595" />
+  <path d="M250,300 L550,300 L400,100 Z" fill="none" stroke="#fab005" stroke-width="5" opacity="0.5"/>
+
+  <!-- Paleta de pintor -->
+  <ellipse cx="650" cy="300" rx="80" ry="60" fill="#e9ecef" stroke="#ced4da" stroke-width="2"/>
+  <circle cx="620" cy="280" r="15" fill="#ff0000" />
+  <circle cx="650" cy="270" r="15" fill="#ffff00" />
+  <circle cx="680" cy="280" r="15" fill="#0000ff" />
+  <circle cx="630" cy="310" r="15" fill="#00ff00" />
+  <!-- Pincel -->
+  <path d="M680,320 L750,380" stroke="#e67700" stroke-width="10" stroke-linecap="round"/>
+  <path d="M670,310 L690,330" stroke="#333" stroke-width="15"/> <!-- Pelos -->
+
+  <!-- Brillos mágicos -->
+  <path d="M200,100 L220,120 M220,100 L200,120" stroke="#ffd43b" stroke-width="5"/>
+  <path d="M600,80 L620,100 M620,80 L600,100" stroke="#ffd43b" stroke-width="5"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#e7f5ff" />
+
+  <!-- Fondo pintado de acuarela (Manchas) -->
+  <path d="M50,50 Q200,300 400,100 T750,300" fill="none" stroke="#1c7ed6" stroke-width="150" opacity="0.5" stroke-linecap="round"/>
+  
+  <!-- Estrellas de cera (Resistencia - Blancas) -->
+  <g transform="translate(200, 150)">
+    <polygon points="0,-20 6,-6 20,-6 10,4 14,20 0,10 -14,20 -10,4 -20,-6 -6,-6" fill="#fff" stroke="none"/>
+  </g>
+  <g transform="translate(450, 250)">
+    <polygon points="0,-30 8,-8 30,-8 14,8 20,30 0,16 -20,30 -14,8 -30,-8 -8,-8" fill="#fff" stroke="none"/>
+  </g>
+  <g transform="translate(600, 100)">
+    <circle cx="0" cy="0" r="15" fill="#fff" stroke="none"/>
+  </g>
+
+  <!-- Crayón Blanco -->
+  <rect x="100" y="300" width="120" height="30" fill="#ced4da" transform="rotate(-45 160 315)"/>
+  <polygon points="100,300 100,330 80,315" fill="#fff" transform="rotate(-45 160 315)"/> <!-- Punta -->
+
+  <!-- Pincel con pintura azul -->
+  <rect x="700" y="50" width="20" height="150" fill="#d0ebff" transform="rotate(30)"/>
+  <path d="M700,200 Q720,230 740,200" fill="#1864ab" transform="rotate(30)"/> <!-- Pelos mojados -->
+  
+  <!-- Gotas de agua -->
+  <circle cx="500" cy="300" r="5" fill="#1c7ed6"/>
+  <circle cx="520" cy="280" r="8" fill="#1c7ed6"/>
+</svg>

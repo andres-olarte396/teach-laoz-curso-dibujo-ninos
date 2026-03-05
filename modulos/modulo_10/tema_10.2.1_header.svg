@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#d8f5a2" /> <!-- Cielo Verde -->
+
+  <!-- Montañas Moradas -->
+  <path d="M0,300 L200,150 L400,300 L600,200 L800,400 L0,400" fill="#9c36b5"/>
+  
+  <!-- Árboles Alienígenas (Hongos) -->
+  <rect x="100" y="250" width="20" height="100" fill="#f06595"/>
+  <path d="M80,250 Q110,200 140,250" fill="#a61e4d"/> <!-- Copa -->
+
+  <rect x="650" y="280" width="15" height="80" fill="#22b8cf"/>
+  <circle cx="658" cy="280" r="30" fill="#0b7285" opacity="0.8"/> <!-- Copa Esférica -->
+
+  <!-- Rocas flotantes -->
+  <polygon points="300,100 320,80 340,110 310,120" fill="#495057"/>
+  <polygon points="500,80 530,60 550,90 520,100" fill="#495057"/>
+
+  <!-- Soles Extraños -->
+  <circle cx="100" cy="80" r="40" fill="#e67700"/>
+  <circle cx="150" cy="100" r="20" fill="#fd7e14" opacity="0.8"/>
+</svg>

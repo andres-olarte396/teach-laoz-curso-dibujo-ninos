@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#f8f9fa" />
+
+  <!-- Ecuación de Color 1 -->
+  <g transform="translate(100, 100)">
+    <circle cx="50" cy="50" r="40" fill="#fa5252"/> <!-- Rojo -->
+    <text x="110" y="65" font-size="40" fill="#333">+</text>
+    <circle cx="180" cy="50" r="40" fill="#ffd43b"/> <!-- Amarillo -->
+    <text x="240" y="65" font-size="40" fill="#333">=</text>
+    <circle cx="310" cy="50" r="50" fill="#fd7e14"/> <!-- Naranja -->
+  </g>
+
+  <!-- Ecuación de Color 2 -->
+  <g transform="translate(100, 250)">
+    <circle cx="50" cy="50" r="40" fill="#228be6"/> <!-- Azul -->
+    <text x="110" y="65" font-size="40" fill="#333">+</text>
+    <circle cx="180" cy="50" r="40" fill="#ffd43b"/> <!-- Amarillo -->
+    <text x="240" y="65" font-size="40" fill="#333">=</text>
+    <circle cx="310" cy="50" r="50" fill="#40c057"/> <!-- Verde -->
+  </g>
+  
+  <rect x="550" y="100" width="200" height="200" fill="#fff" stroke="#333" stroke-width="2" rx="10"/>
+  <text x="600" y="210" font-family="Arial" font-size="24" fill="#333">¡Magia!</text>
+
+</svg>

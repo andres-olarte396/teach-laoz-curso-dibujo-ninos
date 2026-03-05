@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#fff5f5" />
+
+  <!-- Garabato Sin Forma -->
+  <g transform="translate(150, 200)">
+    <path d="M0,0 Q50,-50 20,50 Q-20,100 40,80 Q80,60 0,0" stroke="#333" stroke-width="3" fill="none"/>
+    <text x="-20" y="120" font-family="Arial" font-size="20">Garabato</text>
+  </g>
+
+  <!-- Flecha Transformación -->
+  <path d="M250,200 L350,200" stroke="#fa5252" stroke-width="4" marker-end="url(#arrow)"/>
+  <polygon points="350,200 340,190 340,210" fill="#fa5252"/>
+
+  <!-- Garabato con Ojos y Pico (Pájaro) -->
+  <g transform="translate(500, 200)">
+    <path d="M0,0 Q50,-50 20,50 Q-20,100 40,80 Q80,60 0,0" stroke="#333" stroke-width="3" fill="#ffec99"/>
+    
+    <!-- Detalles añadidos -->
+    <circle cx="20" cy="10" r="5" fill="#333"/> <!-- Ojo -->
+    <polygon points="40,20 60,10 40,30" fill="#e67700"/> <!-- Pico -->
+    <line x1="20" y1="60" x2="20" y2="90" stroke="#333" stroke-width="2"/> <!-- Pata -->
+    <line x1="30" y1="65" x2="40" y2="90" stroke="#333" stroke-width="2"/> <!-- Pata -->
+    
+    <text x="-10" y="120" font-family="Arial" font-size="20">¡Pájaro!</text>
+  </g>
+
+</svg>

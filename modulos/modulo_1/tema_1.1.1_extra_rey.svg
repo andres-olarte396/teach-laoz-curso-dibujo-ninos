@@ -1,0 +1,18 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #E8F5E9; }
+    .circle { fill: none; stroke: #43A047; stroke-width: 6; }
+    .crown { fill: #FFC107; stroke: #FF8F00; stroke-width: 2; }
+    .face { fill: #FFF; }
+    .eye { fill: #333; }
+    .smile { fill: none; stroke: #333; stroke-width: 2; }
+  </style>
+  <rect width="400" height="300" class="bg"/>
+  <g transform="translate(200,150)">
+    <circle cx="0" cy="0" r="70" class="circle"/>
+    <circle cx="-20" cy="-10" r="8" class="eye"/>
+    <circle cx="20" cy="-10" r="8" class="eye"/>
+    <path d="M -25 15 Q 0 35, 25 15" class="smile"/>
+    <polygon points="-40,-60 0,-90 40,-60 25,-60 0,-75 -25,-60" class="crown"/>
+  </g>
+</svg>

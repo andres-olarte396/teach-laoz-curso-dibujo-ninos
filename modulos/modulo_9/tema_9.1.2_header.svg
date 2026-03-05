@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#fff3bf" /> <!-- Sabana -->
+
+  <!-- Sol Africano -->
+  <circle cx="700" cy="300" r="100" fill="#ff922b" /> 
+  <rect x="0" y="350" width="800" height="50" fill="#fcc419" opacity="0.5"/>
+
+  <!-- Elefante -->
+  <g transform="translate(100, 150)">
+    <rect x="50" y="100" width="100" height="80" fill="#adb5bd" rx="10"/> <!-- Cuerpo -->
+    <rect x="50" y="180" width="20" height="50" fill="#adb5bd"/> <!-- Pata -->
+    <rect x="130" y="180" width="20" height="50" fill="#adb5bd"/> <!-- Pata -->
+    
+    <circle cx="50" cy="110" r="50" fill="#ced4da"/> <!-- Cabeza -->
+    <circle cx="50" cy="100" r="5" fill="#333"/> <!-- Ojo -->
+    <path d="M30,140 Q50,200 80,180" fill="none" stroke="#ced4da" stroke-width="20" stroke-linecap="round"/> <!-- Trompa -->
+    <path d="M0,80 Q-30,110 0,140 Z" fill="#ced4da"/> <!-- Oreja -->
+  </g>
+
+  <!-- León -->
+  <g transform="translate(450, 180)">
+    <circle cx="100" cy="100" r="50" fill="#fab005"/> <!-- Cara -->
+    <circle cx="100" cy="100" r="70" fill="none" stroke="#e67700" stroke-width="15" stroke-dasharray="10,5"/> <!-- Melena -->
+    
+    <rect x="80" y="150" width="80" height="60" fill="#fab005"/> <!-- Cuerpo sentado -->
+    <circle cx="85" cy="90" r="5" fill="#333"/>
+    <circle cx="115" cy="90" r="5" fill="#333"/>
+    <path d="M100,110 L90,120 L110,120 Z" fill="#333"/> <!-- Nariz -->
+  </g>
+
+</svg>

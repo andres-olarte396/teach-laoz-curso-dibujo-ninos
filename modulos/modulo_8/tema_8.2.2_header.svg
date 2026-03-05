@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#fff9db" />
+
+  <!-- Espejo -->
+  <rect x="250" y="50" width="300" height="300" fill="#dee2e6" stroke="#862e9c" stroke-width="10" rx="20"/>
+  <path d="M260,60 L540,60 L540,340 L260,340 Z" fill="#f1f3f5" opacity="0.5"/> <!-- Reflejo vidrio -->
+  <path d="M280,80 L320,120 M300,80 L340,120" stroke="#fff" stroke-width="5" opacity="0.6"/> <!-- Brillo -->
+
+  <!-- Reflejo del Niño -->
+  <g transform="translate(350, 100)">
+    <circle cx="50" cy="50" r="40" fill="#ffec99"/> <!-- Cara -->
+    <path d="M10,50 Q10,10 50,10 Q90,10 90,50" fill="#495057"/> <!-- Pelo -->
+    <rect x="20" y="90" width="60" height="80" fill="#339af0"/> <!-- Camisa -->
+  </g>
+
+  <!-- Niño Real (de espaldas) -->
+  <g transform="translate(300, 280)">
+    <path d="M50,120 Q100,20 150,120" fill="#495057"/> <!-- Cabeza Pelo -->
+    <rect x="60" y="120" width="80" height="100" fill="#1c7ed6"/> <!-- Camisa espalda -->
+    <!-- Mano dibujando -->
+    <rect x="150" y="150" width="60" height="20" fill="#ffec99" transform="rotate(-30)"/>
+    <path d="M200,120 L220,100" stroke="#fa5252" stroke-width="5"/> <!-- Lápiz -->
+  </g>
+  
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#e9ecef" />
+  
+  <line x1="0" y1="350" x2="800" y2="350" stroke="#adb5bd" stroke-width="2"/> <!-- Suelo -->
+
+  <!-- Elefante (Grande) -->
+  <g transform="translate(100, 100)">
+    <path d="M50,150 Q10,150 10,200 L10,300 L50,300 L50,250 L150,250 L150,300 L190,300 L190,150 Q200,50 100,50 Q50,50 50,150" fill="#adb5bd"/>
+    <circle cx="80" cy="100" r="5" fill="#333"/> <!-- Ojo -->
+    <path d="M50,150 Q30,150 20,220" stroke="#adb5bd" stroke-width="20" fill="none" stroke-linecap="round"/> <!-- Trompa -->
+    <path d="M100,80 Q140,50 140,120 Q110,140 100,80" fill="#ced4da"/> <!-- Oreja -->
+    
+    <text x="50" y="-20" font-family="Arial" font-size="30" fill="#333">GRANDE</text>
+  </g>
+
+  <!-- Ratón (Pequeño) -->
+  <g transform="translate(500, 300)">
+    <path d="M0,50 Q10,30 30,30 Q60,30 60,50" fill="#868e96"/> <!-- Cuerpo ratón -->
+    <circle cx="50" cy="50" r="3" fill="#333"/>
+    <circle cx="20" cy="30" r="10" fill="#868e96"/> <!-- Oreja -->
+    <line x1="60" y1="50" x2="80" y2="40" stroke="#333" stroke-width="1"/> <!-- Bigotes -->
+    <path d="M0,50 Q-20,40 -30,60" fill="none" stroke="#868e96" stroke-width="2"/> <!-- Cola -->
+    
+    <text x="-10" y="20" font-family="Arial" font-size="20" fill="#333">PEQUEÑO</text>
+  </g>
+
+  <!-- Flechas de Comparación -->
+  <line x1="200" y1="180" x2="480" y2="320" stroke="#fa5252" stroke-width="3" stroke-dasharray="10,5"/>
+
+</svg>

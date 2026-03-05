@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#f8f0fc" />
+
+  <!-- Perro (Formas simples) -->
+  <g transform="translate(150, 150)">
+    <rect x="50" y="80" width="90" height="60" fill="#ae3ec9" rx="10"/> <!-- Cuerpo -->
+    <rect x="50" y="140" width="15" height="40" fill="#ae3ec9"/> <!-- Pata -->
+    <rect x="120" y="140" width="15" height="40" fill="#ae3ec9"/> <!-- Pata -->
+    
+    <circle cx="50" cy="60" r="40" fill="#9c36b5"/> <!-- Cabeza -->
+    <ellipse cx="20" cy="80" rx="10" ry="30" fill="#862e9c" transform="rotate(-20)"/> <!-- Oreja -->
+    <ellipse cx="80" cy="80" rx="10" ry="30" fill="#862e9c" transform="rotate(20)"/> <!-- Oreja -->
+    
+    <circle cx="40" cy="50" r="5" fill="#fff"/> <circle cx="40" cy="50" r="2" fill="#000"/>
+    <circle cx="60" cy="50" r="5" fill="#fff"/> <circle cx="60" cy="50" r="2" fill="#000"/>
+    <circle cx="50" cy="70" r="8" fill="#333"/> <!-- Nariz -->
+    <path d="M50,70 L50,80 M40,80 Q50,90 60,80" stroke="#333" stroke-width="2" fill="none"/> <!-- Boca -->
+
+    <path d="M140,80 Q160,50 150,90" stroke="#ae3ec9" stroke-width="5" fill="none"/> <!-- Cola -->
+  </g>
+
+  <!-- Gato -->
+  <g transform="translate(450, 160)">
+    <circle cx="100" cy="150" r="50" fill="#fd7e14"/> <!-- Cuerpo bola -->
+    <circle cx="100" cy="80" r="35" fill="#ff922b"/> <!-- Cabeza -->
+    
+    <polygon points="70,60 80,30 95,50" fill="#ff922b"/> <!-- Oreja -->
+    <polygon points="130,60 120,30 105,50" fill="#ff922b"/> <!-- Oreja -->
+    
+    <circle cx="90" cy="80" r="3" fill="#333"/>
+    <circle cx="110" cy="80" r="3" fill="#333"/>
+    <polygon points="95,90 105,90 100,100" fill="#fa5252"/> <!-- Nariz -->
+    
+    <path d="M50,150 Q20,100 50,80" stroke="#fd7e14" stroke-width="8" stroke-linecap="round" fill="none"/> <!-- Cola elegante -->
+    
+    <line x1="120" y1="90" x2="160" y2="80" stroke="#333" stroke-width="1"/> <!-- Bigotes -->
+    <line x1="120" y1="95" x2="160" y2="100" stroke="#333" stroke-width="1"/>
+    <line x1="80" y1="90" x2="40" y2="80" stroke="#333" stroke-width="1"/>
+    <line x1="80" y1="95" x2="40" y2="100" stroke="#333" stroke-width="1"/>
+  </g>
+
+</svg>

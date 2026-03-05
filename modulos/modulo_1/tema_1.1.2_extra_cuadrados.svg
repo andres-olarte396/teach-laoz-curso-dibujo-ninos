@@ -1,0 +1,60 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <style>
+    .bg { fill: #D4E6F1; }
+    .square-friend { fill: #F5B041; stroke: #AF640C; stroke-width: 3; }
+    .rect-friend { fill: #58D68D; stroke: #1E8449; stroke-width: 3; }
+    .eye { fill: white; }
+    .pupil { fill: #333; }
+    .mouth { fill: none; stroke: #333; stroke-width: 2; stroke-linecap: round; }
+    .arm { stroke: #333; stroke-width: 2; }
+    .leg { stroke: #333; stroke-width: 2; }
+    .hat { fill: #E74C3C; }
+    .bowtie { fill: #8E44AD; }
+  </style>
+
+  <!-- Fondo -->
+  <rect width="400" height="300" class="bg"/>
+
+  <!-- Amigo Cuadrado -->
+  <g transform="translate(80, 100)">
+    <!-- Cuerpo -->
+    <rect x="0" y="0" width="100" height="100" rx="10" class="square-friend"/>
+    <!-- Ojos -->
+    <circle cx="30" cy="35" r="10" class="eye"/>
+    <circle cx="70" cy="35" r="10" class="eye"/>
+    <circle cx="33" cy="35" r="4" class="pupil"/>
+    <circle cx="73" cy="35" r="4" class="pupil"/>
+    <!-- Boca -->
+    <path d="M 35 65 Q 50 80 65 65" class="mouth"/>
+    <!-- Sombrero -->
+    <path d="M 20 0 Q 50 -30 80 0 Z" class="hat"/>
+    <rect x="10" y="-5" width="80" height="10" class="hat"/>
+     <!-- Brazos y Piernas -->
+    <line x1="-20" y1="50" x2="0" y2="60" class="arm"/>
+    <line x1="100" y1="60" x2="120" y2="50" class="arm"/>
+    <line x1="30" y1="100" x2="20" y2="130" class="leg"/>
+    <line x1="70" y1="100" x2="80" y2="130" class="leg"/>
+  </g>
+
+  <!-- Amigo Rectángulo -->
+  <g transform="translate(220, 80)">
+    <!-- Cuerpo -->
+    <rect x="0" y="0" width="80" height="140" rx="10" class="rect-friend"/>
+    <!-- Ojos -->
+    <circle cx="25" cy="40" r="10" class="eye"/>
+    <circle cx="55" cy="40" r="10" class="eye"/>
+    <circle cx="22" cy="42" r="4" class="pupil" transform="rotate(-15 22 42)"/>
+    <circle cx="52" cy="42" r="4" class="pupil" transform="rotate(-15 52 42)"/>
+    <!-- Boca -->
+    <path d="M 25 70 C 35 60, 45 60, 55 70" class="mouth"/>
+    <!-- Pajarita -->
+    <polygon points="40,85 30,80 30,90" class="bowtie"/>
+    <polygon points="40,85 50,80 50,90" class="bowtie"/>
+     <!-- Brazos y Piernas -->
+    <line x1="-15" y1="70" x2="0" y2="80" class="arm"/>
+    <line x1="80" y1="80" x2="95" y2="70" class="arm"/>
+    <line x1="25" y1="140" x2="15" y2="170" class="leg"/>
+    <line x1="55" y1="140" x2="65" y2="170" class="leg"/>
+  </g>
+  
+</svg>

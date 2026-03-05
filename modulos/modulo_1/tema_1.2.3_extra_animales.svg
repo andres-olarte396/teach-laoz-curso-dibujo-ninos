@@ -1,0 +1,26 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #E8F5E9; }
+    .cat { fill: #FFAB91; }
+    .fish { fill: #4FC3F7; }
+    .bird { fill: #AED581; }
+  </style>
+  <rect width="400" height="300" class="bg"/>
+  <!-- Gato hecho con círculos y triángulos -->
+  <g transform="translate(80,160)">
+    <circle cx="0" cy="0" r="30" class="cat"/>
+    <circle cx="0" cy="35" r="25" class="cat"/>
+    <polygon points="-20,-20 0,-40 20,-20" class="cat"/>
+  </g>
+  <!-- Pez hecho con círculos y triángulos -->
+  <g transform="translate(250,180)">
+    <circle cx="0" cy="0" r="22" class="fish"/>
+    <polygon points="20,0 45,15 45,-15" class="fish"/>
+  </g>
+  <!-- Ave hecha con círculos y triángulos -->
+  <g transform="translate(300,80)">
+    <circle cx="0" cy="0" r="15" class="bird"/>
+    <polygon points="-15,5 -35,0 -15,-5" class="bird"/>
+    <polygon points="15,5 35,0 15,-5" class="bird"/>
+  </g>
+</svg>

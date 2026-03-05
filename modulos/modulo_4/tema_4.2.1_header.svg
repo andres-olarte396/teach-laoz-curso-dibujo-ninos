@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#fff5f5" />
+
+  <!-- Sol Ardiente -->
+  <circle cx="700" cy="80" r="50" fill="#ffe066" stroke="#fcc419" stroke-width="5"/>
+  <g transform="translate(700, 80)">
+     <line x1="0" y1="-70" x2="0" y2="-90" stroke="#fcc419" stroke-width="5"/>
+     <line x1="0" y1="70" x2="0" y2="90" stroke="#fcc419" stroke-width="5"/>
+     <line x1="-70" y1="0" x2="-90" y2="0" stroke="#fcc419" stroke-width="5"/>
+     <line x1="70" y1="0" x2="90" y2="0" stroke="#fcc419" stroke-width="5"/>
+     <line x1="50" y1="-50" x2="65" y2="-65" stroke="#fcc419" stroke-width="5"/>
+     <line x1="-50" y1="50" x2="-65" y2="65" stroke="#fcc419" stroke-width="5"/>
+     <line x1="50" y1="50" x2="65" y2="65" stroke="#fcc419" stroke-width="5"/>
+     <line x1="-50" y1="-50" x2="-65" y2="-65" stroke="#fcc419" stroke-width="5"/>
+  </g>
+
+  <!-- Volcanes (Fondo) -->
+  <path d="M100,350 L250,150 L400,350" fill="#ff6b6b"/>
+  <path d="M250,150 L230,180 L250,200 L270,180 Z" fill="#fff"/> <!-- Nieve/Ceniza -->
+  <path d="M250,150 Q250,100 280,80" stroke="#adb5bd" stroke-width="2" stroke-dasharray="5,5" fill="none"/> <!-- Humo -->
+  
+  <path d="M500,350 L650,200 L800,350" fill="#fa5252"/>
+  
+  <!-- Suelo de Lava -->
+  <rect x="0" y="350" width="800" height="50" fill="#e03131"/>
+  <path d="M0,360 Q200,380 400,360 Q600,340 800,360" fill="none" stroke="#fab005" stroke-width="10"/>
+
+  <!-- Fuego -->
+  <g transform="translate(450, 320)">
+    <path d="M0,30 Q10,0 20,30 Q30,0 40,30" fill="#fcc419" stroke="#e67700" stroke-width="2"/>
+    <path d="M10,30 Q20,10 30,30" fill="#ff922b"/>
+  </g>
+
+  <text x="50" y="80" font-family="Arial" font-size="30" fill="#c92a2a" font-weight="bold">PLANETA FUEGO</text>
+  <text x="50" y="110" font-family="Arial" font-size="20" fill="#c92a2a">Rojo, Naranja, Amarillo</text>
+
+</svg>

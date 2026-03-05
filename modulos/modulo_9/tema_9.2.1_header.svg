@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#e9fac8" /> <!-- Fondo Bosque Claro -->
+
+  <!-- Árbol 1. Pino (Triángulos) -->
+  <rect x="150" y="300" width="20" height="60" fill="#5c3a21"/>
+  <polygon points="100,300 220,300 160,200" fill="#2f9e44"/>
+  <polygon points="110,220 210,220 160,140" fill="#37b24d"/>
+  <polygon points="120,150 200,150 160,80" fill="#40c057"/>
+
+  <!-- Árbol 2: Roble (Círculos/Nube) -->
+  <rect x="400" y="250" width="40" height="110" fill="#865439"/>
+  <path d="M400,250 L400,200 L350,180" stroke="#865439" stroke-width="10" stroke-linecap="round"/> <!-- Rama Y -->
+  <path d="M400,220 L450,180" stroke="#865439" stroke-width="10" stroke-linecap="round"/> <!-- Rama Y -->
+  
+  <circle cx="350" cy="180" r="50" fill="#51cf66" opacity="0.9"/>
+  <circle cx="450" cy="180" r="60" fill="#40c057" opacity="0.9"/>
+  <circle cx="400" cy="120" r="60" fill="#2b8a3e" opacity="0.9"/>
+
+  <!-- Arbustos -->
+  <path d="M600,360 Q630,300 660,360 Z" fill="#20c997"/> 
+  <path d="M650,360 Q680,310 710,360 Z" fill="#0ca678"/>
+
+  <!-- Suelo -->
+  <rect x="0" y="360" width="800" height="40" fill="#8ce99a"/>
+</svg>

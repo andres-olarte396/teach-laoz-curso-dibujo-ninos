@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#e7f5ff" />
+  
+  <!-- Mesa -->
+  <rect x="0" y="250" width="800" height="150" fill="#ced4da"/>
+
+  <!-- Sombra Proyectada (Fantasma) -->
+  <ellipse cx="500" cy="280" rx="120" ry="40" fill="#343a40" opacity="0.6"/> <!-- Sombra alargada -->
+  <text x="600" y="300" font-family="Arial" font-size="20" fill="#495057">Sombra Fantasma</text>
+
+  <!-- Objeto (Esfera) -->
+  <circle cx="350" cy="200" r="80" fill="#339af0"/>
+  <circle cx="320" cy="170" r="20" fill="#fff" opacity="0.4"/> <!-- Brillo -->
+  
+  <!-- Sol/Luz fuente -->
+  <circle cx="100" cy="50" r="30" fill="#ffd43b" />
+  <line x1="100" y1="50" x2="350" y2="200" stroke="#ffd43b" stroke-width="2" stroke-dasharray="10,10"/> <!-- Rayo de luz -->
+
+  <!-- Flecha indicando la sombra -->
+  <path d="M550,320 Q500,350 450,280" fill="none" stroke="#fa5252" stroke-width="4"/>
+  <polygon points="450,280 460,290 470,270" fill="#fa5252"/>
+
+</svg>
